@@ -43,7 +43,7 @@ Nugets to be installed : Windows Azure Mobile Services, Windows Azure Mobile Ser
 	-Finds the BMI based on height and weight Input
 	
 10. Web Portal
-	-a web portal through which a patient's medical history an be viewed
+	-a web portal which allows patient's medical history to be viewed
 	-a unique username and password for each patient
 	
 
