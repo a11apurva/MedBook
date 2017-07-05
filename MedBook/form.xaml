@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="UI_try_1.form"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UI_try_1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+Background="#FFF9FBFD">
+    <ScrollViewer Background="#FFF9FBFD" Height="667" VerticalAlignment="Top" VerticalScrollBarVisibility="Visible" VerticalScrollMode="Enabled" AllowDrop="False" BringIntoViewOnFocusChange="True" HorizontalScrollMode="Disabled" IsHoldingEnabled="True" Margin="0,-26.667,0,-0.333" >
+        <Grid Height="872">
+
+
+
+            <Border  BorderThickness="0" HorizontalAlignment="Stretch" Height="120" Background="#FFABB8F5" VerticalAlignment="Top">
+                <Image HorizontalAlignment="Center" Margin="10,33,140,0" VerticalAlignment="Top" Width="250" Height="77" Source="icons/medbook_white.png" RenderTransformOrigin="0.468,0.465"/>
+            </Border>
+
+
+
+            <Button HorizontalAlignment="Right" Margin="281,42,0,0" VerticalAlignment="Top" BorderBrush="{x:Null}" Height="67" Width="78" RenderTransformOrigin="0.475,0.532">
+                <Button.Background>
+                    <ImageBrush Stretch="Uniform"  ImageSource="icons/flyout1.png"/>
+                </Button.Background>
+                <Button.Flyout>
+                    <MenuFlyout>
+                        <MenuFlyoutItem Text="Account"  HorizontalAlignment="Stretch" Background="{x:Null}" Foreground="#FFABB8F5"  />
+                        <MenuFlyoutItem Text="Settings" Background="{x:Null}" Foreground="#FFABB8F5"   HorizontalAlignment="Stretch" />
+                        <MenuFlyoutItem Text="Log Out" Background="{x:Null}" Foreground="#FFABB8F5"   HorizontalAlignment="Stretch" Click="MenuFlyoutItem_Click" />
+                    </MenuFlyout>
+                </Button.Flyout>
+            </Button>
+
+
+            <TextBox x:Name="doc1_name" Foreground="#FFABB8F5" HorizontalAlignment="center" Height="45" Margin="0,160,0,0" TextWrapping="Wrap" Text="Doctor 1 name" VerticalAlignment="Top" Width="378" GotFocus="doc1_name_GotFocus"/>
+            <TextBox x:Name="doc1_ph" Foreground="#FFABB8F5" HorizontalAlignment="center" Height="45" Margin="0,220,0,0" TextWrapping="Wrap" Text="Doctor 1 phone number" VerticalAlignment="Top" Width="378" GotFocus="doc1_ph_GotFocus"/>
+            <TextBox x:Name="doc1_des" Foreground="#FFABB8F5" HorizontalAlignment="center" Height="45" Margin="0,280,0,0" TextWrapping="Wrap" Text="Doctor 1 description" VerticalAlignment="Top" Width="378" GotFocus="doc1_des_GotFocus"/>
+
+            <TextBox x:Name="doc2_name" Foreground="#FFABB8F5" HorizontalAlignment="center" Height="45" Margin="0,360,0,0" TextWrapping="Wrap" Text="Doctor 2 name" VerticalAlignment="Top" Width="378" TextChanged="textBox5_TextChanged" GotFocus="doc2_name_GotFocus"/>
+            <TextBox x:Name="doc2_ph" Foreground="#FFABB8F5" HorizontalAlignment="center" Height="45" Margin="0,420,0,0" TextWrapping="Wrap" Text="Doctor 2 phone number" VerticalAlignment="Top" Width="378" GotFocus="doc2_ph_GotFocus"  />
+            <TextBox x:Name="doc2_des" Foreground="#FFABB8F5" HorizontalAlignment="center" Height="45" Margin="0,480,0,0" TextWrapping="Wrap" Text="Doctor 2 description" VerticalAlignment="Top" Width="378" GotFocus="doc2_des_GotFocus"/>
+
+            <TextBox x:Name="doc3_name" Foreground="#FFABB8F5" HorizontalAlignment="center" Height="45" Margin="0,560,0,0" TextWrapping="Wrap" Text="Doctor 3 name" VerticalAlignment="Top" Width="378" GotFocus="doc3_name_GotFocus"/>
+            <TextBox x:Name="doc3_ph" Foreground="#FFABB8F5" HorizontalAlignment="center" Height="45" Margin="0,620,0,0" TextWrapping="Wrap" Text="Doctor 3 phone number" VerticalAlignment="Top" Width="378" GotFocus="doc3_ph_GotFocus"/>
+            <TextBox x:Name="doc3_des" Foreground="#FFABB8F5" HorizontalAlignment="center" Height="45" Margin="0,680,0,0" TextWrapping="Wrap" Text="Doctor 3 description" VerticalAlignment="Top" Width="378" GotFocus="doc3_des_GotFocus"/>
+
+            <Button x:Name="button1" Visibility="Visible" Content="DONE" HorizontalAlignment="Center" Margin="0,760,0,0" VerticalAlignment="Top" Click="button1_Click" Width="109" Foreground="#FFABB8F5"/>
+            <TextBlock x:Name="status"  HorizontalAlignment="Center" Margin="0,745,0,0" TextWrapping="Wrap" Visibility="Collapsed" Text="" VerticalAlignment="Top" Foreground="#FFABB8F5"/>
+
+        </Grid>
+    </ScrollViewer>
+</Page>

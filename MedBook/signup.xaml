@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="UI_try_1.signup"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UI_try_1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="0,-26.667,0,-0.333">
+
+
+
+    
+        <Image HorizontalAlignment="Center" Margin="48,64,37,0" VerticalAlignment="Top" Width="315" Height="120" Source="medbook_white.png" RenderTransformOrigin="0.468,0.465"/>
+        
+        <TextBox HorizontalAlignment="Center" Margin="0,220,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="315"/>
+        <TextBox HorizontalAlignment="Center" Margin="42,280,43,0" TextWrapping="Wrap" Text="Age" VerticalAlignment="Top" Width="315" InputScope="Number" IsReadOnly="True"/>
+        <TextBox HorizontalAlignment="Center" Margin="42,340,43,0" TextWrapping="Wrap" Text="Sex" VerticalAlignment="Top" Width="315"/>
+        <TextBox HorizontalAlignment="Center" Margin="42,400,43,0" TextWrapping="Wrap" Text="Blood Group" VerticalAlignment="Top" Width="315"/>
+        <TextBox HorizontalAlignment="Center" Margin="42,460,43,0" TextWrapping="Wrap" Text="User Name" VerticalAlignment="Top" Width="315"/>
+        <TextBox HorizontalAlignment="Center" Margin="42,520,43,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="315"/>
+       
+        <Button x:Name="done" Content="Done" HorizontalAlignment="Center" Margin="0,584,0,0" VerticalAlignment="Top" Click="done_Click"/>
+
+
+        
+        
+    </Grid>
+</Page>

@@ -1,0 +1,54 @@
+﻿<Page
+    x:Class="UI_try_1.store"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UI_try_1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#FFF9FBFD">
+
+    <Grid Margin="0,-26.667,0,-0.333">
+
+
+
+        <Border  BorderThickness="0" HorizontalAlignment="Stretch" Height="120" Background="#FFABB8F5" VerticalAlignment="Top">
+            <Image HorizontalAlignment="Center" Margin="10,33,140,0" VerticalAlignment="Top" Width="250" Height="77" Source="icons/medbook_white.png" RenderTransformOrigin="0.468,0.465"/>
+        </Border>
+
+
+
+        <Button HorizontalAlignment="Right" Margin="281,42,0,0" VerticalAlignment="Top" BorderBrush="{x:Null}" Height="67" Width="78" RenderTransformOrigin="0.475,0.532">
+            <Button.Background>
+                <ImageBrush Stretch="Uniform"  ImageSource="icons/flyout1.png"/>
+            </Button.Background>
+            <Button.Flyout>
+                <MenuFlyout>
+                    <MenuFlyoutItem Text="Account"  HorizontalAlignment="Stretch" Background="{x:Null}" Foreground="#FFABB8F5"  />
+                    <MenuFlyoutItem Text="Settings" Background="{x:Null}" Foreground="#FFABB8F5"   HorizontalAlignment="Stretch" />
+                    <MenuFlyoutItem Text="Log Out" Background="{x:Null}" Foreground="#FFABB8F5"   HorizontalAlignment="Stretch" Click="MenuFlyoutItem_Click" />
+                </MenuFlyout>
+            </Button.Flyout>
+        </Button>
+
+        
+        <AppBarButton HorizontalAlignment="Center" Icon="Home" Label="appbarbutton" Margin="0,600,0,0" VerticalAlignment="Top" Foreground="#FFABB8F5" BorderBrush="#FFABB8F5" Click="Button_Click" />
+
+
+        <Button x:Name="capture" HorizontalAlignment="Center" Margin="45,225,227,0" VerticalAlignment="Top" BorderBrush="{x:Null}"  RenderTransformOrigin="0.475,0.532" Height="117" Width="128" Click="capture_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Uniform"  ImageSource="icons/capture.png"/>
+            </Button.Background>
+        </Button>
+        <TextBlock HorizontalAlignment="Center" Margin="201,270,25,0" TextWrapping="Wrap" Text="Capture" VerticalAlignment="Top" Foreground="#FFABB8F5" FontSize="40" FontFamily="Eras ITC" Width="174"/>
+
+        <Button x:Name="upload" HorizontalAlignment="Center" Margin="45,378,229,0" VerticalAlignment="Top" BorderBrush="{x:Null}"  RenderTransformOrigin="0.475,0.532" Height="115" Width="126" Click="upload_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Uniform"  ImageSource="icons/upload.png"/>
+            </Button.Background>
+        </Button>
+        <TextBlock HorizontalAlignment="Center" Margin="201,421,25,0" TextWrapping="Wrap" Text="Upload" VerticalAlignment="Top" Foreground="#FFABB8F5" FontSize="40" FontFamily="Eras ITC" Width="174"/>
+
+
+    </Grid>
+</Page>

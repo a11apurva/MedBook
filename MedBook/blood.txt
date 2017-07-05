@@ -1,0 +1,2948 @@
+h_name,pincode,contact
+G.B Pant Hospital,744104,03192 230628
+I.N.H.S. Dhanvantri,744103,03192 248759
+Pillar Health Centre,744103,"03192 233193, 03192 233993"
+A.P.Vidya Vidhana Parishad Community Hospital Blood Bank,524101,08624 251804
+A.S.N. Raju Charitable Trust Blood Bank,NA,0886 222558
+Alluri Sita Rama Raju Acadamy of Medical Sciences Blood Bank,NA,08812 244484
+Anil Neerukunda Hospital Blood Bank,NA,"08933 226961, 08933 226900"
+Apollo Hospitals Heart and Kidney Centre Blood Bank,NA,"0891 252619, 0891 252622"
+APVVP Area Hospital Blood Bank,NA,"08562 253342, 08562 253154"
+APVVP Area Hospital Blood Bank,NA,NA
+APVVP Area Hospital Blood Bank,NA,08626 240167
+APVVP Community Hospital,NA,08572 22087
+APVVP District Hospital Blood Bank,NA,08644 228850
+APVVP NT Rama Rao Vaidyalayam Blood Bank,NA,08924 223340
+"APVVP, Area Hospital Blood Bank",NA,08674 245040
+Area Hospital Blood Bank,NA,NA
+Arogyavaram Medical Centre Blood Bank,NA,NA
+AS Raja Voluntary Blood Bank,NA,"0891 2543436, 0891 5563436"
+ASN Raju Charitable Trust Blood Bank,NA,0886 222558
+Aswini Hospital Blood Bank,NA,NA
+Belif Blood Bank,523002,0859 2222345
+Best Rotary Blood Bank,522201,NA
+Bethesda Blood Bank (A Unit of Bethesda Homes Voluntary Organisation),NA,0866 2435888
+Bhimavaram Hospitals Limited Blood Bank,NA,"08814 221111, 08814 221122, 08814 221133, 08814 221100"
+Blessed Blood Bank,522601,NA
+Blood Bank Aayush Hospital,520008,0866 2541414
+Boga Parvathamma Memorial Donation Service Organisation,516002,NA
+Chaitanya Blood Bank,NA,NA
+Dhanwantari Voluntary Blood Bank and Blood Components (A Division of Dhanwantari Charitable Trust),NA,NA
+District Head Quarters Hospital Blood Bank,NA,8592233310
+District Co-ordinator of Hospital Services Blood Bank,521001,08672 222302
+District Head Quarter Hospital Blood Bank,NA,08572 22087
+District Head Quarter Hospital Blood Bank,NA,NA
+District Hospital Blood Bank,NA,"0866 2440044, 0883 2428555"
+Dr. Anji Reddy Multispeciality Hospitals Pvt,522413,"08649 254001, 08649 254002"
+Dr. Pinnamaneni Siddartha Inst. of Medical Sci. and Res. Foundation Blood Bank,NA,"08676 257311, 08676 257317"
+DSR District Government Head Quarter Hospital Blood Bank,NA,"0861 2328500, 0861 2326833"
+Fathima Institute of Medical Sciences Blood Bank,516390,"08562 240900, 08562 240600"
+GMR Varalakhsmi Care Hospital Blood Bank,532127,08941 25318485
+Good Samaritan Blood Bank,NA,08812 241187
+Government District Hospital Blood Bank,NA,08518 255422
+Government Area Hospital Blood Bank,NA,08674 245040
+Government General Hospital Blood Bank (Medical University General Hospital Blood Bank),NA,"0866 2452244, 0866 2452844"
+Government General Hospital Blood Bank,NA,08518 255422
+Government General Hospital Blood Bank (Formerly District Head Quarter Hospital),NA,08554 275024
+Government General Hospital Blood Bank,NA,0866 2220035
+Government General Hospital Blood Bank,NA,0884 2302008
+Government Head Quarters Hospital Blood Bank,NA,08812 249668
+Government Maternity Hospital Blood Bank,NA,0877 2234072
+Government Victoria Hospital for Women and Children Blood Bank,NA,NA
+Government Area Hospital Blood Bank,NA,NA
+Government Area Hospital Blood Bank,NA,08594 232373
+Great Eastern Medical School and GEMS Hospital Blood Bank,NA,"08942 22654, 08942 210519"
+GSL Medical College and General Hospital Blood Bank,NA,0883 2484999
+Indian Naval Hospital Ship Kalyani Blood Bank,NA,0891 2814028
+Indian Red Cross Society B.S. Sastry Blood Bank,NA,08942 226555
+Indian Red Cross Society Blood Bank,NA,"08562 275724, 08562 272829"
+Indian Red Cross Society Blood Bank,NA,08572 220287
+Indian Red Cross Society Blood Bank,NA,NA
+Indian Red Cross Society Blood Bank,NA,08518 255347
+Indian Red Cross Society Blood Bank,NA,NA
+Indian Red Cross Society Blood Bank,NA,08647 224455
+Indian Red Cross Society Blood Bank,NA,NA
+Indian Red Cross Society Blood Bank,NA,0891 2703953
+Indian red cross society Blood Bank,NA,NA
+Indian Red Cross Society Blood Bank,NA,08554 246344
+Indian Red Cross Society Blood Bank,NA,NA
+Indian Red Cross Society Blood Bank,NA,0884 2385800
+Indian Red Cross Society Blood Bank,NA,NA
+Indian Red Cross Society Blood Bank,NA,0861 232070
+Indian Red Cross Society Blood Bank,NA,08518 255347
+Indian Red Cross Society Blood Bank,NA,08922 223818
+"Indian Red Cross Society, Dr Mullapudi Harischandra Prasad Red Cross Blood Bank",NA,08819 221184
+Indian Red Cross Society Blood Bank,NA,9866355655
+Indian Red Cross Society Blood Bank,NA,08494 224144
+Indian Red Cross Society Blood Bank,NA,NA
+Indian Red Cross Society Blood Bank,NA,08821 225305
+Indian Red Cross Society Blood Bank,NA,08648 223939
+Jagruti Charitable Trust Blood Bank,NA,0883 2443612
+K.K Indian Red Cross Society Blood bank,NA,NA
+Kamineni Health care Pvt. . Blood Bank,NA,0866 246 3333
+Katuri Medical College and Hospital Blood Bank,NA,"0863 22885550, 0863 2288556"
+King George Hospital Blood Bank,NA,NA
+Konaseema Institute of Medical Sciences and Research Foundation Hospital Blood Bank,NA,"08856237424, 08856 237986"
+Life Line Voluntary Blood Bank,NA,9908520073
+Lions Blood Bank (Lions Vijayawada Vision Multiservice Trust),NA,9392120187
+Lions Club of Visakhapatnam Blood Bank Trust,530002,6692587
+"Lions Vision Blood Bank, Lions Club International",NA,"0863 23361980, 0863 2336199"
+Dr. Pattabhi Red Cross Society Blood Bank,NA,08672 230605
+Gitam Institute of Medical Sciences Blood Bank,530045,0891 2790222
+Maharaja Institute of Medical Sciences Blood Bank,NA,08922 244390
+Manipal Hospital Blood Bank,NA,"0866 2498400, 0866 2498200"
+N. T. R. Memorial Trust Blood Bank,NA,"0863 233444, 0863 2339444"
+Nagarjuna Hospitals Limited Blood Bank,NA,"0866 2554701, 0866 2554705"
+Narayana Medical College and General Hospital Blood Bank,NA,"0861 2317963, 0861 2317964, 0861 2317968"
+Needs Blood Bank (A Unit of Needs Society),NA,0863 36638222
+"Nimra Institute of Medical Sciences (NIMS), Teaching Hospital and Research Centre",NA,0866 6500000
+"NRI Academy of Sciences, NRI Medical College and General Hospital Blood Bank",NA,"08645 236777, 08645 237401, 08645 237402 , 08645 237405"
+"NRT Blood Bank, GBR Super Speciality Hospital",522601,9542628888
+NTR Memorial Trust Blood Bank,530002,"0891 2555858, 0891 2565858"
+Ongole Blood Bank,NA,"08592 227223,08592 233281"
+Padmavathi Day and Night Blood Bank,NA,0863 2222222
+"Palakol Voluntary Blood Bank, (A division of Palakol Charitable Trust)",NA,"08814 222678, 08814 222678"
+Peoples Education Society Institute of Medical Sciences and Research Blood Bank,NA,"08570 256666, 08570 256556"
+Project Hospital Blood Bank,NA,08524 286050
+R.R. Hospital Blood Bank,518004,"08518 225414, 08518 223131"
+Rajiv Gandhi Institute of Medical Sciences General Hospital Blood Bank,532001,08942 279161
+Rajiv Gandhi Institute of Medical Science blood bank,NA,08592 233270
+Rajiv Gandhi Institute of Medical Sciences Blood Bank,NA,"08562 20039, 08562 20040"
+Rotary Blood Bank (Rotary Club Golden Jubilee Charitable Trust),NA,0884 2367366
+"Rotary Blood Bank, (Visakha Portcity Charitable Trust)",NA,0897 7191222
+Rotary Red Cross Blood Bank,520003,0866 2553833
+Rudhira Voluntary Blood Bank,NA,NA
+Rural Development Trust Hospital Blood Bank,NA,"08559 2440290, 08559 2442590, 08554 271306"
+Sakthi Voluntary Blood Bank,NA,08854 200099
+Santhiram Medical College and General Hospital Blood Bank,NA,"08514 242806 ,08514 222818"
+Seven Hills Hospitals Blood Bank,NA,"0891 27080900, 0891 6677777"
+Smt. Chigurupati Manjuvani Varaprasad Lions District 324-C4 Blood Bank,NA,"0866 2573636, 0866 2573388"
+Smt. Venkata Narasamma and Helapuri Lions Blood Bank,NA,0877 6667671
+South Central Railway Hospital Blood Bank,NA,NA
+South Central Railway Hospital Blood Bank,NA,08552 227166
+Sri Buddala Narasimhamurty Blood Bank,NA,08819 222263
+Sri Lakshmi Maternity and Surgical Nursing Home,NA,"0866 2435888, 0866 2553140"
+Sri Satya Sai Institute of Higher Medical Sciences Blood Bank,NA,"08555 287900, 08555 287388, 08555 287554"
+Sri Venkata Sai Charitable Trust Blood Bank,NA,0877 6667671
+Sri Venkateswara Institute of Medical Sciences Blood Bank,NA,0877 2287777
+Srinivasa Nursing Home Blood Bank,NA,089422 275513
+St. Anns Hospital Blood Bank,520002,"0866 2575333, 0866 2573675"
+St. Josephs General Hospital Blood Bank,NA,0863 233815
+Suraksha Voluntary Blood Bank,520002,NA
+SVRR Government General Hospital Blood Bank,NA,08771 2286666
+Swatanthra Hospital (Super Speciality Hospital) Pvt. . Blood Bank,533105,0883 2465434
+TTD Central Hospital Blood Bank,NA,0877 2264622
+Uddaraju Anandaraju Foundation Blood Bank,NA,"08816 223192, 08816 227166"
+Vijaya Blood Bank,NA,"08564 253686, 08564 252966"
+Vijayasri Blood Bank (A Unit of Vijayasri Memorial Charitable Trust),NA,0866 2537937
+Visakha Steel General Hospital Blood Bank,NA,0891 2888462
+"Visakha Voluntary Blood Bank, (A Division of Visakha Charitable Trust)",NA,NA
+"Viswa Bharathi General Hospital Blood Bank, R.T. Nagar, Near Penchikalapadu (V)",NA,"08518 283889,08518 283898"
+Viswa Bharathi Super Speciality Hospital Blood Bank,518002,08518 229967
+"SVRR Hospital and Medical College, Tirupati",517501,0877 2286290
+Government General Hospital,520007,0866 2452244
+Government Blood Bank DH,534006,08812 220333
+"Blood Bank, Government Hospital",NA,08674 245040
+Government Area Hospital,NA,NA
+Area Hospital Blood Bank,NA,NA
+Community Hospital Blood Bank,NA,NA
+Community Hospital Blood Bank,NA,NA
+Community Hospital Blood Bank,NA,NA
+AH Blood Bank,NA,NA
+AH Blood Bank,NA,NA
+AH Blood Bank,NA,NA
+"Arunachal State Hospital, General Hospital",791110,NA
+General Hospital,791102,NA
+Ramakrishna Mission Hospital,791111,NA
+District Hospital Blood Bank,NA,NA
+District Hospital Blood Bank,NA,0380 4222261
+District Hospital,792120,NA
+District Hospital Blood Bank,NA,NA
+District Hospital Blood Bank,NA,NA
+District Hospital,790104,NA
+District Hospital,791120,NA
+District Hospital Blood Bank,791122,NA
+District Hospital,791002,NA
+"C.H.C. blood bank, Bongaigaon",NA,NA
+Silchar Medical College and Hospital Blood Bank.,NA,NA
+BRPL Hospital Blood Bank,NA,NA
+Blood Bank Red Cross Children Hospital,NA,NA
+Mangaldoi Civil Hospital blood bank,NA,NA
+Dhemaji Civil Hospital blood bank,NA,NA
+"Assam Medical College & Hospital Blood Bank,State of the Art Model blood bank",NA,NA
+Brahmaputra Valley Fertilizer Corporation Ltd,NA,NA
+Oil India Ltd. Hospital Blood Bank,786602,NA
+Dhubri Civil Hospital Blood Bank,NA,NA
+Goalpara Civil Hospital,NA,NA
+K.K. Civil Hospital blood bank,NA,NA
+Hailakandi Civil Hospital Blood Bank,788015,NA
+State of the Art Model blood bank,NA,NA
+Dr. B. Barooah Cancer Institute Blood Bank,780016,
+M.M.C. Hospital Blood Bank,NA,NA
+Diphu Civil Hospital Blood Bank,NA,NA
+Karimganj Civil Hospital Blood Bank,788710,NA
+R.N.B. Civil Hospital Blood Bank,783370,NA
+North Lakhimpur Civil Hospital,NA,NA
+Marigaon Civil Hospital blood bank,NA,NA
+B.P. Civil Hospital,NA,NA
+Civil Hospital blood bank,NA,NA
+Civil Hospital Blood Bank,NA,NA
+Civil Hospital blood bank,NA,NA
+O.N.G.C. Ltd. Hospital Blood Bank,NA,NA
+Kanaklata Civil Hospital Blood Bank,NA,NA
+"Tinsukia Civil Hospital Blood Bank,(L.G.B.)",NA,NA
+Indian Oil Corporation Ltd. Hospital Blood Bank,786171,NA
+Central Hospital North Eastern Coalfields,NA,NA
+Lower Assam Hospital blood bank,783380,NA
+Barak Blood Bank & Clinical Research Centre,5,NA
+Tata Tea Ltd. Referral Hospital & Research Centre blood bank,NA,NA
+Dr. Damani?s Nursing Home Blood Bank,NA,NA
+Marwari Arogya Bhawan & Hospital Blood Bank,NA,NA
+Aditya Diagnostic Hospital Blood Bank,NA,NA
+Blood bank of Srimanta Sankardeva Hospital & Research Centre,NA,NA
+Dirial Central Hospital blood bank,NA,NA
+Blood bank of Solace Hospital & Research Centre (P) Ltd.,NA,NA
+Vivekananda Kendra NRL Hospital Blood Bank,785621,NA
+Aparajita Blood Bank,785001,NA
+Jorhat Medical College Hospital Blood Bank,785001,NA
+Air Force Hospital Blood Bank,NA,NA
+G.N.R.C Hospital Blood Bank,785006,NA
+Assam Gujarat Voluntary Blood Bank and Research Centre,NA,NA
+Blood Bank Down Town Hospital,785006,NA
+Ganga Blood Bank,781007,NA
+Dispur blood bank,NA,NA
+Central Nursing Home Blood Bank,NA,NA
+Saharias Blood Bank,NA,NA
+International Hospital blood bank,NA,NA
+Surakhya blood bank,781008,NA
+Marwari Hospital & Research Centre blood bank,NA,NA
+"151, Base Hospital Blood Bank",NA,NA
+Central Hospital N.F. Railway,781011,NA
+Haji Abdul Memorial Hospital & Research Centre blood bank,NA,NA
+North East blood bank & Research Centre,NA,NA
+Divisional Railway Hospital blood bank,NA,NA
+Nalbari Maternity Hospital blood bank,NA,NA
+Sharma Nursing Home,NA,NA
+"Pragati Hospital & Research Centre, Blood Bank",NA,NA
+155 Base Hospital Blood Bank,NA,NA
+Catholic Hospital Blood Bank,784167,NA
+Tinsukia Blood Bank,NA,NA
+Sankar Madhab Medical College and Hospital,NA,NA
+Greater Jorhat Lions Blood Bank,NA,NA
+Hayat Hospital Blood Bank,NA,NA
+Fakhruddin Ali Ahmed Medical College Hospital Blood Bank,NA,NA
+Rahman Hospital Pvt. Ltd.Blood Bank,22,NA
+Sanjevani Hospital Blood Bank,781011,NA
+St. Luke Hospital Blood Bank,72,NA
+Sukhada Hospital & Diagnostic Centre BB,NA,NA
+Satribari Christian Hospital blood bank,NA,NA
+Barpeta Civil Hospital,NA,NA
+GNRC Institute of Medical Sciences,NA,NA
+"Narayana Hrudayalaya Pvt. Ltd, Blood Bank",NA,NA
+S. K. Roy Civil Hospital,NA,NA
+Mahendra Mohan Chaudhury Hospital,1,NA
+R.N.B. Civil Hospital,NA,NA
+Morigaon Civil Hospital,NA,NA
+SMK Civil Hospital,NA,NA
+Sivasagar Civil Hospital,NA,NA
+Maa Vindhyawasini Blood Bank,NA,NA
+A.N. Magadh Medical College Hospital Blood Bank,823001,NA
+Anupam Voluntary blood bank,NA,NA
+Bharat Blood Bank,800003,NA
+Blood bank Indian Red Cross Society,854301,NA
+Blood Bank and Research Centre,NA,NA
+Bose Clinic Blood Bank,NA,NA
+Sadar Hospital,NA,NA
+Kurji Holy Family Hospital Blood Bank,800010,"0612 2262540, 0612 2264117"
+National blood bank and Research Centre,NA,0612 2355575
+Nalanda Medical College and Hospital Blood Bank,NA,NA
+Military Hospital Blood Bank,NA,NA
+Lions Mahavir Cancer Sansthan Blood Bank,NA,NA
+Tripolia Social Service Hospital and Blood Bank,NA,0612 2311065
+Sadar Hospital Blood Bank,NA,NA
+Sadar Hospital Blood Bank,843302,NA
+Sadar Sub Divisional Hospital Blood Bank,NA,NA
+Sadar Hospital Blood Bank,NA,0611 2236186
+Sadar Hospital Blood Bank,NA,NA
+Sadar Hospital Blood Bank,NA,NA
+Sadar Hospital Blood Bank,811201,NA
+Shashi Blood Bank,800004,0612 2303365
+"Rastra Kavi Dinkar Blood Bank ,Sadar Hospital",851101,NA
+Sri Krishna Medical College and Hospital Blood Bank,NA,NA
+"Regional blood bank,DMCH, Darbhanga",846003,NA
+Patliputra Blood Bank,NA,0612 2300840
+"Bihar State blood bank,PMCH",800004,0612 2300334
+Sadar Hospital Blood Bank,NA,NA
+Sadar Hospital Blood Bank,NA,NA
+"Red Cross Blood Bank, Indian Red Cross Society",800001,0612 2201035
+Sadar Hospital Blood Bank,NA,NA
+State of the Art Model Blood Bank,800020,0612 2355805
+Palm View Hospital Blood Bank,NA,NA
+Lion?s Jeevan Blood Bank,NA,NA
+Indira Gandhi Institute of Cardiology Blood Bank,NA,NA
+Regional Blood Bank,NA,0641 2409555
+Rajendra Prasad Memorial Rotary Blood Bank,NA,NA
+Sadar Hospital blood bank,NA,NA
+Duncan Hospital,NA,NA
+Hai Medicare and Research Institute,NA,NA
+"Indian Red Cross Blood Bank,IRCS Blood Bank, Motihari",845401,NA
+"IGIMS, Patna",800014,"0612 2297631, 0612 2297099"
+M.J.K. Hospital Blood Bank,NA,NA
+Katihar Medical College Blood Bank,NA,"06452 39202,06452 39204"
+Life Line Blood Bank,NA,0612 2301600
+Life Care Blood Bank and transfusion Services,NA,NA
+Late Sajjan Kr. Agarwal Blood Bank,805110,NA
+Mata Gujri Memorial (M.G.M.),855107,06456 223475
+R.B. Memorial Hospital,NA,NA
+Sadar Hospital Blood Bank,NA,NA
+Sadar Hospital Blood Bank,NA,NA
+Nazareth Hospital Blood Bank,NA,NA
+Narayana Medical College and Hospital,NA,06184 281888
+Mahavir Vaatsalya Blood Bank,NA,NA
+Sadar Hospital,811105,NA
+Sadar Hospital,NA,NA
+Sadar Hospital,852201,NA
+"Micro Blood Bank, Raj Colony",NA,NA
+Sadar Hospital Blood Bank,841226,NA
+Red Cross Society,848101,NA
+"Indian Red Cross Blood Bank,IRCS Blood Bank, Ara",802301,NA
+Sadar Hospital,824101,NA
+Sadar Hospital,811311,NA
+Sadar Hospital,848101,NA
+Nalanda Blood Bank,803101,NA
+Sadar Hospital,NA,NA
+Sadar Hospital,821101,NA
+Sadar Hospital,811307,NA
+Sadar Hospital,804408,NA
+Sadar Hospital,NA,NA
+Sadar Hospital,NA,NA
+Hi-Tech Emergency Hospital Blood Bank,NA,0612 3262107
+Sinha Blood Bank,NA,NA
+Patna City Blood Bank,800026,NA
+Bhagwan Mahabir blood bank,NA,NA
+Blood Bank P.N.H.,841226,06154 245245
+Paras Hmri Hospital,800014,0612 7107777
+Ruban Memorial Hospital,NA,NA
+Lord Buddha Koshi Medical College and Hospital,852201,NA
+S.K.D.K.M. Hospital,842004,NA
+Shrishti Blood Bank,800020,NA
+Jeevan Rekha Blood Bank,800014,NA
+Lord Budhdha Koshi Medical College,NA,NA
+Krishna Devi Devi Prasad Kejriwal Maternity Hospital,NA,NA
+"NMCH, Patna",800007,NA
+"Sadar Hospital, Ara",432446,NA
+"Sadar Hospital, Buxar",802102,NA
+"Sadar Hospital, Gopalganj",841428,NA
+"Sadar Hospital , Katihar",854105,NA
+"Sadar Hospital, Khagaria",851204,NA
+"Sadar Hospital, Kishanganj",855107,NA
+Sadar Hospital,852113,NA
+Sadar Hospital,847211,NA
+Sadar Hospital Muzaffarpur,842001,NA
+Sadar Hospital,803101,NA
+MJK Hospital,845438,NA
+Sadar Hospital,821115,NA
+Sadar Hospital,841301,NA
+Sadar Hospital,811105,NA
+Sadar Hospital Hajipur,NA,NA
+"Department of Transfusion Medicine, PGIMER",160012,0172 2756481
+Rotary & Blood Bank Society Resource Centre,160037,0172 2696057
+"Department of Transfusion Medicine,",160032,0172 2665253
+"Government Multispecialty Hospital, .",160016,0172 2768244
+Dhamtari Christian Hospital,NA,NA
+B.S.R. Cancer Hospital,NA,NA
+"Thawait Blood Bank, Rajiv Gandhi Complex",NA,0771 4221709
+City Blood Bank,NA,NA
+Holy Cross Hospital Ambikapur,NA,07774 223733
+Sai Sahara Blood Bank,NA,0771 2551050
+Apollo Hospital Blood Bank,NA,07552 248300
+Modern Medical Institute Lalpur,NA,"0771 4212761,0771 4212762"
+United Blood Bank,NA,NA
+SSD Blood Bank,NA,NA
+Chandulal Chandrakar Memorial Hospital Blood Bank,NA,NA
+"Chhattisgarh Blood Bank, Agrawal Hospital Parisar",NA,NA
+Bilasa Blood Bank,NA,NA
+Bilasa Blood Bank,NA,0771 4009304
+Bilasa Blood Bank,NA,NA
+Tej Blood Bank,NA,NA
+Gayatri Blood Bank,NA,NA
+Ramkrishna Ashram Blood Bank,NA,NA
+Chritian Hospital Blood Bank,NA,NA
+Shrishti Blood Bank,NA,0771 4095493
+OPJHRC Blood Bank,NA,NA
+Shree Narayana Hospital Blood Bank,NA,0771 4218333
+Rajdhani Blood Bank,NA,0771 2292250
+Evangelical Mission Hospital Blood Bank,NA,NA
+Ekta Blood Bank,NA,NA
+Raipur Institute of Medical Science Blood Bank,NA,NA
+CM Medical College & Hospital Blood Bank,NA,NA
+Sewa Blood Bank,NA,NA
+Ashirwad Blood Bank,NA,NA
+NMDC Apollo Hospital Blood Bank,NA,07857 230050
+Nehru Centenary Hospital Blood Bank,NA,NA
+J.N.L. Hospital & Research Center Blood Bank,NA,"0788 2227814,0788 2241926"
+NMDC Project Hospital Blood Bank,NA,07857 255229
+Red Cross Blood Bank (BCSU),NA,07712 880111
+B.R.A. Hospital Blood Bank,NA,NA
+District Hospital Blood Bank Durg (BCSU),NA,0788 2322808
+Civil Surgeon,NA,NA
+CIMS Blood Bank(BCSU),NA,NA
+Civil Surgeon,NA,NA
+Civil Surgeon,NA,NA
+District Hospital Blood Bank,NA,NA
+District Hospital Blood Bank,NA,NA
+District Hospital Blood Bank,NA,NA
+Maharani Hospital (BCSU),NA,07786 2231669
+District Hospital Blood Bank,NA,NA
+District Hospital Blood Bank,NA,NA
+District Hospital Blood Bank Dhamtari,NA,NA
+Civil Surgeon Dist. Hospital Blood Bank,NA,NA
+District Hospital Blood Bank,NA,NA
+Model Blood Bank (BCSU),NA,NA
+District Hospital Blood Bank (BCSU),NA,NA
+District Hospital Blood Bank Rajnanadagaon,NA,NA
+District Hospital Blood Bank,NA,NA
+District Hospital Blood Bank,NA,NA
+"Indian Red Cross Society, Red Cross House",396230,"0260 2640911, 0260 2640577"
+"Daman Raktdan Kendra, Marwad Hospital Campus",396210,NA
+"Diu Blood Bank, Government Hospital",362520,NA
+All India Institute of Medical Sciences (AIIMS),110029,"011 26594438, 011 26594400"
+Armed Forces Transfusion Centre,110010,011 23336685
+Dr. Ram Manohar Lohia Hospital,110001,"011 23404292, 011 23404298"
+E.S.I. Hospital,110015,"011 25970808, 011 25100664"
+Safdarjung Hospital,110029,"011 26707254, 011 26707124"
+Sucheta Kriplani Hospital,110001,011 23408271
+Govind Ballabh Pant Hospital,110002,011 23234242
+Guru Tegh Bahadur Hospital,110095,011 22590148
+Regional Blood tranfusion Center of Central zone,110002,"011 23233809, 011 23231023"
+Sushrut Trauma Centre,110054,"011 23906014, 011 23906028"
+Sanjay Gandhi Memorial Hospital,110083,"011 27922843, 011 27916137"
+Dr. Baba Sahab Ambedkar Hospital,110085,"011 27049950, 011 27055585"
+Institute of Liver and Biliary Sciences,110070,011 46300000
+Lal Bahadur Shastri Hospital,110091,"011 22786688, 011 22223167, 011 22774145, 011 22774146, 011 22786828, 011 22786818, 011 22778282"
+Hindu Rao Hospital,110007,011 23905713
+Kasturba Gandhi Hospital,110002,"011 23275023, 011 23275024"
+Swami Dayanand Hospital,110095,"011 22581031, 011 22583809"
+Holy Family Hospital,110025,011 26332800
+Mata Chanan Devi Hospital,110058,"011 45582193, 011 45582194"
+Shri Moolchand Khariti-ram Hospital and Ayurvedic Research Institute,110024,011 42000476
+National Heart Institute,110065,"011 26414156, 011 26414157"
+Sunder Lal Jain Charitable Hospital,110055,011 47030900
+St. Stephens Hospital,110055,"011 23966021, 011 23966022, 011 23966023, 011 23966024"
+"Pushpawati Singhania Research Institute (For Liver, Renal and Digestive Disease)",110017,011 30611871
+Maharaja Agrasen Hospital,110026,"40777777, Extension 6700"
+Delhi Heart and Lung Institute,110055,"011 42999999, 011 42988899, 011 23538351"
+Shree Balaji Action Medical Institute,110063,"011 42888888, 011 45666666"
+"Max Super Specialty Hospital, Heart and Vascular Institute( A Unit of Devki Devi Foundation Institute)",110017,"011 26515050, 011 26505252"
+Dr. BL Kapoor Memorial Hospital,110005,"011 30653095, 011 30653926"
+Kalra Hospital and Shri Ram Cardiothoracic and Neurosciences Center (SRCNC),110015,011 45005700
+Park Hospital,110018,011 45323232
+Fortis Hospital,110088,011 45302222
+Bhagat Chandra Hospital,110045,011 45254525
+Indian Spinal Injuries Centre,110070,011 42255387
+Saket City Hospital,110017,"011 40699999, 011 71211062"
+Bensups Hospital,110075,011 45017615
+Indian Red Cross Society,110001,"011 23716441, 011 23716442, 011 23716443,011 23716426, 011 23716916, 011 23711551, 011 23716441"
+Rockland Hospital Qutab,110016,011 47667357
+Primus Ortho and Spine Hospital,110021,"011 66206630, 011 66206640"
+Max Super Specialty Hospital (A Unit of Max Health Care Institute Ltd),110088,011 66422222
+Hakeem Abdul Hameed Centenary Hospital,110062,011 26059668
+White Cross Blood Bank,110065,"011 26831063, 011 26844140"
+Mission Jan Jagriti,110026,011 47053443
+Pitampura Blood Bank,110034,NA
+Lions Blood Bank,110088,"011 42258080,011 47122000"
+Batra Hospital and Medical Research Centre,110062,"011 29958747 , 011 29957487"
+Blood Bank Organisation,110005,"011 25721870, 011 25721870"
+Rotary Blood Bank,110062,"011 29054068, 011 29054066,011 29962078"
+"Mission Jan Jagriti Blood Bank, Altius Sonia Hospital",110041,"011 30580345, 011 30777777"
+Dharamshila Cancer Foundation and Research Centre,110096,"011 43066424 ,011 43066425, 011 43066432, 011 22617771, 011 22617772, 011 22617773, 011 22617774,011 22617775, 011 43066407"
+Sir Ganga Ram Hospital,110060,"011 42251800, 011 42251868,011 42251869,011 42251872, 011 25750000, 011 25751111, 011 25735205, 011 25861463"
+Sant Parmanand Hospital,110054,"011 23994401, 011 23994402, 011 23994405, 011 23994410"
+"R. B. T. C (wz),Deen Dayal Upadhyay Hospital",110064,"011 25129345, 011 25494403, 011 25494405"
+Jai Prakash Narayan Apex Trauma Centre,110029,"011 26731166, 011 26731179, 011 26731169, 011 26108000, 011 26109000"
+Brahm Shakti Hospital and Research Centre,110084,"011 27537894, 011 27532428, 011 27531683, 011 27537967"
+Max Super Specialty Hospital (Max Balaji Hospital),110092,"011 66242515, 011 43033333"
+Saroj Hospital and Heart Institute Run by Ganesh Das Chowla Charitable Trust (Regd.),110085,"011 27903333, 011 27903276"
+Fortis Flt. Lt. Rajan Dhall Hospital (A unit of Flt. Lt. Ranjan Dhall Charitable Trust Regd.),110070,011 42776222
+Rajiv Gandhi Cancer Institute and Research Center,110085,"011 47022222, 011 27051011"
+Apollo Hospital,110044,"011 26925801, 011 26925858, 011 26825707"
+Fortis Escort Heart Institute,110025,011 26825053
+Northern Railway Central Hospital,110055,"011 23747989011 23744150, 011 23744170"
+Jaipur Golden Hospital,110085,NA
+Dr.Hedgewar ArogayaSansthan,110032,"011 22301148, 011 22301149, 011 22309407"
+Central Poly Clinic Blood Bank,110051,NA
+Lions Blood Bank,110092,NA
+Pushpavati Shinghania Research Institute for Liver,110017,NA
+"Cardio Neuro Centre, AIIMS",110029,"011 26593625, 011 26593749"
+Jan Jagriti Blood bank,110092,NA
+"Goa Medical college, Bambolim-Goa",403202,"0832 2458724, 0832 2495061, 0832 2495188"
+Hospicio Hospital Blood Bank,403601,"0832 2703801, 0832 2705664"
+Apollo Victor Hospital Blood Bank,NA,0832 2728888
+Vivus SMRC Heart Centre Blood Bank,NA,0832 6691630
+District Hospital,403507,NA
+Sheth V.S. General Hospital and Shree NHL Municipal Medical College,380006,079 26577621
+Smt. Laxmiben Chimanlal Lalbhai Blood Bank,380018,"079 22164261, 079 22924264"
+Sheth L.G. General Hospital and Blood Bank,380008,"079 25461380,079 25461384"
+Civil Hospital,380016,"079 22683949, 079 22683721"
+Civil Hospital,NA,"079 27432584, 079 27474359"
+Military Hospital Blood Bank,380003,NA
+Indian Red Cross Society Blood Bank,380007,"079 26651833, 079 26650855"
+Gujarat Cancer Research Institute,380016,"079 22681451, 079 22688061, 079 22688062079 2268 8000"
+Smt. G R Doshi and Smt. K M Mehta Institute of Kidney Disease and Research Centre,380016,"079 22687164, 079 22687165079 22687000, 07922685609"
+Dr. Jivraj Mehta Smarak Health FoundationBakeri Medical Research Centre,380007,"079 22687164, 079 22687143"
+Prathma Blood Center,380007,079 26600101
+White Cross Blood Bank,NA,079 22815227
+Adarsh Voluntary Blood Bank,NA,079 22749146/6672
+Ami Pathology Laboratory and Blood Bank,NA,079 27501202
+Gujarat Blood Bank (Voluntary) and Pathology Laboratory and R.I.A. Unit,NA,079 27413719
+Karnavati Blood Bank (Voluntary) and Pathology Laboratory,380013,079 27415150
+"Gujarat Blood Bank (Trust), Pathology Laboratory",380006,"079 26586480, 26584893, 66314721"
+Cross + World Blood bank (Voluntary) and Sankalp Diagnostics,380013,"079 26568004, 26401959, 30026671"
+Maha Gujarat Blood Bank (Vol) and Pathology Laboratory,380008,"079 25451331, 25461641"
+Supratch Voluntary Blood Bank,380054,"079 40058958, 40054400, 40057317"
+Help Voluntary Blood Bank (Sanchalit Help Charitable Trust),380008,079 65136744
+Sterling Addlife India Limited,380052,079 40011111
+"The Gujarat Cancer Society, Medical College Hospital and Research Centre",380025,079 6648138079 66048000
+"Indian Red Cross Society, Amreli",365601,"02792 223034, 232854"
+Indu Voluntary Blood Bank (Managed by Charotar Health Research Foundation Trust),NA,02692 259596
+A.D.Gorwala Blood BankPramukhswami Medical College and Shree krishna Hospital,388325,"02692 221508, 222130"
+Indian Red Cross Society,388001,"02692 243406, 02692 268822"
+Indian Red Cross Society,388450,02697 222251
+Shree Ghanshyam Pathology Laboratory and Blood Bank,NA,"02692 252744, 02692 252667"
+Blood BankBaradpura,385001,"02742 246914, 245899"
+Gayatri Voluntary Blood Bank and Computerised Pathology Laboratory,NA,02742 253475
+Bhoomi Voluntary Blood Bank,385520,"02742 260632, 02742 260633, 02742 256475"
+Bhansali Trust Sanchalit Gandhi Lincoln (Vol) Blood Bank,385535,02744 220172
+"Vikas Voluntary Blood Bank, Computerised Pathology Laboratory",NA,02744 230342
+Dharti Voluntary Blood Bank,NA,02748 222443
+Saraswati Voluntary Blood Bank,NA,02748 222011
+Gayatri Voluntary Blood Bank,NA,02744 230342
+Adarsh Voluntary Blood Bank,NA,NA
+Red Cross Blood Bank,392001,"02642 244281, 02642 243603"
+Healthcare Society Sanchalit Kumarpal Gandhi Blood Bank,NA,02646 244530
+Sir T. General Hospital and Medical College,364001,0278 2423250
+Bhavnagar Blood Bank,364001,0278 2561526
+Bambhaniya Voluntary Blood Bank,364001,"0278 2224744, 3004744"
+Smt.Sonaliben A.Shah Blood Bank,NA,"0278 255361, 256099"
+Navkar Charitable Trust,364290,02844 224464
+Tulsi Pathology Laboratory and Blood Bank,NA,02848 252707
+Mayur Blood Bank,NA,02832 231324
+G.K. General Hospital and Adani Medical College,370001,02832 250150
+Jivanjyot Blood Bank,NA,02832 222812
+Shri Rajabhai Patel Blood Bank,370201,"02836 257366, 257323, 257333"
+Purna Blood Bank,NA,NA
+Matrushri Meghbai Premji Jetha Hospital and Research Centre,370001,"02832 231133, 231144"
+Samarth Raktdan Kendra,389151,"02673 223239, 242514"
+Kiran Voluntary Blood,NA,02673 246212
+Indian Red Cross Society,389151,"02673- 224422, 2655320"
+Shraddhadeep Pathology Lab and Blood Bank,NA,079 23222474
+Apollo Hospitals International Ltd,NA,079 66701825
+Patel Narayanbhai Narsinhbhai (Gulabpurawala) Voluntary Blood Bank.,NA,02763 270085
+Indian Red Cross Society,382721,02764 227836
+Guru Govindsingh Hospital,361008,0288 2661052
+Jamnagar Voluntary Blood Bank,NA,"0288 2673339, 2541070"
+General Hospital,NA,02833 234704
+Mithapur Hospital Tata Chemical Ltd.,NA,NA
+Divyajyoti Voluntary Blood,NA,"02875 252410, 224236"
+General and CMZ Hospital Blood Bank,NA,"0285 2651436, 2620652"
+Sardar Patel Voluntary Blood Bank,NA,02871 233353
+Shri Jivanprakash Foundation Voluntary Blood Bank,NA,"0285 2630672, 2631672"
+Navjeevan Blood Bank and Clinical Laboratory,NA,02876 221415
+Navdeep Voluntary Blood Bank,NA,0285 2631127
+Lions Medical Centre,NA,02698 220516
+Chhotalal Ranchhoddas Parikh Blood Bank,387620,02691 263255
+Indian Red Cross Society Blood Bank (Shri H.V.Desai Blood Bank),387001,0268 2566944
+Muljibhai Patel Urological Hospital,NA,"0268 2520323, 2520325"
+"Gujarat Methodist Church Cardiac Care and Research Society, Dharamsinh Desai Memorial Methodist Institute of Cardiology and cardiovascular surgery",387002,"0268 255711, 2555711, 2555723"
+General Hospital,384001,"02762 297301, 221475"
+Mehsana Jaycees Charitable Trust Sanchalit Sarvodaya Commercial Co.op Voluntary Blood Bank,384002,"02762 251252, 243634"
+"Sardar Seva Trust Sanchalit Unjha Nagrik Sahkari Bank Ltd.,Voluntary Blood Bank",384170,02767 248755
+"Visnagar Voluntary Blood Bank, Visnagar",NA,02765 220903
+Indian Red Cross Society,396445,"02637 257452, 253172"
+Nanubhai Mavljibhai Patel Blood Bank,NA,02634 285913
+General Hospital,389001,02672 243192
+Indian Red Cross Society,389001,02672 252830
+Raktdan Kendra (Voluntary Blood Bank),389001,"02672 650004, 02672 242153"
+Seventilal Kantilal Blood Bank,384265,"02766 231477, 02766 233496"
+Bhansali Trust Raktadan Kendra,NA,"02746 277343, 02746 277249"
+Government Medical and General Hospital,NA,02767 223086
+G.M.E.R.S. Medical College and Hospital,NA,02766 233311
+General Hospital,360575,0286 2242910
+Asha Children Hospital and Blood Bank,360575,0286 2210522
+Shri Ram Voluntary Blood Bank ( Shree Ram Education Medical and charitable Trust-Junagadh),NA,0286 2240092
+General Hospital,360001,"0281 2450385, 0281 2458337, 0281 2458338, 0281 2458339"
+Rajkot Voluntary Blood Bank and Research Centre,360002,0281 2234242
+Smt.S.C. Patel Field Marshal Blood Bank,360002,"0281 2480043, 0281 2481717"
+Nathani Voluntary Blood Bank and Blood Transfusion Centre,NA,"0281 2480659, 0281 6522111"
+Red Cross Blood Bank,360001,"0281 2466260, 0281 2464442"
+Saurashtra Voluntary Blood Bank and Research CentreKathiyawad Medical and Education Charitable Trust.,360002,0281 2450301
+Shiv Voluntary Blood BankLate Shri Mansukhbhai Ganeshbhai Marvania Charitable Trust Organised,NA,02822 292577
+Jetpur Medical Foundation,NA,02827 226123
+Jagruti Charitable Trust Blood Bank,360410,02824 222485
+Astha Voluntary Blood Bank,NA,02825 220828
+General Hospital,383001,"02772 246618, 02772 241551"
+Indian Red Cross Society,383001,"02772 240789, 02772 245110"
+"Patel Voluntary Blood Bank, Patel Foundation Trust Sanchalit",NA,NA
+Trimurti Hospital Vol. Blood bank (Shrimati Dahiben Ratilal Charitable Trust Sanchalit),NA,02778 251763
+New Civil Hospital,395003,"0261 2230909, 0261 2244456 to 59"
+Maskati Charitable Municipal Hospital Surat Municipal Corporation Blood Bank,NA,NA
+"Surat Raktdan Kendra and Research Centre , Regional Blood Transfusion CentreKhatodara health Centre",394210,"0261 2630114, 0261 2635533"
+"Loksamarpan Trust, Blood Bank",395006,"0261 2553020, 0261 2547575"
+Aminaben Gangat and Aheshaben Patel Blood Bank,395003,"0261 2401362, 0261 2400094"
+Shree mahavir Health and Medical Relief Society Shri B.D.Mehta Mahavir Cardiac Institute.,395001,"0261 2471770, 0261 2462116"
+Shri Sardar Smarak Hospital,NA,"02622 220089, 02622 220507"
+Government Hospital,363001,02752 222052
+C.U.Shah Medical College and Hospital (Prop. Of Saurashtra Medical Centre),363001,"02752 304041, 02752 304000-4"
+Shree Rang Voluntary Blood Bank,NA,NA
+Shraddha Voluntary Blood Bank and Pathology Laboratory,NA,02754 280301
+Laxmiben Khushalbhai Patel Blood Bank,394650,02626 220251
+Maliba Raktadan Kendra,NA,02626 290181
+S.S.G.Hospital,390001,0265 2424848
+Jamnabai General Hospital,390001,0265 2517400
+"Medical Care Centre Trust, Shri Jalaram Blood Bank, Kashiben Gordhandas Patel Children Hospital",390018,0265 2464130
+Suraktam Blood Bank (Run by Vadodara District AIDS Control Society),390005,"0265 2464130, 0265 2363660, 0265 2225903"
+Indu Voluntary Blood BankManage Indu Health Research Foundation Trust,390001,"0265 2437676, 0265 2411477"
+Bhailal Amin General Hospital Blood Bank,NA,"0265 2307038, 0265 2307039, 0265 2286666"
+Dhiraj Blood BankDhiraj Hospital Managed By K. M. Shah Charitable Trust.,391760,"02668 225264, 02668 245264-65-66"
+Kailash Cancer Hospital and Research Centre,390025,0265 3961300
+GMERS General Hospital,NA,"02632 251744, 02632 251911"
+"Shree Narhari Manav Kalyan Trust "" Narhari Hospital""",NA,NA
+Lions Medical Research and Educational Charitable Trust Blood Bank,396521,02634 234311
+Valsad Raktdan Kendra,396001,"02632 242944, 02632 253650"
+Sardar Billadwala Pardi Peoples (S.B.P.P.) Co.op. Bank Foundation Blood Bank (Trustee of Manav Arogya Seva Kendra),396125,0260 2374422
+Smt.Puriben Popat Lakha Blood Bank(Jamnagar-Nana Mandha),396195,"0260 2434600, 0260 2434601"
+"Nukem Blood Bank Haria L.G.Rotary Hospital, Rotary Charitable Trust Vapi",NA,"0260 2430654, 0260 2400053, 0260 6638888"
+"Surat Municipal Institute for Medical Education and Research, (SMIMER)",395010,0261 2368040-44
+"Mafatben Uttamlal Pethani Voluntary Blood Bank, Bhagwan Mahavir Seva Samiti Sanchalit",385001,"02742 246914, 02742 245899"
+Indian Medical Association (IMA),382845,02763 270085
+General Hospital (ESIS) Blood Bank,380024,"079 22745770, 079 22743935"
+General Hospital Blood Bank,385001,02742 253083
+General Hospital,394710,02631 220205
+General Hospital,363641,"02822 230538, 02822 230203"
+General Hospital,134003,0171 2552908
+General Hospital,NA,01282 251236
+General Hospital,NA,0124 2321121
+"General Hospital Blood Bank, Regional Blood Transfusion Centre",132001,0184 2268899
+General Hospital Blood Bank,131001,0130 2231931
+General Hospital Blood Bank,125055,01666 240122
+General Hospital Blood Bank,127021,01664 242034
+General Hospital Blood Bank Transfusion Center,136118,"01744 293580,01744 290344"
+General Hospital Blood Bank,121001,0129 2411881
+"Red Cross Blood Bank, Indian Red Cross Society",132103,0180 4008357
+Regional Blood Transfusion Service,NA,01662 275566
+General Hospital Blood Bank,126102,01681 245454
+Trauma Centre Blood Bank,NA,01732 237811
+Nalwa Pathology and Microbiology Laboratory,NA,01662 230699
+Command Hospital,NA,0172 2867604
+District Hospital,136027,"01746 234813,01746 230262"
+Military Hospital,NA,0171 2626557
+Escort Hospital,NA,"0129 2466022,0129 2466020"
+General Hospital,NA,0172 2587162
+Central Medical Centre,NA,"01662 237476,01662 232360"
+Nirmal Institute of Medical Science Blood Bank,NA,"0184 2201999,0184 2202999"
+Sunflag Hospital and Research Centre,NA,"0129 2263584,0129 2263585,0129 2263586,0129 2263587"
+Maharaja Agrasen Institute of Medical Research and Education,NA,"01669 281193,01669 281194"
+"Haryana Blood Bank, Near Jindal Hospital",NA,01662 220740
+Shiv Shakti Blood Bank,NA,"01666 234735,01666 234117"
+Prem Blood Bank,NA,0180 2635900
+Kapisthal Blood Bank,NA,01746 226874
+Diamond Blood bank,NA,01275 240240
+"Blood Bank, Pandit Ram Prakash Hospital and Kidney Centre",NA,0184 2252401
+"National Blood Bank, Situated at Basement of Prem Munjal Hospital",NA,01662 225900
+Manglam Blood Bank,NA,01662 248767
+"Gurgaon Blood Bank, Gurgaon",NA,NA
+Save Life Blood Bank,NA,"0184 2207557,0184 2207558"
+Hisar Blood Bank,NA,01662 33291
+Pt. B. D. Sharma Post Graduate Institute of Medical Sciences (PGIMS),124001,"01262 211306,01262 212306"
+Kurukshetra Blood Bank,NA,01744 291914
+"Jagdambe Blood Bank, at Aggarwal Hospital",NA,01692 230692
+"Rewari Blood Bank, Rewari",NA,"01274 222955,01274 222607"
+"Dr. Anant Ram Janta Hospital Blood Bank, Sciences",NA,01693 244796
+City Blood Bank,NA,01664 42123
+Shree MAA Blood Bank,NA,01732 646206
+MM Institute of Medical Sciences and Research,NA,01731 304550
+"National Blood Bank, Kharab Hospital",NA,01662 225900
+Philadelphina Mission Hospital,NA,0171 2553295
+Bharat Blood Bank,NA,0180 4019800
+Panipat Blood Bank,NA,0180 4011150
+Sanjeevani Blood Bank,NA,0171 4002002
+Sonepat Blood Bank,NA,0130 2218999
+Sarvodaya Hospital,NA,0129 4194444
+Cryo Banks,NA,0124 4734100
+Kaisar Hospital,NA,0172 4500006
+Tohana Blood Bank,NA,NA
+"Blood Bank, Bapu Maghar Singh Ji International, Blood Bank",NA,0166 6238687
+QRG Central Hospital and Research Centre,NA,0129 4090300
+Paras Health Care Pvt. Ltd.,NA,0124 4585555
+"Sant Bhagat Ji, Maharaj Charitable Hospital",NA,0129 4029070
+Artemis Medicare Services Ltd.,NA,0124 6767000
+General Hospital,124103,"01251 254014,01251 253133"
+General Hospital Blood Bank,123401,01274 254743
+Sarvodaya Hospital and Research Centre,NA,0129 4184444
+The Medanta Blood Bank,NA,0124 4141414
+Asian Institute of Medical Sciences,NA,0129 4253000
+Metro Heart Institute with Multispecialty,NA,0129 4277777
+Alchemist Institute of Medical Sciences,NA,0124 4511111
+"SGT Medical College, Hospital and Research Institute",NA,0124 2278183
+General Hospital,NA,01667 225898
+Unistem Biosciences Pvt. Ltd.,NA,0124 4078661
+Park Hospital,NA,0124 4900000
+Fortis Memorial Research Institute,NA,0124 4962244
+General Hospital,NA,NA
+Life Cell International Private Ltd.,NA,0124 47445353
+"SHKM, Medical College",NA,01267 282007
+"HIMS Blood Bank, HIMS Hospital",NA,01746 280966
+General Hospital,NA,01275 240099
+Bhagat Phool Singh Medical College for Women,NA,01263 283063
+"Gold Field Blood bank, Gold Field Hospital and Research Centre",NA,0129 2209395
+N.C. Medical College and Hospital,NA,0180 2579081
+Gangaputra Hospital and Research Centre Blood Bank,NA,01681 237238
+TotipotentRX Cell Therapy Pvt. Ltd.,NA,0124 4962251
+Medical College Blood Bank,124001,01262 211306
+District Hospital Blood Bank,135003,NA
+General Hospital Blood Bank (Plateletapheresis),122001,NA
+District Hospital Blood Bank(Plateletapheresis),134109,NA
+"Blood Bank, Hisar",NA,NA
+General Hospital Blood Bank,125001,01662 275566
+District Hospital Blood Bank,123029,NA
+Medicity Hospital Blood Bank,122001,"0124 4834111, 0124 4141414, 0124 4411441"
+Dr RPGMC Tanda,176001,01899 287187
+IGMC Shimla,171001,0177 2658339
+CHC,177220,01975 284022
+Civil Hospital,171207,NA
+District Hospital,NA,NA
+District Hospital,175101,01902 224778
+District Hospital,NA,01899 222223
+District Hospital,NA,NA
+District Hospital,NA,NA
+District Hospital,NA,NA
+Deen Dayal Updhayay Hospital,171001,0177 2657225
+Zonal Hospital,176215,01899 2223627
+Kamla Nehru Hospital,171002,0177 2624841
+Zonal Hospital,NA,NA
+Netaji Subhash Chander Bose Zonal Hospital,175001,01905 225930
+Sub-Divisional Hospital,NA,NA
+Bhota Charitable Hospital,NA,01972 255096
+Mahatama Gandhi Medical Services,NA,NA
+Regional Hospital,172107,01786 222753
+Military Hospital,NA,NA
+The Registrar Maharshi Markandeshwar University Maharshi Markendeshwar Medical College and Hospital,NA,NA
+Malhotra Super Speciality Hospital Blood Bank (A Unit of Malhotra Clinics Pvt Ltd,NA,NA
+R.H. Bilaspur,174001,07752 224877
+R.H. Chamba,176310,01899 223010
+R.H. Hamirpur,177001,01972 222403
+R.H. Kullu,175101,01902 223525
+R.H. Sirmour,173001,01702 222543
+R .H. Solan,173212,01792 224151
+R.H. Una,174303,01975 226064
+"General Hospital, Blood Bank",NA,01962 263921
+Sainik Asptal Blood Bank,NA,0191 2456006
+"SKIMS, Blood Bank",190001,0194 2313714
+SMHS Hospital Blood Bank,190001,"0194 2452291,0194 2452013"
+Government Medical College & Hospital Blood Bank,180001,0194 2401013
+SMGS Hospital,180001,"0191 2547635, 0191 2547639"
+Bee Enn General Hospital Blood Bank,NA,0191 2555631
+"District Hospital, Command Hospital Blood Bank",182104,01992 270402
+92 Base Hospital Blood Bank,NA,"0194 856531, 0194 24660009"
+District Hospital Blood Bank,184102,"01922 234325, 01922 234323"
+District Hospital Blood Bank,NA,01992 270402
+District Hospital Blood Bank,182202,1998 266908
+Acharya Shri Chander College of Medical Sciences and Hospital Blood Bank,NA,2662324
+General Hospital Blood Bank,NA,01982 254746
+Government Hospital Blood Bank,180001,0191 2430041
+Government Hospital Blood Bank,NA,01962 263209
+SNM Hospital Blood Bank,NA,01982 25214
+SDN Hospital Blood Bank,NA,01995 234760
+Emergency Hospital Blood Bank,NA,NA
+Lal Ded Hospital Blood Bank,190001,"0194 2313714, 0194 2313716"
+District Hospital Blood Bank,191111,"01951 255338, 01951 25523701951 255238"
+District Hospital Blood Bank,193101,1952 234203
+District Hospital Blood Bank,192301,"01933 241530,"
+"District Hospital, Kargil Ladakh Kashmir Division",194103,"01985 232300, 01985 232382"
+District Hospital,185101,"01965 220152, 01965 220656"
+District Hospital Blood Bank,192101,01923 222170
+Sub-District Hospital Blood Bank,NA,0195 257236
+District Hospital Blood Bank,193221,1955262054
+District Hospital Blood bank,NA,"01931 260398, 01931 260398"
+Government Bone & Joint Surgery Hospital Blood Bank,NA,0194 2432135
+Jawahar Lal Nehru Memorial Hospital,190003,0194 2451527
+District Hospital,NA,01995 261410
+District Hospital,194101,01982 252014
+District Hospital,182144,1998266908
+District Hospital,185158,01962 263209
+District Hospital,NA,NA
+District Hospital,NA,NA
+District Hospital,NA,NA
+Ispat Hospital,NA,NA
+Indian Red Cross Society Blood Bank,NA,NA
+Plant Hospital,834004,"0651 2444336, 0651 2444336"
+CCL Hospital,834008,NA
+Central Hospital,829122,NA
+Bokaro General Hospital Blood Bank,NA,NA
+Birsha Blood Bank,NA,NA
+Abdur Razzaque Ansari,NA,0651 2275717
+Sadar Hospital,835223,NA
+Guru Nanak Hospital and Research Centre Blood Bank Unit,NA,0651 3291565
+Sadar Hospital,NA,NA
+Sadar Hospital,NA,06562 224273
+Sadar Hospital,NA,06434 236298
+Sadar Hospital Blood Bank,NA,06561 222350
+Sadar Hospital Blood Bank,822101,06562 222677
+Central Hospital Blood Bank,NA,NA
+Sadar Hospital,NA,NA
+M.G.M. Medical College and Hospital,NA,0657 2432138
+Sub-Divisional Hospital Blood Bank,829206,NA
+Patliputra Medical College Hospital,826005,0326 2264165
+SAI Hospital Blood Bank,827004,NA
+Military Hospital,NA,NA
+Gua Hospital,NA,NA
+Blood Transfusion Unit,NA,NA
+Archi Jharkhand Blood Bank,834009,0651 2541862
+Sadar Hospital,833201,NA
+Sadar Hospital Blood Bank,NA,NA
+Sadar Hospital Blood Bank,833222,NA
+Kiriburu General Hospital,NA,NA
+Seventh Day Adventist Hospital Blood Bank,NA,NA
+State- of- Art Model Blood Bank,NA,"0651 2541449, 0651 2542928"
+Nagarmal Modi Seva Sadan Hospital,NA,NA
+Military Hospital Blood Bank,NA,0651 2260646
+K. M. Memorial Hospital Blood Bank,827013,06542 235797
+Jharkhand Blood Bank,834009,NA
+Jamshedpur Blood Bank,831001,0657 2431957
+Kidney Hospital and Urology Centre,NA,0651 2360034
+Dhanbad S.N. Chokrabarty Memorial Nursing Home,NA,0326 2303621
+Rinchi Trust Hospital Blood bank,NA,0651 6450824
+Indian Red Cross Society Blood Bank,827001,06542 224555
+Apurva Hospital and Research Centre,NA,NA
+Sadar Hospital,NA,06436 222050
+Sartaj Blood Bank,834001,NA
+Indian Red Cross Society,825401,06541 222666
+Sadar Hospital,NA,NA
+Devkamal Hospital and Research Centre,834005,0651 2512094
+Sadar Hospital Blood Bank,NA,NA
+Sadar Hospital,NA,NA
+Tata Iron and Steel Company (TISCO),825314,NA
+Tata Central Hospital,828301,0326 6612273
+Blood Bank Bokaro,827013,NA
+Dhanbad Blood Bank,NA,NA
+Anand Rotary Blood Bank,NA,0651 2540565
+"RIMS, Ranchi",NA,NA
+PMCH,826005,0326 2230301
+MGMMCH,831001,0657 2230092
+Sadar Hospital Campus,814112,NA
+Sadar Hospital Campus,822114,06561 222005
+Sadar Hospital Campus,NA,06532 250357
+Sadar Hospital Campus,NA,06546 265289
+Sadar Hospital Campus,835302,NA
+Indian Red Cross Society (IRCS),NA,"0651 2360290, 0651 2360587"
+Sadar Hospital,816109,NA
+Bengaluru Blood Bank and Diagnostic Laboratory,500003,NA
+"City Transfusion ex-servicemen, Blood bank and Laboratory",570014,NA
+HKES Blood Bank Organisation,585105,"08472 220307, 08472 225085"
+Bengaluru Rotary TTK Blood Bank Medical Service Trust,560075,080 25293486
+KIMS Hospital,560004,080 26613225
+Indian Medical Association Blood Bank,584101,NA
+Bangalore Baptist Hospital,560024,080 22024700
+Sanjaya Gandhi Accident Hospital and Research Institute,560011,080 26564516
+Victoria Hospital Blood Bank,560002,NA
+K.R.Hospital Blood Bank,570001,NA
+K.L.E.Societys Hospital and Medical Research Centre,590010,NA
+Fr.Mullers Charitable Institutions,575002,NA
+M.S. Ramaiah Medical Teaching Hospital,NA,NA
+St. Marthas Hospital,NA,NA
+Belgaum Blood Bank and Diagnostic Laboratory,NA,NA
+Kidwai Memorial Institute of Oncology Blood Bank,560029,080 26094082
+Transfusion Medicine Centre,NA,NA
+St. Johns Medical College Hospital,NA,NA
+Mallya Hospital No.2,NA,NA
+District Hospital,NA,NA
+"The District Surgeon, District Hospital",586102,NA
+Medical College Hospital Blood Bank,NA,08392 235356
+District Hospital Blood Bank,NA,08472 2240630
+"General Hospital, Robertson Peth",563122,08253 271041
+S.N.R. District Hospital Blood Bank,NA,08152 222035
+District Hospital Blood Bank,590001,0831 2425073
+Hindustan Aeronautics Limited (HAL Hospital Blood Bank),NA,080 22314632
+St.Philomenas Hospital Blood Bank,NA,080 40164348
+K.C.General Hospital Blood Bank,560003,NA
+Command Hospital Blood Bank Air Force,560007,NA
+Sri Sidhartha Medical College Blood Bank,572102,0816 2278867
+Sushruta Voluntary Blood Bank,560055,080 23447666
+B.L.D.E. Associations Medical College Hospital and Research Centre,586103,NA
+Unique Blood Bank and Diagnostic Centre,NA,NA
+Mc.Gann Hospital Blood Bank,577201,NA
+E.S.I.Hoaspital Blood Bank,560010,NA
+Rashtrotthana Blood Bank,560019,NA
+"The District Surgeon, District Hospital Blood Bank",572101,0816 2257404
+District Hospital Blood Bank,NA,NA
+"The District Surgeon, Mallegowda District Hospital Blood Bank",577101,NA
+Karnataka Medical College Hospital Blood Bank,580022,NA
+Adichunchanagiri Hospital and research centre,571418,08232 287433
+Lions Blood Bank,586101,08352 22200050
+Hutti Gold Hospital,NA,08532 275049
+Sri. Chamarajendra District Hospital Blood Bank,573201,08172 252330
+Bapuji Hospital Blood Bank,NA,08192 253850
+Rotary Campco Blood Bank,574201,0824 234242
+M.R.Diagnostic Research Centre and Blood bank,580029,0836 2253450
+The Karnataka Cancer Therapy and Research Institute Smt. Valbai N. Dharamsey Blood Bank,580025,0836 2228217
+Holdsworth Memorial Mission Hospital Blood bank,570021,0821 2521650
+District Surgeon District Hospital Blood Bank,571401,NA
+District Hospital Blood Bank,577501,08194 234710
+Sharada Dhanavantari Charitable Hospital Blood Bank,577139,08262 250175
+Jeeva Raksha Blood Bank,573201,08172 26204
+VISL Hospital Blood Bank,NA,NA
+City Hospital Research and Diagnostic Centre,575003,0824 221790
+Shimoga Mid Town Rotary Charity Foundation,577201,08182 274333
+Jeevanavars Blood Bank,580021,0836 2278320
+"Rotary Club Dharwad Mid Town Charitable Trust, The Rotary Blood Bank",500008,0836 2746123
+Dr.B.R.Ambedkar Medical College Hospital,NA,080 25463442
+"The District Surgeon, Wenlock District Hospital",NA,NA
+Hosmat Hospital Unit of Phisicare Services Pvt.Ltd,NA,NA
+Holy Cross Hospital,577101,08262 220077
+District Hospital,NA,NA
+District Hospital,NA,0836 2747747
+District Hospital Blood Bank,NA,0820 2520555
+Grace Blood Bank and Laboratory,NA,080 23431233
+Sri Sathya Sai Institute of Higher Medical Sciences,NA,080 28411500
+Dr.B.N.M. Rural Ayurvedic Medical College and Hospital Blood Bank,NA,NA
+Bassappa Memorial Hospital,570012,NA
+District Hospital,NA,NA
+Bagalkot Blood Bank,NA,NA
+Navarang Blood Bank,560010,080 23521233
+Smt. Vasantidevi Baldota Blood Bank,583203,0839 231901
+Hubli Lions Blood Bank,580029,0836 2258080
+"Bangalore Lions Service Trust, Lions Blood Bank",560052,080 22266807
+MDC Voluntary Blood Bank,NA,08232 231665
+B.G.S.Apollo Hospital,NA,0821 2566666
+Sri.Jayadeva Institute of Cardiology,560069,080 26534600
+The Uttara Kannada Blood Bank and Health Services Society,581343,08382 221851
+Vydehi Institute of Medical Science Hospital,NA,080 28410874
+Akshay Voluntary Blood Bank,560070,NA
+Davangere Blood Bank,NA,08192 236655
+IMA Blood BANK,582101,08372 253955
+Yenapoya Medical College Blood Bank,575003,0824 2204668
+Vikram Hospital and Heart Centre,570020,0832 402121
+Bowring and Lady Curzon Hospitals,560051,080 25591362
+Health Care Blood Bank,585104,08472 261886
+"Kempegowda Medical Service Trust, Millennium Blood Bank",560022,NA
+S.K. Voluntary Blood Bank,NA,080 23103524
+Navodaya Medical College Hospital and Research Centre Blood Bank,584103,08532 223361
+K.V.G Medical College Hospital Blood Bank,574327,0824 230326
+J.C. Voluntary Blood Bank,NA,0816 2272980
+Al-Ameen Medical College Hospital Blood Bank,NA,08352 270113
+Jeevadhara Blood Bank,577301,0821 2444936
+GMET?S Dr. Goudars Blood Bank,NA,08352 253604
+Indira Gandhi Child Institute of Health,560029,NA
+SDM College of Medical Sciences and Hospital Blood Bank,580009,0836 2477777
+Rajiv Gandhi Super Speciality Hospital Blood Bank,584102,NA
+B.V.V.Sanghas HSK Hospital Blood Bank,587102,08352 235410
+Rajarajeshwari Medical College Hospital,NA,080 65666768
+Bapuji Educational Association S.S. Institute of Medical Sciences and Research Hospital,NA,08192 266016
+Sri Shirdi Parthi Sai Charitable Hospital Blood Bank,583102,NA
+Sanjeevini Trust ? Jayanagar Voluntary Blood Bank,560069,080 26494748
+BEML Medical Centre Bharat Earth Movers Limited,563115,08153 263208
+SJM Blood Bank Basaveshwara Medical College Hospital and Research Centre,NA,08194 222054
+Railway Hospital Blood Bank,NA,NA
+Sri Vinayaka Charitable Trust? Jeeva Voluntary Blood Bank,560002,NA
+MVJ Medical College and Research Hospital,560164,NA
+District Hospital Blood Bank,NA,NA
+"Indian Red Cross Society, Karnataka Red Cross Blood Bank",560001,NA
+Apollo Hospitals a unit of Imperial Cancer Hospital and Research Centre Limited,560076,080 26304050
+Vijaya Hospitals Sanjeevini Blood Bank,572103,0816 2257762
+Vijayanagar Hospital Blood Bank,560040,080 23358800
+"Harsha Hospital Blood Bank, Harsha Hospital",562123,080 27723695
+Rotary Charitable Trust Blood Bank,NA,0831 2220702
+Bangalore Institute of Oncology,560027,NA
+Swamy Vivekananda Charitable Blood Bank,583103,0839 266938
+Ocean Blood Bank,560051,080 25552199
+Mounesh Hospitals The Jamkhandi Blood Bank,NA,08354 835322357
+District Hospital,NA,NA
+Vasavi Blood Bank,NA,08194 222666
+Rotary Seva Sanghs Dr. B.C. Ajari Memorial The Rotary Blood Bank,591307,0831 225300
+Rotary K.R. Hospital Blood Bank,560050,080 28437393
+Mahaveer Blood Bank,590001,0831 2430759
+Blood Bank,574214,0825 6233939
+Rotary Tumkur Central Belli Blood Bank,572201,0816 225277
+Veerayoga Institute of Medical Sciences Speciality Hospitals,560037,NA
+Rotary Mysore Chandrakala Hospital Blood Bank,570012,0821 4288638
+BGS Global Hospitals,560060,080 26255555
+Sri Shakti Blood Bank,584128,NA
+"Shripad Hegde Kadave Institute of Medical Sciences, T.S.S. Hospital",NA,NA
+Indian Red Cross Soceity Blood Bank,NA,08192 252550
+"K.L.E.Societys , Dr. Kamal hospital and Medical Research Centre",577001,0824 2444590
+Narayana Hrudayalaya,NA,080 27835000
+Gopi Blood Bank,583227,08539 8533272191
+A.J.Hsopital and Research centre,NA,0824 2225535
+Holy Cross Hospital,571443,08226 263116
+Columbia Asia referral Hospital,NA,NA
+Sha Damji Jadavji Chheda Memorial Rashtrotthana Blood Bank,NA,0836 2358838
+"Sagar Blood bank, Sagar Hospitals, (Unit of sagr Health care and Diagnostic Services Pvt. Ltd.)",NA,080 42999177
+Kasturba Hospital Blood Bank,576104,0820 2922331
+Fortis Hospital Pvt. Ltd.,NA,080 66214055
+Life Line 24x7 Blood bank,NA,NA
+Fortis Hospital Pvt. Ltd.,NA,080 41994515
+"KMC, University Medical Centre",575001,NA
+Red Cross Sanjeevini Blood Bank,577201,NA
+Sagar Hospital,560041,080 26536712
+Manipal Hospital Transfusion Services,NA,080 25024357
+Yashomathi Medicare and Research Centre (P) Ltd.,560037,080 43221019
+Srinivasa Institute of Medical Sciences and Research Centre,575021,0824 2474883
+"Tejasvini Hospital, Lions Blood Bank, Tejasvini Hospital",575002,0824 2225994
+Manjunath Orthoaedic and Trauma Centre Hospital Blood bank,573201,08172 266124
+Indian Red Cross Society,NA,NA
+Subbaiah Medical College Blood bank,577201,08182 277505
+Life Care Voluntary Blood Bank,560011,080 22446923
+Vikarm Hospital Blood Bank,571401,08232 402121
+Jeevadhara Voluntary Blood Bank (Aunit of Cauvery Social Services Trust),NA,0821 2444936
+"Karnataka Hemophillia Society, Life Line Blood Bank",NA,08192 231948
+Hajji Sir Ismail Sati Gosh Hospital,506051,NA
+"Nuveen Medical Relief and research Foundation, St.Josephs Hospital Blood Bank",570015,0821 4003900
+R.L.Jalappa Hospital and Research Centre,NA,NA
+Cauvery Hospital Blood Bank,570011,0821 2425000
+Indian Red Cross Society,575001,0824 2423755
+The Oxford Medical College Hospital Blood Bank and Research Centre,562107,NA
+"Ramanagoudar Hospital Blood Bank, Ramanaouda Hospital",587313,NA
+Kamakshi Hospital Blood Bank,570009,0821 2545981
+District Hospital Blood Bank,NA,NA
+Nitte University Blood Bank,575018,0824 220447
+Sakra worl Hospital (A Unit of Takshasila Hospitals Operating Private Limited),560103,080 49694916
+Chiranjeevi Blood Bank,583201,0839 262275
+"Sri Shridevi Charitable Trust ?, Research Hospital",572106,NA
+Dr.Rajkumar (Appaji) Blood Bank,NA,NA
+Sri. Shankara Cancer Hospital and Research Centre,560004,080 26610151
+"Narayana Hrudayalaya, Surgical Hospital Pvt. Ltd",NA,0821-7122222
+Raichur Institute of Medical Sciences Teaching Hospital (RIMS),NA,NA
+Mediscope Blood Bank,560045,080 25466554
+Akash Institute of Medical Sciences and Research Centre Blood Bank,562110,NA
+"J.S.S. Hospital Blood Bank, JSS Hospital",570004,NA
+"Indian Red Cross Koppal District, Branch",583231,NA
+"B. Shivaji Raes Blood Bank, (A Unit of Sri Marathi Charitable and Educational Trust ( R)",NA,080 22224044
+"Rastrothana Parishath Blood Bank, Bangalore",560019,NA
+"K. R. Hospital, Blood Bank",NA,0821 2429800
+"District Hospital, Blood Bank",NA,08532 235855
+"District Hospital, Blood Bank",NA,NA
+Sharada Dhanvantari Charitabable Hospital Blood Bank,577139,NA
+"General Hospital, Blood Bank",NA,08251 238258
+Davangere Blood Bank,NA,NA
+Pandit General Hospital Blood Bank,NA,NA
+Khaja Banda Nawaz Teaching and General Hospital,585102,NA
+Pandit General Hospital,577001,NA
+Sapthagiri Hospital Blood Bank,560090,080 22791638
+Kerala State Co-operative Hospital Complex and Centre for Advanced Medical Services Ltd.,670503,"0497 2808080, 0497 2808111"
+Cannannore Co-Op Hospital Society,NA,"0490 2341604, 0490 2341035, 0490 2341036"
+Tellichery Co-Op Hospital,NA,"0490 2325306, 0490 2320777"
+The Payyannur Co-operative Hospital Society Ltd.,670307,"04985 207372, 04985 207373, 04985 204051"
+Badagara sahakarana Asupathri Ltd.,NA,0496 2520600
+Kozhikode District Co - Operative Hospital,673006,0495 2766820
+District Hospital,NA,0477 2282709
+"Medical College Hospital Blood Bank, Alappuzha (T D Medical College",688005,0477 2282709
+General Hospital,682011,"0484 2366426, 0484 2625101, 0484 2386000"
+INHS Sanjeevini Naval Base,NA,0484 2662366
+"Regional Blood Transfusion Centre, District Hospital",NA,0471 2442541
+District Hospital Blood Bank,685603,0486 2232474
+District Hospital,670017,0497 2733500
+General Hospital,670101,0490 5326050
+"Community Health Centre (T.H.Q) ,General Hospital Blood Bank",671121,0499 4225580
+District Hospital Blood Bank,671315,0467 2204333
+District Hospital,NA,"0474 2768667,0474 2798999"
+Govt Hospital,691305,"0475 2222702,0475 2228702"
+Head Quarters Hospital,NA,0474 2452610
+District Hospital,686001,0481 2563611
+Medical College Hospital Blood Bank,686008,0481 2563611
+Government General Hospital,673032,0495 2365367 0495 2365917
+Government Woman and child Hospital,673001,04952 721998
+Medical College Hospital Blood Bank,673008,04952 351134
+District Hospital Blood Bank,676121,0483 2766880
+"Govt Hospital, (Taluk Head Quarters Hospital)",NA,0493 3226505
+Taluk Head Quarters Hospital,676101,0494 2422044
+District Hospital,678001,0491 2534524
+General Hospital,NA,0468 2222364
+General Hospital,NA,0471 2307874
+"Medical College Hospital, Blood Bank",695011,0471 2528230
+"Regional Cancer Centre, Medical College Campus",NA,"0471 2443128,0471 2522222"
+Sri ChithiraThirunal Institute of Medical Science & Technology,695011,"0471 2524477,0471 2524406"
+Taluk Head Quarter Hospital,695304,0470 2646565
+"Women & Children Hospital, Thycaud",695014,0471 2323457
+"District Hospital, Round Easr, Thrissur",680020,"0487 2427778, 0487 2427383"
+"Medical College Hospital, Mulangunnathukavu,Thrissur",NA,0487 2200310
+District Hospital,NA,0493 6223920
+Government T.H.Q. Hospital,673592,NA
+Kannur Medical college and Hospital (Prestige edu Trust),NA,0497 2855001
+Centuary Hospital,NA,NA
+"K.V.M.Hospital,Cherthala",NA,NA
+Sacred Heart Hospital,NA,0478 2822337
+V S M Hospital Blood Bank,690103,0479 2304222
+Central Travancore Specialist Ltd.,NA,NA
+Devamatha Hospital,NA,0485 2252271
+IMA Voluntary Donor BB,682011,"0484 2361549,0484 2350522"
+Lakeshore Hospital&Research Centre Ltd,NA,0484 2701033
+Lisie Hospital,682018,"0484 2400812,0484 2401817"
+Little Flower Hospital,NA,"0484 2452546 ,0484 2458171"
+Lourdes Hospital,683503,0484 4123456
+Malankara Orthodox Syrian Church Medical Mission Hospital,NA,NA
+Mar Baselius Medical Mission Hospital,NA,NA
+"Medical Trust Hospital, M.G.Road",NA,0484 2358001
+Nirmala Medical Center,NA,NA
+P.V.S. Memorial Hospital Ltd,NA,NA
+Samaritan Hospital,NA,"0484 2680511,0484 2680516"
+Sanjoe Hospital,NA,0484 2522251
+St Joseph Hospital,NA,NA
+Sree Narayana Institute of Medical Sciences,NA,"0484 2479199 ,0484 2573023"
+"Amritha Institute of Medical Sciences, Research Centre",NA,NA
+Carmel Hospital,NA,NA
+Sunrise Institute of Medical Sciences( P) Ltd.,NA,NA
+"Aster Medicity, Aster DM Healthcare Private Limited",682027,NA
+Alphonsa Hospital,NA,NA
+Holy Family Hospital,NA,04862 222231
+I.M.A.Blood Bank Society,685584,"0486 2329400, 0486 2221237"
+"M.M.T.Hospital, , (Mundakkayam Medical Trust Hospital)",NA,04869 280356
+Morning Star Medical Centre,NA,NA
+St Johns Hospital,NA,NA
+"Tata Tea Limited, General Hospital",NA,NA
+Malabar Cancer Centre Society,670003,"0490 2355881, 0490 2355981"
+Sara Memorial Medical laboratory & Blood Bank,NA,NA
+St.Martin De Porres Hospital,670301,"0497 2860223, 0497 2860420"
+Medical diagnostic Centre,NA,NA
+Bishop Benziger Hospital,691001,0474 2768204
+Holy Cross Hospital,691571,0474 2530121
+I.M.A.Blood Bank,691002,0474 2766551
+S.N.Trust Medical Mission Sankar Memorial Hospital,NA,0474 3918424
+St Joseph Hospital,691306,"0475 2271341, 0475 2271342"
+St Joseph Hospital,691306,"0475 2352333, 0475 2271341"
+"Quilon Medical Trust, Kollam",NA,"0474 3069999, 0474 2729393"
+Upasana Hospital,NA,04742 762888
+"Azeezia Medical College, Blood Bank",NA,4743069200
+Benziger Hospital Blood Bank,691001,0474 2768204
+Padmavathy Medical Foundation,NA,0476 2831408
+Caritas Hospital,NA,"0481 2790025, 0481 2790029"
+Carmel Medical Centre,NA,0482 2212785
+Holy Ghost Mission Hospital,NA,0482 9283202
+"Indo American Hospital, Brain&Spine Centre",NA,NA
+Little Lourde Mission Hospital,NA,0482 2254156
+Mar Gee Varghese Dionysius Memorial Muthoot Hospital,NA,NA
+Mar Gregorious Diocese Memorial Muthoot Hospital,NA,NA
+Marian Medical Centre,NA,0482 2215519
+Mary Queens Mission Hospital,NA,0482 8202460
+MUM Hospital Blood Bank,NA,0482 2242222
+Rotary Blood Bank,NA,0481 2567403
+S.H.Medical Centre,NA,0481 2562240
+Immaculate Heart of Mary Hospital Blood Bank,686578,0472 2236158
+St Thomas Hospital,NA,0481 2721797
+Baby Memorial Hospital,NA,0495 2777777
+Fathima Hospital,NA,"0495 2766630, 0495 2766640"
+IQRAA Hospital Blood Bank,NA,NA
+K M C T Hospital Blood Bank,NA,"0495 2293500, 0495 2720466"
+Malabar Institute Of Medical Sciences,NA,0483 2807000
+MMC Hospital Blood Bank,NA,"0495 2701665, 0495 2701666"
+National Hospital,NA,NA
+Nirmala Hospital,NA,0495 2730211
+P.V.S.Hospital (P) Ltd,NA,NA
+St. Joseph Hospital Blood Bank,NA,"0495 2298536, 0495 2297492, 0495 2295024"
+Santhi Hospital Blood Bank,NA,NA
+Metro International Caqrdiac Centre,673014,0495 661 5555
+Al-Shifa Hospital pvt Ltd.,NA,NA
+Edappal Hospital (P) Ltd,670576,"0494 2660200, 0494 2680788"
+Korambayil Hospital Blood Bank,NA,"0483 2766573, 0483 2766822"
+Orchid Institute of Health Care & Research Pvt. Ltd,676519,NA
+"Malabar Institute of Medical Sciences Blood Bank, Malappuram",NA,"0483 2807000, 0483 2807888"
+M.E..S Medical College Blood Bank,NA,"04933 298300, 04933 258306"
+"Almas Hospital Blood Bank, Chankuvatty",676503,"0483 2748536, 0483 2748539"
+Sree Valsam Institute of Medical Sciences,679576,NA
+Karuna Medical Collage Hospital Blood Bank,678103,NA
+Mother Care Hospital Blood Bank,NA,"04924 232600, 04924 232888"
+Palakkad Blood Bank,NA,0491 2505066
+Valluvanad Hospital Blood Bank,NA,0466 2244405
+"Archana hospital blood bank, Pandalam",NA,NA
+Chithra Hospital,NA,04734 2252865
+Holy Cross Hospital,691523,04734 2282466
+Knanaya Medical Mission Hospital,NA,04735 226227
+Mar Gregorious Memorial Muthoot Medical Centre,NA,0468 2314000
+Menathottam Hospital,NA,NA
+Pushpagiri Hospital,NA,NA
+Thiruvalla Medical Mission Hospital,NA,"0469 2626096, 0469 2626000, 0469 2626262"
+Fellowship Mission Hospital Blood Bank,689547,0469 3245000
+Lifeline Suoer Speciality Hospital,691523,NA
+Ananthapuri Hospital and Research Institute Blood Bank,NA,"0471 2506565, 0471 25006787, 0471 25006 254"
+Cosmopolitan hospitals(pvt) Ltd,NA,0471 2521188
+Dr.Somervel CSI Mission Hospital,NA,0471 2250506
+"Kerala Institute of Medical Sciences,Anayara, Thiruvananthapuram",NA,0471 3041222
+Nims Hospital Blood Bank,NA,0471 2223544
+P.N.M.Hospital,NA,NA
+PRS Hospital Private Limited,NA,0471 2913000
+Sivagiri SreeNarayana Medical Mission,NA,0470 2602249
+Sree Uthradam Thirunal Hospital,NA,"0471 4077777, 0471 4077194"
+Superior Blood Bank,NA,0471 2334456
+S U T Royal Hospital,695011,0471 4177777
+Amala Cancer Hospital& Research Centre,NA,NA
+Aswini Hospital Pvt Ltd,NA,NA
+Bishop Alappat Mission Hospital,NA,0480 2670267
+Elite Mission Hospital,NA,"0487 2429322, 0487 3011400"
+I.M.A Blood Bank Complex and Research Centre,680631,"0487 2323964, 0487 2320784"
+Jubilee Mission Hospital,NA,0487 2432200
+Malankara Orthodox Syrian Church Medical Mission Hospital,NA,04885 222944
+Maria Theresa Hospital,NA,NA
+"Mary Immaculate Mission Hospital,",NA,NA
+Modern Medical Blood Bank,NA,0480 3953397
+Mother Hospital,NA,"0487 2434100 , 0487 2361091"
+Royal Hospital,NA,04885 222133
+Sacred Heart Mission Hospital,NA,"0480 2826545, 0480 2823128"
+St Josephs Hospital,NA,04885 23623
+Thrichur Heart Hospital Ltd,NA,0487 2433101
+Thrissur Metropolital Health Care ( P) Ltd,NA,NA
+Unity Hospital (P) Ltd,NA,NA
+West Fort Hitech Hospital,NA,NA
+"West Fort Hospital, Thrissur",NA,NA
+St James Hospital,NA,NA
+Sree Gokulam Medical College & Research Foundation,NA,0472 3041234
+Century Hospital,NA,0479 2468709
+Immaculate Heart Of Mary Hospital,NA,NA
+Velankanni Matha Hospital Pvt. Ltd.,686016,0481 2790920
+D M Wayanad Institute of Meddical Sciences,673577,04936 282222
+"The Managing Partner, M/S Leo Hospital",673121,"04936 202550, 04936 202711"
+Taluk Head Quarter HospitalBlood Bank,683101,0484 2625101
+General Hospital,689645,0468 2222364
+Woman and Child Hospital,688012,0477 2251151
+Co-Operative Medical College,683503,0484 2411460
+Taluk Head Quarters Hospital,691506,0474 2452610
+Indira Gandhi Hospital Blood Bank,NA,04896 263582
+Gandhi Medical College Blood Bank,462001,0755 4050148
+Medical College Blood Bank,452001,0731 2438138
+Medical College,NA,0751 2403225
+Medical College,NA,0766 2257441
+Medical College,NA,0734 2551077
+District Hospital,482016,0755 2556812
+District Hospital,481001,07632 241099
+District Hospital,451551,07290 222025
+District Hospital,NA,07141 233250
+District Hospital,480001,07162 24344207162 243443
+District Hospital,471001,07162 243442
+District Hospital,454001,07292 235246
+District Hospital,455001,07272 251718
+District Hospital,4700661,07812 222183
+District Hospital,NA,07542 250312
+District Hospital,NA,07574 254446
+Rani Durgawati Hospital,NA,0761 261052
+District Hospital,457661,07392 243312
+District Hospital,NA,0733 2230779
+District Hospital,451001,07282 250702
+District Hospital,481661,07642 253077
+District Hospital,NA,07422 241241
+District Hospital,476001,07532 226318
+District Hospital,487001,07792 230480
+District Hospital,488001,07732 253658
+District Hospital,NA,07412 270445
+District Hospital,NA,07482 222062
+District Hospital,NA,07372 20102107372 201023
+District Hospital,NA,07582 236490
+District Hospital,485001,07672 223226
+District Hospital,480661,07692 220358
+District Hospital,484001,07652 245256
+District Hospital,465001,07364 222127
+District Hospital,NA,07562 226737
+District Hospital,NA,07492 222362
+District Hospital,NA,07683 24230707683 242354
+District Hospital,466001,07592 237825
+District Hospital,483501,07622 230367
+District Hospital,486661,07822 25220707822 252153
+District Hospital,NA,07534 234074
+District Hospital,NA,07522 238624
+District Hospital,NA,07394 235504
+District Hospital,NA,07653 222314
+District Hospital,NA,07530 220252
+Rani Durgawati Hospital,NA,0761 2625622
+District Hospital,NA,07577 222102
+District Hospital,NA,07325 251166
+District Hospital,NA,07644 234962
+CH Itars,461111,7574241988
+Civil Hospital Bhanpura,NA,NA
+IGH Gas Rahat,462002,0755 2713100
+District Hospital,474006,0751 5030097
+Military Hospital Jabalpur Blood Bank,NA,NA
+Kasturba Hospital BHEL,NA,NA
+WCL Badkui Hospital Chhindwara,480447,07162 220249
+WCL Hospital Pathakheda Betul,460449,07146 270210
+Burhar Central Hospital of South Eastern Coal Fields Limited,NA,NA
+Nehru Jan shatabdi Chikitsalaya Blood bank of Nehru Coal Field,NA,NA
+Indian Red Cross Society (IRCS),458441,"07423 223878, 07423 225982"
+Indian Red Cross Society (IRCS),462016,0755 2526108
+Indian Red Cross Society (IRCS),474001,0751 4074294
+Indian Red Cross Society (IRCS),475110,0752 4470222
+Red Cross Blood Bank,486885,07805 245144
+MP Thelasmia Kid Care Society,NA,NA
+Tatpar Pathology and Diagnostic Centre,NA,0755 2576466
+Bhopal Memorial Hospital and Research Centre Blood Bank,462038,0755 2742213
+Jawahar Lal Nehru Cancer Hospital and Research Centre,462003,0755 4255682
+People Hospital Blood Bank,NA,NA
+New Bhopal Blood Bank,NA,NA
+Arpan Blood Bank,NA,NA
+Chirayu Health and Medicare Malipura,NA,NA
+City Blood Bank of Bhojpal Charitable Trust,NA,NA
+JK Hospital and Medical Research Centre,NA,NA
+Manas Blood Bank of Chinmayi Swasthya Seva Sadhbhav Shikshan Samiti,462001,NA
+Chirayu Medical College and Hospital,462030,"0755 6679000, 0755 6679101, 0755 6679102, 0755 6679103"
+RKDF Medical College Hospital and Research Centre,462026,0755 6710300
+MP Birla Hospital and Priyamvada Birla Cancer Research Institute,485005,"07672 257411, 07672 257412, 07672 404085"
+Bansal Hospital Redefining Healthcare,462016,"0755 7086000, 0755 4086099"
+Allied Pathology Laboratory and Blood Bank,452010,"0731 2556263, 0731 2553308"
+CHL Apollo Hospital,452010,0731 2445566
+Suyash Blood Bank,1,"0731 2493911, 0731 2493912, 0731 2493913"
+Lions Club of Indore,452018,NA
+Modern Blood Bank,453441,0732 4271255
+Mohit Blood Bank Services,452010,NA
+MP Thalassmia Welfare Society Blood Bank,452008,0731 4025333
+Shubham Pathological Diagnostic Centre,452001,07312 563202
+Life Line Hospital,NA,"0731 2575611, 0731 2575612, 0731 25756 13"
+Qurewell Blood Bank of Care Well Hospital Pvt Ltd,452001,0731 24344445
+Noble Pathology Labs Blood Bank,452001,0731 2522970
+Shri Satya Sai Blood Bank,452016,0731 2590737
+Shri Indore Cloth Market Hospital,NA,"0731 2439223, 0731 2439200"
+Vishnu Prabha Diagnostic Centre,452001,0731 2522450
+Choitram Hospital and Research Centre,452014,"0731 2362491, 0731 2362499, 0731 4206750,0731 4206759"
+Lahoti Medicare PvtLtd,452018,0731 2490577
+Verma Union Hospital Blood Bank,NA,"0731 2380609, 0731 4022000, 0731 4056651"
+Sanghvi Blood Bank,452001,"0731 2527081, 0731 4208761"
+Greater Kailash Hospitals Pvt Ltd,452018,"0731 6633333, 0731 4051160, 0731 2491160, 0731 3057935, 0731 4091515"
+Bombay Hospital Trust,NA,0731 2558866
+Aruvindo Blood Banks SAIMS Hospital,453555,"0731 4231000, 0731 4231100"
+Arihant Hospital and Research Centre,452009,"0731 2785172, 0731 278517274"
+Index Medical College Hospital and Research Centre,462008,0731 4215757
+SNG Hospital Blood Bank,452001,"0731 4219191, 0731 2525555"
+Gokuldas Hospital Blood Bank,452001,0731 2519212
+Gurjar Hospital and Endoscopy Centre Pvt Ltd,452009,"0731 2363716, 0731 2363717, 0731 2363718,"
+Vishesh Hospital Blood Bank,452001,"0731 4238111, 0731 2499331, 0731 2499332,0731 2499333"
+Shri Radheswami Blood Bank,474001,0751 2330393
+Emergency Blood Bank,474009,0751 2457707
+Captain OS Dewan Memorial Blood Bank,474001,0751 2625377
+Cancer Hospital and Research Centre,474009,NA
+Radhaswami Blood Bank Services,474001,0751 2321034
+Shri Guruji Raktkosh,NA,NA
+Birla Institute of Medical Research,474006,"0751 2405655, 0751 2416620"
+Khanna Pathology Lab and Blood Bank,NA,NA
+Jabalpur Thalesemia Society,NA,NA
+Jabalpur Blood Bank and Pathology Lab,NA,NA
+Bansal Blood Bank and Transfusion Service,482002,NA
+Jabalpur Hospital and R Centre,482001,NA
+Arti Pathology Blood Bank,NA,NA
+Mehta Laboratory and Blood Bank,NA,NA
+Grassim Hospital and Blood Bank,NA,NA
+CR Gardi Hospital and RD,NA,0736 8261305
+Ujjain Charitable Trust,NA,0734 4013621
+Puspha Mission Hospital and Maternity Home Blood Bank,NA,0734 2526732
+Mittal Hospital Nursing Chopati,NA,0729 2233462
+Society of St Joseph Hospital Blood Bank,NA,0757 4257835
+Harit Blood Bank,461001,NA
+Shreya Blood Bank,461001,NA
+Deep Blood Bank,NA,NA
+Padhar Hospital Blood Bank,NA,"07141 263227, 07141 263228, 07141 263590"
+AVJS Diagnostic Centre,NA,NA
+Jain Pathology Laboratory and Blood Bank,NA,NA
+Jindal Blood Bank,NA,0753 2250789
+Kanchan Medicare and Research Centre Pvt Ltd,473001,NA
+Jivan Jyoti Hospital,NA,NA
+Bhagyoday Tirth Hospital,NA,0758 2266671
+Madhav Smriti Seva Nyas Blood Bank,NA,0781 2226888
+Agrawal Blood Bank,NA,NA
+Chandubhai Somabhai Patel Blood Bank (of Arogyaseva Mandal),NA,NA
+Murlidhar Kripa Hospital of JK Mansingh Ka Trust,NA,NA
+Sadguru Blood Bank Chitrakoot,NA,0767 0265320
+Vishnuprabha Charitable Trust,NA,NA
+Ashoknagar Seva Samiti,NA,0754 3222522
+Manav Seva Samiti,NA,0741 2239000
+Medical College,NA,0761 2370951
+Bhopal Memorial Hospital and Research Centre,NA,0755 2742212
+District Victoria Hospital,482002,0761 2622202
+SECL Hospital Dhanpuri,484114,0765 2250223
+NSC Jayant,486890,0780 5254896
+Bhandari Hospital and Research Center,452010,"0731 5003333, 0731 2552833, 0731 2552844, 0731 2551850"
+St. Georges Hospital,400001,"022 22620344 , 022 22621420, 022 22620242,022 22624464"
+Sir J.J.Group of Hospital,400008,"022 23739400, 022 23735599"
+Mumbai Port Trust Blood Bank,400037,"022 66567722, 022 4145115"
+G.T.Hospital Blood Bank,400001,"022 22621468, 022 22031111"
+"INS, Ashwini Blood Bank",400005,"022 2215166, 022 22151666"
+Tata Memorial Hospital Blood Bank,400012,"022 24177000, 022 24127096"
+"Dr. Babasaheb Ambedkar Memorial Hospital, Central Railway Hospital Blood Bank",400027,"022 23791964, 022 23717246, 022 67452926, 022 67452950, 022 23726588"
+"Cama and Albles Hospital, Abdul Fazalbhoy Blood Bank",400001,022 22611648
+Bhabha Atomic Research Centre Hospital Blood Bank,400094,"022 25598353, 022 25598361, 022 25558494"
+Esic Model Hospital,440002,022 28321361
+Anviksha Pathological Laboratory Blood Bank,400077,"022 21026290, 022 21025927"
+Asian Heart Institute and Research center,400051,"022 66986666, 022 26542088,022 66986506, 022 26508487"
+West Coast Blood Bank,400016,"022 24444544, 022 24448899"
+Fortis Hospital Blood Bank,400078,"022 67994370, 022 67994242"
+Kohinoor hospital blood bank,NA,"022 67556737, 022 67556800"
+Seven hills Healthcare Private Limited Hospital,NA,022 67676767
+Haematology Laboratory Blood Bank,400004,"022 23691297,022 23610912"
+Cumbal Hill Hospital And Heart Institute Blood Bank,400036,"022 23803674,022 23803336,022 23514740 , 022 23511551"
+Kapoorben Vasanji Lathiya Blood Bank Nanavati Hospital,400056,"022 26119924, 022 26182255,022 26630659"
+"Samarpan Blood Bank,",400077,"022 25100100, 022 25102511, 022 25111313"
+Bandra Holly Family Hospital Society Blood Bank,400050,"022 30610300, 022 30610555, 022 26518373"
+Holy Spirit Hospital Blood Bank,400093,"022 28200353, 022 28248505"
+The B.D. Petit Parsi General Hospital,400036,"022 61186190, 022 61186192,022 61186333"
+Breach Candy Hospital And Research Centre,400026,"022 23667811, 022 23872666"
+Jaslok Hospital And Research Centre,400026,"022 66573434, 022 66573035"
+Prince Aly Khan Hospital Blood Bank,400010,"022 23777934, 022 23777936"
+Bhatia General Hospital and Blood Bank,400007,"022 66660656, 022 66660032"
+Bombay Hospital Trust Blood Bank,400020,"022 22067676, 022 22080871, 022 22080871"
+P.D. Hinduja National Hospital And Medical Research,400016,"022 24447308, 022 24447309, 022 24447310"
+N.M Wadia Hospital Blood Bank,400012,"022 24165638 ,022 26666172"
+Lilavati Hospital and Research Centre Blood Bank,400050,"022 26751000, 022 26568000, 022 26437648"
+Ashirwad Blood Bank,400014,"022 24154826, 022 24154827"
+K.J.Somaiya Medical College and Hospital Blood Bank,400022,"022 24024671, 022 24020946, 022 24091855"
+S. R. Mehta and Sir. K.P Cardiac Institute,400022,"022 24035454, 022 2409 4732"
+Shushrusha Citizens Co-op Hospital Blood Bank,400028,"022 24469579, 022 25288698"
+B.S.E.S M.G. Hospital,400058,"022 66487576, 022 26283557, 022 26715000"
+Masina Hospital Blood Bank,400027,"022 23700715, 022 23700715"
+S. L. Raheja Hospital. Blood Bank,400018,"022 24445528, 022 66529682,022 24449418"
+Dr. L. H. Hiranandani Hospital,400076,"022 25763355, 022 25763356, 022 25763357,022 25763344, 022 25763311"
+"Prabodhan Blood Bank, Siddharth Hospital",400092,"022 28797586, 022 28722929, 022 28797586"
+Navjivan Blood Bank and Lab,400092,"022 28934122, 022 28935133, 022 28918144, 022 28921727, 022 25339495"
+Saifee Hospital Trust Blood Bank,400004,"022 67571140, 022 67570777"
+Mahatma Gandhi Seva Mandir Blood Bank,NA,"022 26431893, 022 26431897"
+"Nandakishor Education SocietysMatoshri Valbai Mulji Shah, Arpan Blood Bank",NA,"022 25951044, 022 25941142"
+Hi-tech Blood Transfusion and Allied services,400064,"022 28714060, 022 28714070"
+Borivali Blood Bank (Doshi Memorial Charitable Trust),400103,"022 28936203, 022 28935219"
+Sir J.J.Mahanagar Rakthapedhi,400008,"022 23735585, 022 23733338"
+Manas Serological Institute Blood Bank,400102,"022 26784546, 022 64208179"
+Kokilaben Dhibhai Ambani Blood Bank,400053,"022 30900900, 022 30972030"
+Indian Red Cross Society Bombay City Branch Blood Bank,400001,"022 40500400, 022 22663195, 022 22677448, 022 22677448"
+KEM Hospital Blood Bank,400012,"022 24135189, 022 24135189"
+Harilal Bhagwati Hospital Blood Bank,400103,"022 28932461, 022 28933740"
+R.N.Cooper General Hospital Blood Bank,400056,"022 26207254, 022 26205897"
+K.B.Bhabha General Hospital,400050,"022 26422541, 022 26422775, 022 26405226"
+BYL Nair Hospital,400008,"022 23027644, 022 23027645, 022 23098150"
+Lokmanya Tilak Municipal Hospital Blood Bank,400022,"022 24021771, 022 24063494, 022 24021771"
+Rajawadi Hospital Blood Bank,400077,"022 25094149, 022 27709285"
+V.N. Desai Municipal General Hospital Blood Bank,400055,"022 26182081,022 26183018, 022 26151506"
+M.T.Agarwal Mun.Gen.Hospital Blood Bank,400080,"022 25640767,022 25605728"
+District Civil Surgeon Blood Bank,402201,NA
+"Civil Surgeon, General Hospital Blood Bank",415612,"02352 225616, 02252 222362"
+"Civil Surgeon, General Hospital Blood Bank",416812,0236 2228902
+"Cottage Hospital, Blood Bank, Sawantwadi",NA,02363 275035
+Pantgashah Cottage Hospital Blood Bank,407603,02520 222293
+Civil Hospital (Vitthal Sayanna) Blood Bank,400601,"022 25472582, 022 25471409, 022 25471409"
+Central Hospital Blood Bank,421003,"0251 2709432, 0251 2708730, 0251 2709432"
+Tarapore Automic Power Station Hospital Blood Bank,401504,"02525 264001, 02525 264001"
+Advanced centre for treatment research and education in cancer (ACTREC),410208,"022 27405073, 022 27405085"
+"JVP Blood Bank and Transfusion Centre, Blood Bank",400705,"022 27894490,022 67912094"
+Sankalp Blood Bank,421301,"0251 2300096, 0251 2203974"
+Jupiter Hospital Blood Bank,400601,"022 21725521, 022 21725555,022 25853320"
+Dr. D.Y. Patil Hospital and Research Centre,400706,"022 39215955, 022 39215994, 022 39219511"
+Rotary Club New Panvel charitable Trust s Late Dr. B.V. Limaye Blood Bank,410206,"022 27459322, 022 32092960"
+"Kakasaheb Chitle Memorial Centre Sanchalit, Jankalyan Blood Bank,",402301,"02145 222604, 02145 225103, 02145 224807"
+"Shree Sai Medical Trusts, Shree Sai Blood Bank",410206,"022 27467856, 022 27450885, 022 27463796"
+Shree Swami Samarth Blood Bank,415606,"02355 264137, 02355 264149, 02355 264181"
+Plasma Diagnostic Lab and Blood Bank,421201,"0251 2802491, 0251 2453568, 0251 2438078"
+Vaidhya Blood Bank,400602,"022 25380787, 022 25411773, 022 25380787"
+Mahatma Gandhi Mission Medical College and Hospital Blood Bank,410209,"022 27863483, 022 27427905, 022 27420320"
+Navjeevan Blood Bank,400602,"022 25400425, 022 25339495"
+"Swargiya Shri Waman Hari Pethe Smruti, Sanjivani Blood Bank,",401303,"0250 2502284, 0250 2505029, 0250 3211812"
+Sarla Blood Bank,401202,"0250 2332684, 0250 2349950, 0250 3256565,0250 2332425"
+Tssia Blood Bank,400604,"022 25803263, 022 39410060, 022 25362283"
+Katiya Charitable Trusts Bhiwandi Blood Bank,421302,"02522 258065, 02522 221858, 02522 251614"
+Kai Wamanrao oak Blood Bank,400602,"022 25385248, 022 25392440"
+"Gor Banjara RSS Jankalyan Samiti, Seva Blood Bank",NA,0251 2442283
+Blood Line Blood Bank,NA,"022 25374000, 022 25375000, 022 25376000, 022 25375000"
+Kalyan dombivali Municipal Corporation Sponsored Nandakishore Education Society Arpan Blood Bank,NA,0251 3266322
+Smt. Devkaabai Kalyanji Chheda Amrutvahini Blood Bank,NA,"02528 220478, 02528 220614,"
+"Sanjeevan Blood Bank, Sanjeevan Blood Bank",400705,"022 27790286, 022 27790287, 022 27794582"
+Vijayee blood bank,401202,"0250 2321050, 0250 6450250"
+Mira Bhayandar Municipal Corporation Rajeev Gandhi Blood Bank,401107,022 64510666
+"Maharashtra Blood Bank, Component and Apheresis Cenre",401404,"02525 251102, 02525 253102"
+Chidanand Charitable Trust Dombivali,421201,0251 284393
+Seva Blood Bank,421201,0251 2442283
+Indian Red Cross Society Blood Bank,415612,"02352 223262, 02352 222347"
+Chhatrapati Shivaji Maharaj Hospital Blood Bank,400605,"022 25347784, 022 25347785, 022 25347786, 022 25372777, 022 25347791"
+Navi Mumbai Municipal Corporation,400705,"022 27888750,022 27899906"
+"Shri Vasantrao Naik Blood Bank, Government Medical College and Hospital",445001,07232 242456
+"Civil Surgeon, General Hospital Blood Bank",444005,"0724 2434401, 0724 2456143"
+"Dist-Hospital for Women, Blood Bank",444001,"0724 2433398, 0724 2433778, 0724 2457073"
+"Civil Surgeon, Dist- General Hospital Blood Bank",444601,"0721 2663337, 0721 2663339, 0721 2663338"
+Government Hospital Blood Bank,444303,"07263 255332, 07263 255332"
+"Lokmanya TSSIA Blood Bank, Thane",400604,NA
+Saibai Mote General Hospital Blood Bank,444203,"07265 252020, 07265 253241, 07265 252866"
+"Civil Surgeon, District General Hospital Blood Bank",443001,"07262 242423, 07262 242423"
+"Civil Surgeon, General Hospital Blood Bank Washim",NA,"07252 233066, 07252 233379"
+Dr. Vivek Pimpalkar Blood Bank,444101,"0724 2453533, 0724 2438271"
+Jeevan dhara Buldhana Urban Blood Bank,443001,07262 242024
+Shriram Blood Bank,444101,"0724 2433175, 0724 2434858"
+Dr. Murlidhar Kharche Memorial Jeevan Jyoti Blood Bank,443101,"07267 222450, 07267 222650,07267 222450, 07267 222650"
+Laxmi Blood Bank,445204,"07233 246775, 07233 246535, 07233 246535"
+Satyashanti Blood Bank,445204,"07233 248095, 07233 246095"
+Akola Diagnostic Centre Blood Bank and Component Lab,444001,"0724 2437179, 0724 2400661"
+Dr. Mankar Memorial Blood Bank,444005,"0724 2457530, 0724 2458079"
+Dr. Hedgewar Blood Bank,444005,"0724 2491264, 0724 2491265, 0724 2491266, 0724 2491264"
+"ICON Blood Bank,Ganediwal Charitable Trust",444001,"0724 2421263, 0724 2421264"
+Shri Balaji Blood Bank,444601,"0721 2671600, 0721 2574495"
+Dr. P.D.M.H.C. Hospital and Research Centre,440603,"0721 2552353, 0721 2662323, 0721 2665545,0721 2661742"
+Sant Gadgebaba Blood Bank and Component Centre,444701,"0721 2580455,0721 2580490"
+Lilavati Blood Bank,443001,"07262 243811,07262 243811"
+Shri. Brahman Swrankar Samaj Trust,444303,"07263 255577,07263 259334"
+Dr Late Sadanadaji Burma Memorial Blood Bank,NA,"07252 232056, 07252 233092"
+Sau Kantadevi Dale Blood Bank,444505,"07252 234343,07252 235606"
+Aieshwarya Blood Bank,445001,"07232 252500,07232 242340"
+Shri Gajanan Blood Bank And Components,444001,07232 242985
+Ekneel Blood Bank,445001,07232 250111
+Reginal Blood Bank Government Medical College and Hospital,NA,"0240 2402108, 0240 2402108,0240 242418"
+MGM Medical College and Hospital Blood Bank,400012,"0240 6601100, 0240 2484445, 0240 2487727"
+Dattaji Bhale Blood BankHedgewar Hospital,431005,"0240 2335196, 0240 2352371, 0240 2343481, 0240 2331195"
+Lokmanya Blood BankGopinath Chambers,431005,"0240 2335516,0240 2328632,0240 2342877, 0240 232862"
+Seth Nandlal Dhoot Hospital Blood Bank,431210,"0240 2489001, 0240 2485331"
+Arpan Voluntary,431001,"0240 2345359,0240 6604204, 0240 2390814"
+Amruta Blood Bank,431001,"0240 2060145,0240 2351145"
+"Civil Surgeon, General Hospital",431203,"02482 224381, 02482 224393"
+Jankalyan Blood Bank,431203,"02482 238397, 02482 243085,02482 232407"
+Noor Hospital Blood Bank,431202,02482 222515
+"Civil Surgeon, District General Hospital Blood Bank",414001,"02452 223458, 02452 231287"
+"Civil Surgeon, District General Hospital Blood Bank",431513,02456 224118
+Dr. Shankarrao Chavan Government Medical College and Guru Govindsinghji Memorial Hospital Blood Bank,NA,"02462 235711,02462 234702"
+Indian Red Cross Society Blood Bank,431602,"02462 236699,02462 231012,02462 236633, 02462 227335"
+Golvalkar Guruji Blood Bank,431601,02462 243300
+Arpan Blood Bank,431601,"02462 241587, 02452 239587"
+Arpan Voluntary,431601,"02462 245551,02462 245552, 02462 245555"
+Guru Gobindsinghji Blood bank,431601,02462 233332
+"Civil Surgeon, Government Medical College General Hospital Blood Bank",413512,"02382 257670, 02382 253017"
+Dr. Bhalchandra Blood Bank,413512,"02382 246078, 02382 254994"
+Smt. Saraswati Karad Blood Bank,413531,"02382 227424, 02382 227028"
+Nagappa Amberkhane Blood Bank,413517,02385 258325
+Arpan Blood Bank,413512,"02382 251476,02382 252476"
+"Civil Surgeon, General Hospital Blood Bank",413501,"02472 226924,02472 226924"
+Shri Krishna Blood Bank,413606,"02457 252004, 02457 252232, 02457 252469"
+"Civil Surgeon, General Hospital Blood Bank",431122,"02442 220609, 02442 222618"
+Swami Ramanand Tirth Arben Medical College Hospital Blood Bank,431517,"02446 244472, 02446 247132"
+Vaidynath Blood Bank,431515,02446 223584
+Navjivan Blood Bank,431122,"02442 233423, 02442 232434, 02442 223975"
+Aurangabad Blood Bank,431001,0240 2330400
+Newlife Blood Bank,431401,02452 220222
+Nanded Blood Bank,NA,02462 233810
+Lions Blood Bank,431005,0240 2337255
+Hazur Saheb Blood Bank,431601,"02462 248888, 02462 239999"
+"Maule Pratishtan ,Mauli Blood Bank",NA,02382 224000
+Arpan Blood Bank,NA,02446 245002
+"Government Medical College Blood Bank, Nagpur",440003,"0712 2744695, 0712 2744489"
+Super Speciality Hospital and Medical Post Graduate Institute Blood Bank,440003,"0712 2703501, 0712 2746682"
+Indira Gandhi Medical College and Hospital Blood Bank,440018,"0712 2728621, 0712 2774766"
+Civil Hospital Bandera Blood Bank,441904,"07184 252247, 07184 255151"
+General Hospital Blood Bank,442401,"07172 25040, 07172 252103, 07172 253992"
+Sub-District Rural Hospital Blood Bank,442705,"07133 272072, 07133 202072"
+"Civil Surgeon, General Hospital Blood Bank",442605,"07132 222056, 07132 222644"
+Bai Gangabai Ladies Hospital Blood Bank,441601,07182 237034
+Daga Memorial Women Government Hospital Blood Bank,440002,"0712 2729202, 0712 2729333, 0712 2729333"
+"District - Civil Surgeon, General Hospital Blood Bank Wardha",442001,"07152 245249, 07152 250624"
+"Central India Institute of Haematology and Oncologys Blood and Blood Component Bank and Apheresis Unit,Superspeciality Blood and Cancer Hospital",440012,"0712 2430038 , 0712 2428972 , 0712 6464198"
+Abashed Blood Bank,441904,07184 250786
+Ankur Hospital Blood Bank,442402,"07172 251522, 07172 255522 , 07172 264522"
+"Dr. Ninawe Blood Bank, Ninawe Hospital",442402,"07172 254884, 07172 254994"
+Cristanand Education Society Blood Bank,441206,"07177 272016, 07177 271109, 07177 271109"
+Jeevan Jyoti Blood Bank and Component,440010,"0712 2231660, 0712 2230876"
+Dr. Hegdewar Blood Bank,440010,"0712 2528292, 0712 2538900, 0712 6542233, 0712 2560033"
+Sainath Blood Bank,440010,0712 2452035
+Ayush Blood Bank and component Lab,440010,"0712 6618666, 0712 5631137"
+Lifeline Blood Bank Components and Apherisis Centre,400010,"0712 6618222, 0712 2436167"
+Rainbow Blood Bank,440010,"0712 6636666, 0712 6636666"
+"NKP Salve Inst.of Med.Sci. and Res.Center.Lata Mangeshkar Hosp, Blood Bank",440019,"07104 236290, 07104 236290, 07104 236291, 07104 232905"
+Kasturba Health Society Blood Bank,442102,"07152 284108, 07152 284333"
+Jawaharlal Nehru Medical College Blood Bank,442004,"07152 287877, 07152 287701, 07152 287706, 07152 287714 , 07152 287711"
+Shri Bhausaheb Hire Government Medical College and Hospital,424001,02562 288833
+"Civil Surgeon, General Hospital",414001,"0241 2430127, 0241 2431985, 0241 2430127"
+General Hospital Blood Bank,425001,"0257 2226642, 0257 2252145"
+"Civil Surgeon, District General Hospital Blood Bank",425412,"02564 202510, 02564 210135,02564 226225, 02564 210122"
+"Roachabai Sugnomal Manwani, Cantonment General Hospital",422401,"0253 2493365, 0253 24913377, 0253 541377, 0253 2462068"
+"Civil Surgeon, District- Civil Hospital Blood Bank",422001,"0253 2318020, 0253 2577949"
+Sainik Aspatal Military Hospital Blood Bank,NA,NA
+"Sanjeevani Blood Bank,Kopargaon",423601,"02423 222237, 02423 224885, 02423 223117, 02423 223009"
+"Rotary Blood Bank, Rahuri Charitable Trust",413705,"02426 232975, 02426 232893"
+Arpan Blood Bank,414001,"02425 226036, 02425 226036"
+"Jankalyan Blood Bank, Nalegaon",414001,"0241 2346647, 0241 2329827, 0241 2325661"
+"Pravara Medical Trust Blood Bank, Pravara Rural Hospital and Medical Dental College Loni (BK)",413736,"02422 271201, 02422 271528, 02422 2733413"
+Jondhales Nitya Seva Blood Bank,413709,"02422 224000, 02422 225000, 02422 222797, 02422 224000"
+Shri. Sainath Blood Bank,423109,"02423 258794, 02423 258660"
+Padm.Dr.Vithalrao Vikhe Patil Found.Ahmednagar Med.Collg.Hospital,414111,"0241 2778042, 0241 2779782"
+Shrirampur Blood Bank,413709,"02422 224293, 02422 210600"
+Anand rushiji Blood Bank,414001,"0241 2320472, 0241 2359085"
+"Jeevanraj Charitable Foundation,s Ahmednagar Blood Bank",414001,0241 2450099
+"Nandkishor Education Society, Arpan Blood Bank",414001,"0241 2451700, 0241 2451800"
+"Shree Navjeevan Blood Bank and Component Laboratary, Dhule",424001,"02562 245662, 02562 246289, 02562 245662"
+Jawahar Medical Foundation Blood Bank,424001,"02562 276317, 02562 277298"
+Jeevan Jyoti Blood Bank,424001,"02562 232807, 02562 236807"
+Janseva Blood Bank,424001,02562 238262
+Madhavrao Golwalkar Swayamsevi Blood Bank,425001,"0257 2234590, 0257 2261979"
+Jeevan Surabhi Blood Bank,424101,"02589 223833, 02589 222833"
+Jeevanshri Raktapedi,425401,NA
+Dhanwantri Blood Bank,425201,02582 243243
+Godavari Foundations Dr.Ulhas Patil Medical College and Hospital Blood Bank,425309,"0257 3058539, 0257 3058526"
+Jankalyan Rakta Pedhi,425412,"02564 226934, 02564 226935,02564 222226"
+Ansar Blood Bank,423203,"02554 238383, 02554 230169, 02254 230039"
+Arpan Blood Bank and Blood Component Laboratory and Research Centre,422001,"0253 2576058, 0253 2311358, 0253 2313662"
+Malegaon Blood Bank,423105,"02554 252731, 02554 256967, 02554 252731, 02554 256967"
+Jankalyan Blood Bank,NA,"0253 2573493, 0253 2575249, 0253 2313722"
+Seva Blood Bank,NA,02554 321825
+NDMVPS Medical College and Hospital Blood Bank,NA,"0253 2303802, 025 32303930"
+Samta Blood Bank,422001,"0253 2504199, 0253 2504299"
+Sanjeevani Blood Bank,422006,0253 2411888
+Jijau Mahila sevabhavi sansthan Nashik Blood Bank and Transfusion Research institute blood bank,NA,0253 2232996
+Poonam Janjagruti Sansthan Sanchit Ashtavinayak Blood Bank,414003,"0241 2421334, 0241 2421335"
+"HAL Ozar Township Infront of Gem High School ,Ozar ,Tal-Niphad,Nashik",NA,"02550 275463, 02550 275849"
+Indian Red Cross Society Blood Bank,425001,"0257 2226233, 0257 2236255, 0257 2235855, 0257 2226233"
+Askaran Tarachand Jain Blood Bank,425107,"02586 221019, 02586 220457, 02586 220468"
+J.D.C. Bytco Hospital Blood Bank,422101,"0253 2460251, 0253 24605352"
+Atul Medical and Rehabilitation Societys Arpan Blood Bank,424001,NA
+Arpan Blood Bank,424001,"02562 229163, 02562 229164"
+"Shree Swami Samartha Vaidyakiya Shaikshanik andSanshodhan Sanstha, Late Shri Mukeshbai Patel Blood Bank( Whole Human Blood and other 4 component)",425405,"09422562094, 09823000000"
+Shahada Blood Bank( Whole Human Blood ),NA,02565 223446
+Rajashri Chatrapati Shahu Maharaj Government Medical College and chatrapati Pramilaraje General Hospital Blood Bank,416002,"0231 2665750, 0231 2644337"
+Pune Chest and General Hospital Blood Bank,NA,"020 27285432, 020 27286458"
+Sasoon Sarvopchar Hospital Blood Bank,NA,"020 26126868, 020 24480431"
+Armed Forces Blood Bank,411040,"020 26026038, 020 26306337"
+"Padma bhushan Vasantdada Patil (Civil Surgeon), Government General Hospital Blood Bank",416416,"0233 2374651, 0233 2374585"
+"S.S.Venutai.Y.Chavan Sub-District Hospital, Blood Bank Karad",415110,"02164 222459, 02164 222459, 02164 221020"
+"Civil Surgeon, Sarva Samanya Hospital Blood Bank",415001,"02162 238494, 02162 235640"
+Dean Chatrapati Shivaji Maharaj Sarvopchar Hospital Blood Bank,413003,"0217 2310766, 0217 2749440"
+"Late Balasaheb Datye, Lions Blood Bank",416115,"0230 2436130, 0230 2422117"
+Rajarshi Shahu Blood Bank,416002,"0231 2651640, 0231 2324051"
+Mahatma Gandhi Hospital Blood Bank,416137,"0230 2477081, 0230 2477082, 02342 251509"
+Annasaheb Galatge Lions Blood Bank,416502,"02327 223100, 02327 226355, 02327 223100"
+"Acharya Shree Tulsi Blood Bank,Udgaon",416101,"02322 227955, 02322 228455, 0230 2438011"
+Dr. D.Y Patil Hospital Blood Bank,416003,"0231 2653286, 0231 2651027"
+"Arpan Blood Bank, Blood Component and Apheresis Centre Kolhapur",416001,"0231 2640588, 0231 2640599, 0231 6617208"
+Jankalyan Raktapedhi Pune,411002,"020 24449527, 020 24444502, 020 24441463"
+Inlaks Budharani Hospital Blood Bank,411001,"020 66099999, 020 66099727, 020 66099703"
+Indian Serological Institute Blood Bank,411030,"020 24535244, 020 24535245, 020 24538453"
+"Acharya Anandrushiji Blood Bank, Pune",411030,"020 24537627, 020 65250707, 020 24531600"
+Akshay Blood Bank,411028,"020 26993247, 020 30924264, 020 30924265"
+"Garware Blood Bank, Talegaon Rural Hospital",410507,"02114 223916, 02114 308399"
+Jahangir Nursing Home Blood Bank,411001,"020 66811722, 020 66811723,020 26050866"
+KEM Hospital Blood Bank,411001,"020 26125600, 020 66037324, 020 26125603"
+Medical Foundation A.H. Wadia Trust Blood Bank,411001,"020 26166318,020 26124527"
+Bharati Vidyapeeth Medical Foundations Bharati Hospital Blood Bank,411043,"020 40555555,020 24379432"
+Padmashree Dr.D.Y Patil (Vishweshwar) Blood Bank,411018,"020 27423844,020 27420439"
+Deenanath Mangeshkar Hospital,411004,"020 6602307, 020 6602308, 020 6602313, 020 25420104"
+Poona Serological Institute Blood Bank,411011,"020 26133387, 020 26141719, 020 27472876"
+Sahiyadari Speciality Hospital Blood Bank,411004,"020 25403232, 020 67213000"
+Aditya Birla Memorial Hospital Blood Bank,411033,"020 30717690, 020 30717676"
+Rakesh Jain Memorial Blood Bank,411030,"020 24331706, 020 66069000, 020 24338477"
+Noble Hospital Blood Bank,411013,"020 66285050, 020 66285199"
+Smt Kashibai Navale General Hospital Blood Bank,411041,"020 241062299, 020 24699884, 020 24106274"
+Pimpari Serological Institute Blood Bank,411018,"020 27421179, 020 27427779"
+Chakan Blood Bank,410501,02135 202141
+R.G Gholap Memorial Blood Bank,411009,NA
+"Kranti Mitra Mandal Charitable Trusts, Pune Blood Bank",411028,"020 26992828, 020 64782828, 020 26993703"
+Rajaram Bapu Blood Bank,415409,"02342 224939, 02342 224108,02342 224939"
+Vasantdada Patil Blood Bank and Haematology Research Centre,416410,"0233 2222319, 0233 2229619"
+"Miraj Medical Centre, Wanless Hospital Blood Bank",416410,"0233 2223291,0233 2223493"
+Jeevan Rekha Charitable Trust Blood Bank,416416,"02344 248000, 02344 248922,02344 247499, ,02344 247488"
+Smt. Anila Kantilal Kothari Blood Bank and dept. of hemato Oncology,416410,"0233 2212155, 0233 2211601,0233 2211603"
+Bharati Vidyapeeth University Medical college And Hospital,416414,"0233 2601594 , 0233 2601593"
+Hindratna Prakashbapu Patil Blood Bank,416416,0233 2672233
+"Miraj Serological Institute Blood Bank, Miraj",416410,"0233 6451819, 0233 2211400"
+Akshay Blood Bank,416410,"0233 2212448, 0233 2212449"
+Phaltan Medical Foundation Blood Bank,415523,"02166 221197, 02166 220897,02166 220007"
+"Krishna Hospital and Medical Research Centre, Blood Bank, Karad",415110,"02164 241456 ,02164 242170"
+"Akshay Medical Trust, Akshay Blood Bank",415002,"02162 230730, 02162 329293,02162 239920"
+"Mauli Blood Bank, Satara",415001,"02162 222586, 02162 222031"
+Yashwantrao Chavan blood bank,415110,02164 228122
+Shri Markendya Charitable and Medical Trust Irrapanna N Boli Blood Bank,413006,"0217 2653829, 0217 2390144, 0217 2620348"
+"Dr. Hegdewar Rakta Pedhi Sanstha, Solapur",413001,"0217 2311215, 0217 2311281, 0217 2311215, 0217 2311281"
+Solapur Blood Bank,413001,"0217 2317242, 0217 2318028"
+"IMA, Sahakar Maharshi Shankarrao Mohite Patil Blood Bank",413101,"02185 222101, 02185 225601, 02185 222665, 02185 222166"
+Akshay Blood Bank,413003,"0217 2315025, 0217 26993247"
+"M.M.Patel Public Charitable Trust, Ashwini Rural Medical College and Hospital Blood Bank",413006,"0217 2280897, 0217 2312763"
+"Athar Minorities Social and Welfare Associations, Athar Blood Bank",413002,"0217 2622999, 0217 2622999"
+"Sai Seva Medical Foundation,Vaibhavlaxmi Blood bank",416001,"0231 6454949, 0231 2664949"
+Indian Red Cross Society (IRCS) (Late Manikbai Chandulal Saraf) Blood Bank,413102,"02112 222951, 02112 320910"
+"Indian Red Cross Society Blood Bank , Shirgaonkar Blood Bank",416416,"0233 2373044, 0233 2372376,0233 2331521"
+"Indian Red Cross Soceity, Shriman Rambhai Shah Blood Bank",413401,"02184 222399, 02184 222399"
+"Indian Red Cross Society, Bai Gopabai Damani Blood Bank",413001,"0217 2726858, 0217 2722106,0217 2726857"
+"Indian Red Cross Society, Sarjubai Bansila Bajaj Blood Bank",413304,"02186 223650, 222219, 02186 224288"
+Kolhapur Municipal Corporation Blood Bank Kolhapur,416002,"0231 2541870, 0231 2541830"
+Krantiveer Chapekar Bandhu Blood Bank,411033,"020 27610054, 020 27610042"
+"The new century Medical and Educational foundation malegaon, Nashik",411007,020 46608585
+Ekta Apang Vikas Sansthas Ayush Blood Bank,411028,020 26855144
+Chattrapati Shahu Maharaj Pratisthans Aadhar Blood Bank,411030,020 65266999
+Chattrapati Shahu Maharaj Pratisthans Aadhar Blood Bank,411030,020 65267000
+Shree Basaveshwar Manav vikas gramin sevabhavi sansthas Adarsh Blood Bank,416416,"09604520087, 07798539069"
+Azad Panchis Groups Sddheshwar Blood Bank,413003,0217 2323222
+Vande mataram samajik Samsthas Jeevandhara Blood Bank,416008,0231 2526363
+Sanjeevan Blood Bank,416002,"0231 2668032, 0231 2668031"
+"Azad Panchi Group Charitable Trusts , Miraj Serological Institute Blood Bank",416416,0233 6451821
+Shri.R.R.Patil Shikashan Sheti sanshodhan Aani vikas sansthas Adhar Blood Bank,416115,"0230 2430073,0230 2426464"
+National Plasma Fractionation Centre,400012,NA
+Blood Bank District Hospital,NA,NA
+J.N. Hospital Blood Bank,NA,"0385 2443142, 0385 2443144"
+"Blood Bank, Regional Institute of Medical Sciences (RIMS) Hospital",795004,0385 2414750
+"Shija Blood Bank and Transfusion Services, situated at Shija Hospital and Research Institute",NA,0385 2055584
+District HospitalBlood Bank and Transfusion Unit,795138,0384 8222214
+Military Hospital,NA,"0364 2224300, 0364 2224302"
+Nazareth Hospital,793003,0364 2210200
+Pasteur Institute (Regional Blood Bank),NA,0364 251629
+Civil Hospital,794001,03651 232951
+North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences,793018,0364 2538063
+Civil Hospital,793150,03652 20735
+Dr. H. Gordon Roberts Hospital (KJP) Hospital,793002,NA
+Civil Hospital,796701,0372 2324555
+"Civil Hospital, Aizawl",796001,0389 2323236
+"District Hospital, Champhai",796321,03831 234926
+"District Hospital, Kolasib",796081,03837 221930
+"District Hospital, Saiha",796901,03835 222006
+"Christian Hospital, Serkawn",796701,0372 2342268
+"Synod Hospital, Durtlang",796025,0389 2361222
+"District Hospital, Mamit",796441,0389 2565655
+"District Hospital, Serchhip",796181,03838 226184
+"District Hospital, Lawngtlai",796891,03835 233566
+Dr. Imkongliba memorial District Hospital Blood Bank,798601,NA
+Blood Bank Civil Hospital,NA,NA
+General Hospital,903154,NA
+Naga Hospital Authority Blood Bank,797001,NA
+Military Hospital Blood Bank,NA,NA
+Christian Institute of Health Sciences & Research,NA,NA
+"Model Blood Bank, Dist. Hospital",797112,NA
+"District Hospital,Blood Bank",978612,NA
+"District Hospital,Blood Bank",797111,NA
+"District Hospital,Blood Bank",798620,NA
+"District Hospital,Blood Bank",797108,NA
+Red Cross Blood Bank,NA,"06646 234104, 06683 227909"
+Nehru Satabdi Central Hospital & Blood Bank,764081,NA
+Asha Kiran Hospital Blood Bank,764081,NA
+"Nalco Hospital, Nalco Limited",NA,NA
+Orissa Red Cross Blood Bank,NA,0674 2394985
+HAL Hospital Blood Bank (Hindusthan Aeronatics Limited),NA,NA
+Jyotthi Hospital Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,06683 227909
+Orissa Red Cross Blood Bank Blood Bank,NA,NA
+Red Cross Blood Bank,NA,06731 220824
+Orissa Red Cross Blood Bank,NA,06861 231200
+Odisha Red Cross Hospital Blood Bank,NA,0663 253374
+Paradip Port Trust Hospital Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,06841 222202
+Community Welfare Society Hospital,NA,NA
+Orissa Red Cross Blood Bank,NA,NA
+Red Cross Blood Bank,NA,06728 225177
+Orissa Red Cross Blood Bank,NA,06784 251817
+Vesaj Patel Hospital & Research Centre,769004,NA
+Evangelical Hospital Blood Bank,766107,NA
+Christian Hospital Blood Bank.,NA,NA
+Catholic Mission Hospital,NA,NA
+Orissa Red Cross Blood Bank,NA,06670 234952
+Red Cross Blood Bank,NA,06852 252101
+Red Cross Blood Bank,NA,06755 223978
+SUM Hospital Blood Bank,NA,NA
+Ashwini Hospital Blood Bank,753014,NA
+Orissa Red Cross Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,757043,NA
+Orissa Red Cross Blood Bank,757043,067494 222002
+Orissa Red Cross Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,06645 272180
+Red Cross Blood Bank,NA,06792 254641
+Blood Bank,NA,NA
+Orissa Red cross Blood Bank,NA,NA
+Orissa Red Cross blood Bank,NA,06658 222229
+Orissa red Cross Blood Bank,NA,06654 220150
+Central Hospital Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,06842 253006
+Red Cross Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,06641 226182
+Red Cross Blood Bank,NA,06795 232288
+Orissa Red Cross Blood Bank,NA,06815 222467
+Orissa Red cross Blood Bank,NA,06852 252101
+Acharya Harihar Red Cross Blood Bank,752001,06752 224097
+Orissa Red Cross Blood Bank,NA,0663 253374
+Orissa Red Cross Blood Bank,NA,6642 220509
+Odisha Red Cross Blood Bank,NA,06727 233334
+Red Cross Blood Bank,NA,0661 2401770
+Orissa Red Cross Blood Bank,NA,NA
+Neheru Shatabdi Central Hospital Blood Bank,759103,06760 242020
+Red Cross Blood Bank,NA,06622 273225
+TISCO Hospital Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,06782 241496
+Jagannath Blood Transfusion Centre,NA,NA
+Kalinga Hospital,NA,NA
+Orissa Red Cross Blood Bank,NA,0674 2591206
+Orissa Red Cross Blood Bank,NA,06796 221832
+Immuno Haematology & Blood Transfusion Centre,NA,NA
+Central Red Cross Blood Bank,NA,0671 2302258
+Orissa Red Cross Blood Bank,NA,NA
+"Christian Hospital, Blood Bank",765019,NA
+Orissa Red Cross Blood Bank,NA,NA
+NTPC/ TSTPS Hospital,NA,NA
+Kalinga Institute of Medical Sciences Blood Bank,NA,NA
+Oriss Red Cross Blood Bank,NA,67464 230880
+"Blood Bank, Sardar Rajas Medical College Hospital & Research Centre",766001,NA
+Orissa Red Cross Blood Bank,NA,06767 240898
+Apollo Hospital Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,06644 253085
+Red Cross Blood Bank,NA,06753 252189
+Orissa Red Cross Blood Bank,NA,06854 233600
+Odisha Red Cross Blood Bank,759001,06762 221388
+Orissa Red Cross Blood Bank,NA,0663 2431420
+Nalco Hospital Blood Bank,759145,NA
+Biju Pattnaik Red Cross Blood Bank &Transfusion Centre,767001,06657 220464
+Orissa Red Cross Blood Bank,NA,NA
+Hi-Tech Medical College & Hospital,NA,NA
+Odisha Red Cross Blood Bank,NA,NA
+Central Hospital Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,06760 242020
+O.R.C.B. & Blood Transfusion Centre,NA,06672 242077
+"J.M.J. Hospital Blood Bank, Baripali",NA,NA
+Red Cross Blood Bank,NA,NA
+Red Cross Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,06763 254213
+Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,0680 2292534
+ORC Blood Bank,NA,06726 224957
+Orissa Red Cross Blood Bank,NA,06856 236465
+HI-Tech Medical College & Hospital,NA,NA
+Orissa Red Cross Blood Bank,NA,06652 230646
+Orissa Red Cross Blood Bank,NA,06766 254380
+Orissa Red Cross Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,0661 2401770
+Orissa Red Cross Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,06642 220509
+Orissa Red Cross Blood Bank,NA,NA
+Orissa Red Cross Blood Bank,NA,06796 221832
+Indhira Gandhi Govt General Hospital Blood Bank,605009,NA
+Government General Hospital Blood Bank,NA,04368 222450
+JIPMER,605006,0413 22966170413 22712690413 22772940413 2277041
+Govt General Hospital Blood Bank,NA,0490 2332225
+Govt General Hospital Blood Bank,NA,NA
+St. Josephs Hospital,NA,0413 23395130413 2223006
+Pondicherry Private Hospital Association,NA,0413 2212874
+Vinayaka Missions Medical College & Hospital,NA,04368 263255 04368 263277
+Pondicherry Institute of Medical Sciences,NA,"0413 2656271, 0413 2656272, 0413 2656700"
+Mahatma Gandhi Medical College & Research Institute,NA,0413 2615449
+Aarupadai Veedu Medical College,NA,"0413 2477316, 0413 2477317, 0413 2615625"
+Sri Manakula Vinayagar Medical College Hospital,NA,"0413 2643000, 0413 2643014, 0413 6533912"
+Sri Lakshminarayana Institute of Medical Sciences,NA,"0413 2661998, 0413 2666130, 0413 6531599"
+Sri Venkateshwara Medical College Hospital & Research Centre,NA,"0413 2644482, 0413 2260601"
+Yanam Oldage,NA,0884 2324933
+Indira Gandhi Medical College and Research Institute,NA,"0413 2656271, 0413 2656272,0413 2656700"
+East coast Hospitals,NA,0413 2615449
+Rajiv Gandhi Government Women and Child Hospital,605005,NA
+A.G. Padmavathis Hospital Limited,NA,"0413 2477316, 0413 2477317,0413 2615625"
+"Blood Bank, Shri Guru Ramdas Hospital Research and Medical Institute",NA,0183 2870345
+Green Avenu Blood Bank,NA,"01853 264022, 01853 2644614"
+Shri Guru Teg Bahadur Charitable Hospital,NA,NA
+SNS Pahawa Hospital,NA,01612 634181
+Red Cross Regional Blood Bank,NA,"01612 441257,01628 262474"
+Sri Guru Harkrishan Sahib Eye Hospital Trust,NA,NA
+"Blood Bank, Civil Hospital",NA,01652 222102
+"Blood Bank, Maharaj Sawan Singh Charitable Hospital",NA,NA
+"Blood Bank, Civil Hospital",NA,"01638 262105,01638 265695"
+Shivam Hospital,NA,"01882 248173,01882 248273,01882 248199"
+"Blood Bank , Dayanand Medical College Hospital",NA,"0161 2304289,0161 2302620"
+"Blood Bank, Christian Medical College and Brown Memorial Hospital",NA,"0161 2229010 22,0161 2609958"
+"Blood Bank, Mohan Dai Oswal Cancer Treatment and Research Foundation",NA,"0161 2676100, 0161 2676102,0161 5094538"
+Civil Hospital,NA,"01871 240144, 08146 302299"
+Civil Hospital,NA,01852 222755
+Civil Hospital,NA,01851 244949
+Civil Hospital,NA,01632 242964
+GMC and RH- Patiala,NA,"0175 2203912, 0175 2203912, 0175 2223912,"
+Civil Hospital,NA,NA
+Military Hospital Blood Bank,NA,NA
+"Blood Bank, Baba Budha Sabib Cardiac Centre Ltd.",NA,"0181 2222244, 0181 2222266, 0181 2222288, 0181 2222299"
+Anil Blood Bank,NA,NA
+"Blood Bank, Civil Hospital",NA,0181 2233356
+"Blood Bank, Dr. Anil Bhaghi Memorial Hospital",NA,"01632 220555,01632 220556"
+"Blood Bank, Guru Govind Singh Medical College Hospital",NA,01639 250068
+"Blood Bank, Civil Hospital",NA,01881 228040
+Dr. Kanwaljit singh grover memorial charitable society (regd.),NA,NA
+Civil Hospital,NA,"01636 220140, 01636 230540"
+Civil Hospital,NA,"01628 221724, 01628 221724, 0161 441257"
+Civil Hospital,NA,"0161 2610577, 0161 2226999, 0161 2610577, 0161 2610502"
+Civil Hospital,NA,"01634 221430, 01634 221400, 01634 221430"
+"Blood Donors Council, Blood Bank (Voluntary org.)",NA,"01823 221940,01823 220974"
+Military Hospital,NA,"0164 2291174,0164 2290946"
+Military Hospital,NA,"0181 2260107, 0181 2260232"
+Civil Hospital,NA,01676 231433
+"Blood Bank, Kidney Hospital and Life Line Medical Institutions",NA,"0181 2440252, 0181 2272236"
+"Civil Hospital, Malerkotla",NA,016712 231433
+Civil Hospital,NA,NA
+Civil Hospital,NA,01882 250700
+Tagore Heart Care andResearch Center Pvt. Ltd.,NA,"0181 2254441, 0181 4685700"
+Civil Hospital,NA,"0164 2212501,0164 2210711"
+BBMB Hospital Blood Bank,NA,NA
+Ohri Hospital Blood Bank,NA,0181 2222259
+"Blood Bank, Civil Hospital",NA,"01822 233750, 01628 20102"
+"Blood Bank, Sacred Heart Hospital",NA,0181 2670664
+"159, General Hospital, C/o 56 APO, Military Hospital",NA,"01632 242391, 01632 242392"
+Civil Hospital,NA,NA
+Civil Hospital,NA,01762 225539
+Civil Hospital,NA,01763 232203
+Civil Hospital,NA,01826 222549
+Amandeep Hospital,NA,0183 2566738
+Civil Hospital,NA,223102
+Civil Hospital,NA,01821 220053
+Bhai Ghanayiaji Charitable Societ,NA,01882 229547
+Shri Guru Nanak Dev Hospital,NA,"0183 2426918,0183 2222173"
+Adlakha Hospital,NA,"0183 2225353, 0183 2564629"
+Indian Medical Association,NA,01882 222244
+Dr. B.L. Kapoor Memorial Hospital,NA,"01612743053, 01612741114, 01612750050"
+Civil Hospital Phagwara,NA,01824 228290
+Fortis Heart Institute,160062,"0172 5096222, 0172 5096221"
+SGL Charitable Hospital,NA,0181 2481205
+Patel Hospital Pvt. Ltd.,NA,0181 3041000
+Silver Oks Hospital,NA,"0172 221103, 0172 2211308"
+Civil Hospital,NA,0160 2280797
+Civil Hospital,NA,01765 226361
+Civil Hospital,NA,01765 255602
+Civil Hospital,NA,01651 220700
+Civil Hospital,NA,01635 228306
+Civil Hospital,NA,01823 260700
+Guru Nanak Mission Hospital,NA,"01823 260260, 01823 262621"
+Max Super Speciality Hospital,NA,0164 6601400
+Deepak Memorial Hospital,NA,0188 274 20136
+Ghai Hospital,NA,"0181 2277837, 0181 2442886"
+Shri Krishna Charitable Hospital Society (Regd),NA,NA
+Civil Hospital,NA,01883 244702
+Civil Hospital,NA,01883 285083
+Civil Hospital,NA,01633 262175
+Escort Heart and Super Speciality Institute Ltd.,NA,"0183 2573901, 0183 30121222"
+Civil Hospital,NA,01858 221105
+Adesh Hospital and Research Centre (P) Ltd.,NA,NA
+Sant Baba Rangi Ram Ji Charitable Trust,NA,01886 290266
+Shree Devi Talab Mandir Charitable Hospital,NA,"0181 2292319, 0181 2290263"
+Donor Council,NA,01824 269681
+Military Hospital,NA,NA
+Life Line Blood Centre,147001,0175 2351532
+Satguru Partap Singh Apollo Hospital,NA,"0161 661711, 0161 661222, 0161 661333"
+Civil Hospital,NA,01884 282051
+Adesh Institute of Medical Sciences and Research,NA,"0164 5055000, 0164 5055001, 0164 5055002, 0164 5055084"
+Gupta Hospital,NA,0164 2212377
+Grecian Superspeciality Hospital,NA,"0172 5098035, 0172 5098045"
+Joshi Hospital and Trauma Centre,NA,"0181 2620650, 0181 2620950"
+Gian Sagar Medical College and Hospital,NA,"01762 507299, 01762 520023"
+Sri Guru Ram Das Charitable Hospital,NA,0183 2870345
+Ivy Health and Life Sciences Pvt. Ltd.,NA,"0172 7170121, 0172 5044333"
+Guru Tej Rasila Charitable Hospital,NA,01853 264022
+Civil Hospital,NA,0172 2225264
+JBMM Civil Hospital,NA,"0183 2552464, 0183 2559502"
+PIMS Medical and Education Charitable Society,NA,"0181 2481737, 0181 2480736"
+Max Super Specialty Hospital,NA,"0172 6652000, 0172 6652555"
+Chintpurni medical college and hospital,NA,01870 250600
+Deep Nursing Home and Children Hospital,NA,0161 5069268
+Capitol Hospital,NA,0181 2366666
+Johal Multispeciality Hospital,NA,0181 2410620
+Civil Hospital Phillaur,NA,NA
+"Civil Hospital,Samrala",NA,NA
+Civil Hospital,NA,NA
+"Civil Hospital, Banga",NA,NA
+AP Jain Hospital,NA,NA
+Maharana Bhupal Government Hospital,NA,0294 2528811
+S.M.S. Hospital,NA,"0141 2560291, 0141 2569885"
+Santokba Durlabhji Memorial Hospital and Medical Research Insptitute Campus,302015,0141 2566251
+Government Mahila Chikitsalaya,NA,"0141 2601333, 0141 2601334"
+Zanana Hospital,NA,"0141 2378721, 0141 2378219, 0141 2378204"
+Mahatama Gandhi Hospital,NA,"0291 2636437,0291 2636438,0291 2636439"
+P.B.S.S.General Hospital,NA,0747 2443456
+Mathura Das Mathur Government Hospital,NA,0291 2438655
+Umaid Hospital,NA,0291 2435720
+A.K. Hospital,NA,01462 257222
+Government Bangar Hospital,NA,02932 226059
+General Hospital,NA,"0144 2345087, 0144 2345087"
+General Hospital,NA,NA
+General Hospital,NA,05644 223622
+General Hospital,NA,07464 220029
+General Hospital,NA,02972 220041
+General Hospital,NA,02973 225090
+J.L.N. and A.G. Hospital,NA,"0145 2625500,0145 2625509 0145 2431842"
+M.G. Hospital,302022,01482 220139
+Government D.B. Hospital,NA,01562 250333
+Government Medical College and A.G. Hospital,NA,0744 2326000
+Swasthya Kalyan Blood Bank and Thalesemia Research Center,NA,"0141 2545293, 0141 721771"
+Sadat Government Hospital,NA,"01432 247416,01432 244160"
+M.G. Government Hospital,NA,0296 243040
+S.R.G. Hospital,NA,07432 230485
+Tapovan Blood Bank,NA,"0154 2460514,0154 246351"
+General Hospital,NA,07462 234138
+E.S.I. Hospital,NA,NA
+Government Hospital,NA,0154 2466009
+P.B.M. and A.G. Hospital,NA,"0151 2226334 ,0151 2226338"
+Global Hospital and Research Center,NA,"02974 238347 ,02974 238349"
+Monilek Hospital and Research Center,NA,"0141 2651393,0141 26530221"
+Government General Hospital,NA,02964 232413
+Kota Blood Bank Society,NA,0744 2410100
+Government Hospital,NA,01582 24885
+Government S.K. Hospital,NA,01572 251093
+Sri Sanwaliya Ji Government General Hospital.,NA,01472 241102
+Government District Hospital,NA,"01478 225104, 01478 222939"
+Government S.J. Hospital,NA,02992 251335
+General Hospital,NA,07453 230322
+Government Nahata Hospital,NA,02988 220910
+General Hospital,NA,02982 230402
+Government B.D.K. Hospital,NA,"01592 232199,01592 232524"
+General Hospital,NA,01567 222330
+M.G.M. Hospital,NA,01552 231399
+Purohit Charitable Laboratory Sansthan,NA,0154 2489635
+"Military Hospital, Blood Bank",NA,0291 2566257
+Raj Blood Bank Society,NA,"05644 236800,05644 236550"
+Bhagwan Mahaveer Cancer Hospital and Research Centre,NA,"0141 2700107, 0141 272021"
+Seth Makhan Lal Mahawar Charitable Blood bank Society,NA,0144 2348277
+R.A.P.S. Hospital (Rajasthan Atomic Power Station),NA,01475 233250
+Itshean India Charitable Blood Bank Society,NA,NA
+"India Education Trust Mahatma Gandhi Hospital, MGNIMS",NA,"0141 2771777, 0141 2770900"
+"Bhilwara Blood Bank Society, Bhupal Singh Dhariwal Memorial",NA,01482 238113
+National Institute of Medical Sciences (Medical College and Hospital),NA,"0142 6513118, 0141 2605050"
+North Western Railway Hospital,NA,"0145 2461004, 0145 2460402, 0145 246006"
+Military Hospital Blood Bank,NA,01491 224674
+Kanu Devi Parasmal Mehta Medical and Blood Bank,NA,"0291 5106836, 0291 510783"
+"Umeed Singh Sushila Devi Memorial, Blood Bank",NA,0141 2281020
+Ram Snehi Chikitsalya Blood Bank Ramdwara,NA,01482 234100
+"Agrasen Blood Bank, (Puran mal Phoola Devi Memorial Trust), Maharaja Agrasen Hospital Campus",NA,"0141 2335569, 0141 2572954"
+"Birla Sarvajanik Hospital, Blood Bank",NA,01596 242114
+"Shri Munshi Ram Mittal, Memorial Seva Samiti",NA,"01572 270777, 01572 240404"
+"Sanjeevani Jan Sewa Samiti, Blood Bank",NA,0151 2235035
+Government Y.N. Hospital Blood Bank,NA,01463 245602
+S.K. Soni Hospital,NA,"0141 5164000, 0141 2232412"
+Krishna Rotary Blood Bank,NA,0744 3291661
+Shri Ram Karan Joshi Government General Hospital,NA,01427 220223
+Kalapurnam General Hospital,NA,02925 222970
+Government Mohila Chikitsalya,NA,0145 2789212
+American International Health Management Society,NA,"0294 2426000, 0294 2428712"
+Mittal Hospital and Research Centre,NA,0145 2603600
+"Bhagwan Mahavir Hospital, Mahavir Nagar",NA,"02933 258632, 02933 258699"
+Geetanjali Medical College and Hospital,NA,"0294 2500000, 0294 2500008"
+Saral Blood Bank (Smt. Sarala Singhvi Charitable Society),NA,0294 2416285
+Fortis Hospital Ltd.,NA,0120 2547000
+Jhalawar Hospital and Medical College Society,NA,"07432 233233, 07432 233388"
+R.K. District Hospital,NA,02952 220529
+Government BDM Hospital,NA,01421 222088
+Ambika Hospital,NA,0291 2721316
+Government BDM Hospital,NA,01421 222088
+Lion Charitable Trust,NA,01568 225300
+"Rotary International Global Hospital blood Bank, Radha Mohan Mehrotra Global Hospital Trauma Center",NA,02974 228601
+"Jeevan Jyoti Blood Bank, Babu Lal Charitable Trust situated at Life Line Hospital, Tijara Road",NA,"0144 2705001, 0144 2705013"
+Kailash Hospital,NA,"01494 222222, 01494 222444"
+Shri K.M. Memorial Jain Heart and General Hospital,NA,01572 253034
+"Swastik Blood Bank, (Run by Nirwan Charitable trust)",NA,0154 2463764
+Narayana Hrudayalaya Private limited,NA,"0141 5192939, 0141 5192901"
+Apex Hospital Private limited,NA,"0141 2751870, 0141 2751006"
+Life Line Blood Bank,NA,01552 269135
+Lokmitra Blood Bank and Thalassemia Research Centre,NA,0294 2413100
+New Medical College Hospital,NA,0744 24770477
+"Pacific Medical College and Hospital,",NA,0294 3920000
+Getwell Hospital Blood Bank (A unit of Getwell Health and Education Samiti),NA,"01572 270173, 01572 270101"
+"Shri Ram Blood bank, Shri Ram Hospital",NA,0744 2437378
+"Metro Blood Bank (A unit of Hilsun Pharma Pvt. Ltd., Metro Manas Arogya Sadan Heart Care and Multispeciality Hospital",NA,0141 2786001
+Government Hospital,NA,NA
+Sudha Hospital and Research Centre Pvt. Ltd.,NA,0744 3010086
+"Pushpa Devi Memorial Blood Bank (Run by Kothari Public Charitable Trust), CBLM Holy Family Hospital Campus",NA,0141 2338686
+Bharat Vikas Parishad Hospital and Research Centre,NA,"0744 2404501, 0744 2404502, 0744 2404503"
+"Jeevan Jyoti Blood Bank, 1st Floor, Kothari Medical and Research Institute",NA,0151 2211035
+Riya Hospital Blood bank,NA,07463 233374
+MBS Hospital blood bank,NA,NA
+Distict Hospital,NA,NA
+General Hospital Blood Bank,NA,NA
+Distict Hospital,NA,NA
+"Central Blood Bank, STNM Hospital",737101,NA
+"Government General Hospital, Namchi",NA,NA
+Central Referral Hospital,737128,NA
+Government Stanley Hospital,600001,044 25284941
+Government Royapettah Hospital,600014,044 28482611
+Government General Hospital,600003,044 25305711
+Thanjavur Medical College Hospital,613004,04362 246452
+Government Rajaji Hospital,NA,NA
+Government Hospital Tambaram,NA,044 22382400
+Government Head quarters Hospital,NA,0432 4274345
+Annal Gandhi Memorial Government Hospital,620017,0431 2770047
+Tirunelveli Medical College Hospital,627011,"0462 2576878, 0462 2579785"
+Coimbatore Medical College Hospital,641018,0422 2301393
+Government District Head Quarters Hospital,628501,04632 223106
+Kanyakumari Medical College Hospital,629003,"04652 223201, 04652 223202"
+Government Head Quarters Hospital,626001,04562 244425
+Government Hospital,635751,NA
+Government Thoothukudi Medical College Hospital,NA,0462 2321051
+Government Head quarters Hospital,NA,04175 238455
+Government Headquarters Hospital,NA,NA
+Dharmapuri Medical College Hospital,636701,04342 231748
+Government Medical College Hospital,605601,04146 232101
+Government Hospital,604001,04147 222250
+Government Hospital,624601,04545 240424
+Government Head Quarters Hospital,612001,"0435 2425104,"
+Government Headquarters Hospital,611001,04365 2422459
+Government Head Quarters Hospital,NA,04332 228111
+Government Hospital,606001,04143 231766
+Government Kamaraj Hospital,600026,04144 223099
+Government Head Quarters Hospita,607001,04142 292052
+Government Head quarters Hospital,NA,04633 280138
+Government Head Quarters Hospital,625601,04546 233745
+Government Head quarters Hospital,624001,04512 424600
+Government Raja Mirasudar Hospital,NA,04362 276880
+Government Mohan kumaramangalam Medical College Hospital,636001,04272 210964
+Chengalpattu Medical College Hospital,603001,044 27431909
+Government Aringnar Anna Memorial Cancer Hospital,631552,"044 27264244, 044 27264246"
+Government Peripheral Hospital,600101,044 26209490
+Government KG Hospital for Women and Children,641018,044 28545123
+The Institute of Child Health and Hospital for Children,600008,044 28191132
+Government Kilpauk Medical College Hospital,600010,044 28364955
+Institute of Obstetrics and Gynaecology Government Hospital for Women and Children,600008,044 28194896
+Government RSRM Hospital,600013,044 25901665
+Government Hospital,638001,04242 258354
+Government Headquarters Hospital,631501,"04427 222307, 04427 222308"
+Government Head quarters Hospital,641601,04258 220226
+Government Hospital,626101,04566 220264
+Government Hospital,632602,04171 221111
+Government Hospital,626117,04563 221301
+Government Head quarters Hospital,630561,04575 246356
+Government Hospital,642126,04252 220092
+Government Hospital,637001,04286 221411
+Government Head quarters Hospital,NA,NA
+Government Hospital,642001,04259 229322
+Government Hospital,622001,04373 252080
+Government Head Quarters Hospital,NA,04343 238880
+Government Medical College Hospital,610004,04366 240102
+Government Head quarters Hospital,621212,0432 8277128
+Government Hospital,626123,04562 220301
+Government Hospital,NA,04285 222053
+Government Headquarters Hospital,629175,04651 250732
+Government Hospital,606202,NA
+Government Hospital,636401,04298 245400
+Government Hospital Blood Bank,NA,04232 233229
+Government Hospital,630001,045652 20183
+Government Hospital,636102,04282 243771
+Government Head quarters Hospital,625532,04552 251880
+Government Medical College Hospital,632011,04162 263900
+Government Hospital,637301,NA
+Government Hospital,635802,04174 242636
+Government Hospital,638656,04258 220226
+Government Hospital,641301,04254 272275
+Government Hospital,635109,04344 222634
+Government Hospital,603306,04115 252441
+Government Hospital,627756,04636 222399
+Government Hospital,609001,04364 223451
+Government Hospital,637408,04287 222878
+Government Head Quarters Hospital,NA,"044 276648, 044 276649"
+Government Hospital,616614,04371 270544
+Government Hospital,606107,04149 222222
+Government Hospital,627401,04634 253480
+Government Hospital,635601,NA
+Government Headquarters Hospital,621306,0432 260760
+Government Hospital,631001,NA
+Government Theni Medical College Hospital,625512,04546 294053
+Government Headquarters Hospital,631501,0417 232538
+University Tamil Nadu DrMGRMedical University,600032,0442 2301871
+Government Taluk Hospital,NA,NA
+Coimbatore Medical College Hospital,641018,0422 2300871
+Government Head Quarters Hospital,NA,"044 27222307, 044 272223308"
+Government Medical College Hospital,630561,04575 246356
+Salem Steel Authority of India Salem Steel Plant,636013,0427 2388263
+Southern Railway Hospital,620002,NA
+Neyveli Lignite Corporation,607803,04142 2522784
+The Medical Director Southern Railway Head quarters Hospital,600023,NA
+Bharath Heavy Electricals Ltd,620014,"0431 553421, 0431553348"
+IRT Perunthurai Medical College Hospital,638053,04294 220910
+Chennai Port Trust Hospital,600001,044 25362201
+Military Hospital StThomas Mount,600016,044 25316500
+Military Hospital,643231,0423 2200154
+ESI Hospital,600023,044 26449284
+ESI Hospital,641015,0422 2574391
+The Director ESIC Hospital,600078,044 24893714
+Lifecell International Private Limited,600048,044 47445353
+Bharath Clinical Laboratory and Blood Bank,637001,04286 223305
+Indian Red Cross SocietyAnd Research Foundation,600008,"044 28554425, 04428554548"
+Erode Blood Bank and Clinical Laboratory,638001,04242 253163
+Sri Gokulam Hospital,636004,"0427 2448171, 0427 2448176"
+KMC Speciality Hospitals,620001,0431 4077777
+Sheela Hospitals,641012,0422 4334500
+Indian Red Cross Society,8,"044 28554425, 044 28594888,"
+Sai Blood Bank and Clinical Laboratory,NA,"04563 230516, 04563 221516"
+Satyam Blood Bank,625009,0452 2330327
+Rotary Central TTK Voluntary Health Services (Dr Raganathan Memorial Blood Bank,600113,044 22541692
+The Salvation Army Catherine Booth Hospital,629001,"04652 275516, 04652 275517"
+Minu Lab and Blood Bank,636007,0427 2318881
+Virudhunagar Hindu Nadar V Dhanasamy Parimala Devi Medical Trust,626001,243060
+Sithi Vinayagar Blood Bank,636007,0427 2312571
+K Govindasamy Naidu Memorial Trust KG Hospital,641018,0422 22121210422 2212129
+G Kuppusamy Naidu Memorial Hospital,641037,0422 4305336
+Meenakshi Mission Hospital and Research Centre,625107,0452 2588741
+PSG Hospital,641004,0422 2570170
+Apollo Hospital Enterprises Ltd,600006,044 28294870
+Moses Blood Bank,628001,04612 321762
+Government HospitalPollachi,642001,04259 229322
+Jeevan Blood Bank and Research Centre,600014,0435 20220
+Sri Kaali Blood Bank,9,0435 2426037
+AV Rajan Blood Transfusion ServicesClinical and Research Laboratories,629012,0465 2402089
+Rajah Muthiah Medical College and Hospital,608202,04144 238147
+Virudhunagar Hindu Nadar V Dhanasamy Parimala Devi Medical Trust,626001,243060
+Sithi Vinayagar Blood Bank,636007,4.27E+20
+K Govindasamy Naidu Memorial Trust KG Hospital,641018,0422 22121210422 2212129
+G Kuppusamy Naidu Memorial Hospital,641037,0422 4305336
+Meenakshi Mission Hospital and Research Centre,625107,04524 263014
+PSG Hospital,641004,0422 2570170
+Apollo Hospital Enterprises Ltd,600006,"044 28293333, 044 28290200"
+Pollachi Blood Bank Services,642001,04259 223414
+Jeevan Blood Bank and Research Centre,600014,"043520220,0435 04246"
+Sri Kaali Blood Bank,9,0435 2426037
+AV Rajan Blood Transfusion ServicesClinical and Research Laboratories,629012,0465 2402089
+Rajah Muthiah Medical College and Hospital,608202,04144 238147
+M/S A A LabServices,600034,044 28170930
+Vikram Clinical Blood Bank,626531,0452 322282
+Sri Venkateswara Blood Bank,600013,044 25960226
+Annai Abirami Blood Bank,625001,0452 2339750
+Ambigai Blood Bank,613009,"04362 239032,04362 32525"
+Blood Bank of Bharath,18,"276099527,60,226"
+CMC Hospital,632004,04162 222102
+Apollo Speciality Hospital,35,"044 24347288, 044 24331741, 044 24336119"
+CSI Rainy Hospital,600021,044 40505050
+Church of South India Mission General Hospital,620003,"0431 2760672, 0431 2761927"
+Kanya Blood Bank,629001,"0465 2279850, 0465 2273951"
+Tuticorin Blood Bank,628002,04614 200666
+Kovai Medical Centre and Hospital Blood Bank,641014,0422 4323800
+Madras Medical Mission(Institute of Cardio Vascular Diseses),50,044 26561801
+Ramakrishna Hospital,641044,NA
+Sri Venkateswara Hospital,NA,"04366 242866, 04366 243143"
+St Joseph Hospital,7,"04512 421130, 04512 426091, 04512 430399"
+Kanchi Kamakoti Child Trust Hospital,600034,044 42001800
+Blood Donor Association,607001,"04142 231711, 04142 231715"
+Sri Kaali Blood Bank,NA,NA
+Cancer Institute,20,"24910754, 24911526"
+Kanyakumari Medical Mission CSI Hospital,629812,04651 222222
+Bethel Blood Bank,627002,"0462 2574775, 0462 2585258, 0462 2575258"
+Vivek Blood Bank,629003,"04652 230108,04652 234408"
+Vignesh Blood Bank,625020,04522 582562
+The Coimbatore Bio Medical Services,NA,0422 2552297
+Karur Blood Bank,639002,"0432 4236177,0432 4236188"
+Christian Fellowship Community Health Centre,624612,04553 240226
+Vijaya Hospital,600026,"044 24881392, 044 24842931"
+Dr Jayasekaran Medical Trust and Nursing Home,629003,"04652 230019, 0465 230020, 0465 230021"
+Thai Moogambigai Blood Bank andClinical Laboratory,20,0452 2535685
+Friends Blood Bank,1,0431 2460646
+The Apollo Speciality Hospital,625020,0452 2581147
+MIOT Hospital,89,"044 22492288, 044 42002288"
+Hindu Mission Hospital,600045,044 22262244
+Vinayaga Mission Kirubananda Variar MedicalCollege Hospital Blood Bank,636308,0427 3982000
+S Palaniyandi Mudaliar Memorial Hospital Blood Bank,636003,0427 2242431
+Dhanvandri Blood Bank and Research Centre of Sreemahalakshmi Charitable Health Trust,17,"044 24310660,044 24310610"
+Kasturba Hospital,624302,04510 2452328
+Melmaruvathur Adiparasakthi Institute of Medical Sciences and Research,603319,"044 27528302,044 27528303,044 27528304"
+Leonard Hospital,NA,04543 262670
+Lions Blood Bank andResearch Centre,600045,044 2261474
+Ramana Gounder Medical Trust Blood Bank,34,"0422 2642488, 0422 2642435"
+Lakshminarayana Blood Bank,613007,"04362 255485, 04362 55403, 04362 653385,"
+Kongu Blood Bank,11,"044 4316000, 044 2494303"
+Ashok Blood Bank and Clinical Laboratory,636702,0434 2260627
+Victory Blood Bank,3,0431 2768588
+Sri Ram Blood Bank,NA,04285 222596
+Thangam Blood Bank (Run by Thangam Chartiable Community Health Trust) William Hospital,629003,0465 2277955
+Ganga Hospital Blood Bank,641012,0422 4250000
+DSK Medic (P) Ltd,641604,0421 2422434
+Lotus Blood Bank,2,04242 282828
+Shifa Hospitals,627001,0462 2323041
+Udumalpet Indian Medical Association Rotary Blood Bank,642154,04252 226458
+AVM Hospital Blood Bank,3,04651 2325461
+Meenakshi Medical College Hospital and Research Institute,631552,"044 27264096, 044 27261339"
+W/BRO V Surendranath Reddy Memorial Trust (Masonic Blood Bank,632004,"0416 2220717, 04162223024"
+Madhura Blood Bank,625011,045 24352535
+Bethesda Hospital Blood Bank,635802,04174 242131
+Aarthi Hospital and Diagnostic Centre Blood Bank,627003,04632 221346
+Hi Tech Blood Bank and Research Foundation,1,04142 230977
+Karunya Hospital Blood Bank,635001,04343 235512
+Sree Balaji General Hospital Blood Bank,600044,044 22415600
+Indian Medical Centre Dr Kumarsawamy Health Center,629703,0465 2270756
+KSM (Run by Maruti Charitable Trust,636016,"0427 2446788, 0427 2445453"
+Karteek Karteek Nursing Home,627007,"0462 2530409, 0462 2530410, 0462 2531777"
+Sri Kumaran Hospital Blood Bank,2,0421 4330000
+Christian Fellowship Hospital,624619,04553 249050
+Voluntary Blood Bank,613009,NA
+ST Thomas Hospital Blood Bank and Leprosy Centre,NA,04181 252263
+International Centre for Cardio Thoracic and Vascular Diseases,600101,044 42017575
+SRM Medical College Hospital Blood Bank,603203,044 27455707
+Kongu Nadu Hospital PvtLtd,641012,"044 4316000, 044 2494303"
+Balaji KMR Charitable Trust,2,04142 51666
+IMA Rotary Masonic Midtown Mahaveer Blood Bank,641001,"0422 6513322, 0422 6563322"
+Royal Blood Bank (Run by Royal Medical Trust,1,046 229903
+Government Head Quarters Hospital,627811,04633 281171
+Sri Saanthi Blood(run by Kaveri Trust),638001,"04242 254266, 04242 264266"
+Doctors Blood Bank and Reseach Ceture (Run by DDC Charitable Trust,3,0431 274004
+Muthu Blood Bank (Muthu Charitable Trust,NA,0432 8277477
+Vinayaka Mission Hospital Blood Bank,636308,0427 3987000
+Vadamalayan Blood Bank,625002,0452 2545400
+Galaxy Hospital,NA,0462 250195104622501955
+Lions Club of Coimbatore Legend Blood Bank Research Centre,2,0422 247737304222470046
+Indian Blood Bank,20,0451 2429393
+Siventhi Blood Bank (Siventhi Medical Trust,NA,0465 22212210465 2221331
+Dr Kamatchi Memorial and Blood Component research centre (Run by Kamatchi Memorial Trust,601302,044 66300300
+Chettinad Hospital And Research Institute,NA,044 4741000
+Sivan Blood Bank Runby Lakshmiammal Memorial Trust,625020,0452 2536562
+Lions Club of Erode Supreme Charitable Trust Blood Bank,638001,0424 2257744
+Marthandam Blood Bank,NA,0402 3497377
+Indian Red Cross Society,613001,"04362 273456,"
+Christian Mission Hospital,625001,0452 232645804522326294
+Salem Blood Bank,636001,04272 265432
+Kurinji Hospital,636016,0427 24333000427 24333010427 2433302
+Chennai Transfusion and Apheresis Centre BR Speciality Hospital,600017,NA
+Om Sakthi Blood Bank,636701,04342 26038804342 261388
+St Joseph Hospital,604002,04147 226363
+Government Hospital,614601,04373 252080
+Life Line Blood Bank and Research Centre (Run by Subashtika Charitable Society,627003,0462 4560430
+Sri Narayani Hospital and Research Centre,632055,0416 2206300
+Sri Shellapha Shri Sehllapha Hospital,636007,0427 2421266
+Sree Mookambika Institute Medical Science blood bank,629161,04651 2788250
+Revathy Medical Centre blood bank,614603,NA
+ACS General Hospital (Run by DrMGR Educational Reaserch Institute,77,044 23782176044 23782186
+Saveetha Medical College and Hospital (A unit of Saveetha Institute of Medical and Technical Sciences,602105,044 26810299
+Karpaga Vinayaga Institute of Medical Sciences,NA,044 27566050
+Deen Dayal Hospital,NA,044 27677700
+Global Hospitals (A unit of Rabindranath GE Medical Assn Pvt Ltd,600100,044 22777000
+Idayam Hospitals Erode Ltd,638009,04242 256456
+Maruti Blood Bank,636004,"0427 2444962, 0427 4040110"
+Sardar Raja Mission Hospital Blood Bank,NA,04637 231905
+Dindigul Blood Bank,624001,0451 2427143
+Bensam Bensam Hospital,629003,232532 to 232535
+The Landsteiner Lakshmi Memorial Research Foundation,NA,044 64556600
+Shri Sathya Sai Medical College and Resrch institute,NA,044 27440700044 27440346
+Sivaramji Blood bank (Unit of Janaseva trust,7,"0427 2318003, 0427 2416760"
+Chennai Medical College Hospital and Research Centre,621105,0431 4298925
+Sri Ramachandra Medical College and Research Institute,600116,"0442 4768027,0442 4768031,0442 4768033"
+Annai Blood Bank,NA,0428 326419
+Rotary Blood Bank,600091,044 43584482
+Muthukumaran Medical College Hospital and Research Institute,600069,044 66344000
+Child Jesus Hospital,620001,0431 2415816
+Lords Blood Bank (Run By Rajamony Memorial Educational Charitable Trust),629807,04651 231112
+Sri PAC Ramasamy Raja Rotary (Run by Rajapalayam Rotary Trust,626117,04563 226625
+Tagore Medical College Hospital,600048,044 27409724
+Fortis Malar Hospitals Ltd,20,"044 28414093, 044 28414296"
+Shharc Charity Blood Bank,637001,0428 6234552
+KMR Blood Bank (Run by KMR Charitable Trust),613007,NA
+Shanthi Social Services (Diagnostic Centre,NA,0422 2576122
+Karpagam Hospital,641032,0422 6554443
+Vangal Amman Health Service Ltd Kuriji Hospital,28,0422 2562744
+Dhanalakshmi Srinivasan Medical College and Hospital Blood Bank,62113,0432 8327999
+Swaasam Blood Bank (Run by Any time Blood Voluntary Association),641006,NA
+Sree Abirami Hospital (P) Ltd,641024,0452 2339750
+St Thomas Blood Bank andResearch Centre St Thomas Hospital,16,044 22319393
+RVS Hospital Blood Bank,641402,"0422 2682942, 0422 2682943"
+Madha Medical College and Hospital Blood Bank,600122,044 24780333
+Dhanvantri Charitable Trust Blood Bank,NA,04295 2233322
+Blood Bank of Shavana,NA,2750321
+Essar Blood Bank,NA,NA
+Sri Annai (Run by Nestle Foundation Trust,626123,04562 222956
+Government Head Quarters Hospital,639001,0432 4260197
+GNBlood Bank (Run by GGEducational and Charitable Trust),605602,04146 225545
+Sudiksha Prabhu Hospital Blood Bank and Research Centre,628501,"04632 233939,04632 233828"
+Vevekanandha Medical Care Hospital Blood Bank,NA,04288 234677
+Palani Blood Bank (Run by Annai Educational Trust,624601,NA
+Right Hospitals Blood Bank,10,044 26403939
+Velammal Medical College Hospital and Reserach Institute,625009,0452 2510000
+Annai Medical College and Hospital Blood Bank (Run by Sri Devi Karumari Amman Educational Trust),602117,044 27162100
+Meenakshi Hospital Blood Bank,613005,0436 2226474
+Apollo Hospitals (Run by Apollo Hospitals Educational Trust),95,044 26533429
+Meenakshi (Run by Ayyamperumal and K Dakshinamoorthy Trust),1,04322 220234
+Aarthi Aarthi Hospital,628502,"04632 221346, 04632 221347,04632 221348"
+Arogya Blood Bank (A Unit of Arogya Seva Hospitals Pvt Ltd,635109,04344 225555
+Government Head Quarters Hospital,623503,NA
+Gudalur Adivasi Hospital,643212,0426 2261645
+Government Head Quarters Hospital,635001,0434 3238880
+Billroth Hospitals Limited,600030,044 42921777
+KaraiKudi Blood Centre (Run by Vivekananda Trust),623001,NA
+Landsteiner Lakshmi Memorial Research Foundation,600029,"044 26400777, 044 25320099, 044 64556600044 2640077, 044 25320099"
+Life Care Voluntary Blood Bank (run by life Care Trust),635109,NA
+Madras Medical College Hospita,3,25394889
+Government Medical College HospitalTuticorin Tuticorin,628003,0461 2321052
+Dr MGR Medical University,32,"044 22353574, 044 22353546, 044 22353576"
+Government Raja Mirasudhar HospitalThanjavur Thanjavur,1,04362 276880
+Government Kasthuribai Gandhi Hospital For Women and Children,5,28515562
+Government Head Quarters Hospital,635601,NA
+Government Hospital,635601,NA
+Government Head Quarters Hospital,NA,044 27664849
+Government Head Quarters Hospital,NA,NA
+Government Head Quarters Hospital,611001,04365 248600
+Government Hospital,629804,NA
+Government Head quarters Hospital,643001,4232446146
+Government Head Quarters Hospital,637001,NA
+Government Hospital,638452,NA
+Government Aringnar Anna Memorial Cancer Hospital,NA,"044 27264244,044 27264245,044 27264246"
+Government Hospital,642126,04252 220092
+Government Head Quarters Hospital,606601,"04175235588,"
+Government Hospital,NA,NA
+Government Head Quarters Hospital,NA,NA
+Government Head Quarters Hospital,NA,NA
+Government Hospital,NA,4232233229
+Government Head Quarters Hospital,NA,NA
+Government Hospital,603306,NA
+Government Head Quarters Hospital,636401,NA
+Government Hospital,636102,NA
+Government Hospital,627756,NA
+Government Head Quarters Hospital,632513,NA
+ESI Hospital,23,NA
+Neyveli Lignite Corporation General Hospital Blood Bank,607803,NA
+Egmore Lions Blood Bank and Research Foundation,600008,"044 28414949, 044 28414959, 044 28415959"
+Dr MGR Medical University,32,"044 22353574, 044 22353546, 044 22353576"
+Government Head Quarters Hospital,612001,4352425104
+Government Head Quarters Hospital,638009,NA
+Government Head Quarters Hospital,611001,04365 248600
+Government Head Quarters Hospital,NA,04142 292052
+Government Head Quarters Hospital,NA,NA
+Government Hospital,NA,4147222250
+Government Hospital,NA,NA
+Government Hospital,NA,NA
+Government Hospital,635802,NA
+Government Hospital,609001,04364 223451
+Aarohi Blood Bank,500029,"040 27632993, 040 23200212"
+Adithya Hospital Blood Bank,500029,"040 39111333, 040 33063803"
+ADRM Hospital Blood Bank,500013,"040 27038744, 040 27038755, 040 27038788, 040 27035588, 040 64553324"
+AP Government General and Chest Hospital Blood Bank,500038,"040 23814423, 040 23812425, 040 23814422, 040 23814421"
+Apollo DRDO Hospital Blood Bank,500058,"040 24342222, 040 24242333, 040 24342211"
+Apollo Hospitals Enterprises Limited (Apollo Blood Bank Centre),500033,"040 23607777, 040 23605555, 040 23602000"
+Apollo Hospital,500003,040 27718888
+"Apollo Reach Hospitals, Blood Bank",NA,0878 2200000
+APSRTC Hospital Blood Bank,500007,"040 27018691, 040 27018695"
+APVVP District Hospital Blood Bank,502001,NA
+Asha Emergency Chest Hospital Blood Bank,507303,NA
+Asian Blood Bank of Asian Health Foundation,NA,040 27162146
+Asian Institute of Gastroenterology Blood Bank,500082,040 23378888
+Aware Global Hospitals Blood Bank,500035,"040 24031901, 040 24031902, 040 24031903, 040 2411111"
+Ayaan Institute of Medical Sciences (AIMS),NA,08417 252263/64/65
+Basavatarakam Indo American Cancer Institute and Research Centre Blood Bank,NA,040 23551235
+Bhaskara Medical College and General Hospital Blood Bank,NA,"08413 235685, 08413 235446, 08413 235447"
+BHEL General Hospital Blood Bank,502032,"040 23182366, 040 23184648"
+Care Hospital Blood Bank (A Unit of Quality Care India Limied),500001,040 30486609
+"Care Hospital Blood Bank, (Quality Care India Limited)",500034,040 66668888
+Challa Hospital Blood Bank(A Multispeciality Hospital),500016,040 42417760
+Chalmada Ananda Rao Institute of Medical Sciences Blood Bank,NA,"0878 2285565, 0878 2285318"
+Chiranjeevi Eye and Blood Bank,500035,"040 2355505, 040 23554849"
+Citizens Hospital (Cyberabad Citizens Health Services Pvt Ltd.),NA,040 67191919
+Cure Emergency Hospital Blood Bank,NA,"08742 234077, 08742 234088"
+District Head Quarter Hospital Blood Bank,508001,08682 222001
+District Head Quarters Hospital Blood Bank,NA,NA
+"Durgabai Deshmukh Hospital andResearch Centre Blood Bank, (Andhra Mahila Sabha)",NA,"040 27617801, 040 27617802, 040 27617803, 040 27610387"
+ESI Hospital Blood Bank,500038,"040 23801122, 040 23702433"
+Gandhi Hospital Blood Bank,NA,040 27505566
+Genetic Products CharitableAssociation Blood Bank,NA,"040 23411658, 040 23403882"
+Global Hospitals Blood Bank,NA,"040 23244455, 040 23244444"
+Goshamahal Hospital Blood Bank,500012,040 64516710
+Government Area Hospital Blood Bank,507111,NA
+Government Area Hospital Blood Bank,NA,NA
+Government District Head Quarter Hospital Blood Bank,509001,08542 243187
+Government ENT Hospital Blood Bank,500001,040 24653422
+Government Maternity Hospital Blood Bank,NA,"040 24523641, 040 24523643"
+Government Maternity Hospital Blood Bank,500095,"040 24653422, 040 24653647"
+Government MGM Hospital Blood Bank,506001,0870 2112805
+Government District Head Quarter Hospital Blood Bank,505001,"0878 2240223, 0878 2240337"
+Health Agriculture Rural Development Society Blood Bank,500004,NA
+Himabindu Multispeciality Hospita Blood Bank,500025,"040 24532306, 040 24531581"
+"Hyderabad Kidney and Laparoscopic Centre Blood Bank, (A Unit of JVP Super Specialty Hospital Pvt. Ltd,)",NA,040 24540777
+Image Blood Bank (A Division of Image Health Care Ltd.),500073,"040 23750000, 040 65519999"
+Indian Red Cross Blood Bank (Lions Club of Suryapet Blood Bank),508001,"08682 245790, 08682 200260"
+Indian Red Cross Socieity Blood Bank,505001,"0878 6451199, 0878 2236100"
+Indian Red Cross Society Blood Bank,506001,"0870 2456765, 0870 2456188"
+Indian Red Cross Society Blood Bank,508001,"08682 245790, 08682 200260"
+Indian Red Cross Society Blood Bank,NA,08724 290111
+Indian Red Cross Society Blood Bank,NA,08457 222525
+Indian Red Cross Society Blood Bank,509125,08546 271757
+Indian Red Cross Society Blood Bank,503001,"08462 222002, 08462 232001, 08462 221526"
+Indian Red Cross Society Blood Bank,501101,08416 252227
+Indian Red Cross Society Blood Bank,NA,040 23234774
+Indian Red Cross Society Blood Bank,500001,"08542 246225, 08542 223225"
+Indian Red Cross Society Blood Bank,504106,040 23221748
+Indian Red Cross Society Blood Bank,504208,08736 259259
+Innova Childerns Heart Hospital,NA,NA
+"Institute of Preventive Medicine, Central Blood Bank, Public Health Labs and Food (Health)",500029,"040 27557733, 040 2756892, 040 27567893"
+Institute of Transfusion Medicine and Research Blood Bank,500034,"040 23319491, 040 23328956040 23300352"
+Indian Red Cross Society (IRCS) Blood Bank,509103,08545 230133
+Indian Red Cross Society (IRCS) Blood Bank,506167,NA
+Janani Voluntary Blood Bank (A Unit of Janani Organisation),NA,"040 65603222, 040 32930222, 040 78101222"
+Janani Voluntary Blood Bank of Janani Organisation,NA,040 23150496
+Jaya Diagnostics and Research Centre Limited (Medwin Hospital) Blood Bank,NA,040 23202902
+Jeeva Dhara Voluntary Blood Bank (A unit of Jeeva Dhaara Society 2952 of 2004),NA,"040 27707088, 040 27701222"
+Jyothi Hospital Blood Bank,NA,08689 231000
+"Kakatiya Voluntary Blood Bank, (A Unit of Life Care Medical and Educational Society)",506011,"0870 2448243, 08702447887"
+Kamineni Health Services (P) Ltd. Blood Bank,500001,"040 66924030, 040 66924444"
+Kamineni Hospitals Ltd. Blood Bank,500068,"040 24022272, 040 39879999"
+Kamineni Institute of Medical Sciences Hospital Blood Bank,NA,"08682 272829, 08682 272018,08682 272409"
+Krishna Institute of Medical Sciences Blood Bank,NA,"040 27725069, 040 27725000, 040 44885000"
+Life voluntary blood bank,500072,NA
+Lifecare Voluntary Blood Bank,505001,0878 2265843
+"Lions Club of Hyderabad (East), Bhanji Kheraj Blood Bank",500095,040 24745243
+"Lions Club of Hyderabad (South), Matadin Goel Blood Bank",500029,"040 23226624, 040 23222976"
+Lions Club of Secunderabad Twin Cities Blood Bank,500003,040 32411317
+M.M. Voluntary Blood Bank,NA,040 23774469
+Mahavir Hospital and Research Centre Blood Bank,500004,"040 23497377, 040 23316057, 040 23316058"
+Mahavir Institute of Medical Sciences,NA,08416 200108
+"Maheshwara Medical College and Maheshwara Hospital, (Alleti Shrunitha Educational Society)",NA,NA
+Mamata General Hospital Blood Bank,NA,"08742 230864, 08742 235160"
+Medicity Hospital Blood Bank,NA,08418 256201 to 08418 256209
+Military Hospital Blood Bank,500008,"040 23517385, 040 23517625"
+Military Hospital Blood Bank,NA,"040 27886559, 040 27886579"
+MNJ Institute of Oncology and Regional Cancer Centre Blood Bank,500004,040 23397000
+MNR Medical College and Hospital Blood Bank,NA,NA
+Mother Violuntary blood Bank (MAS),NA,0870 2437797
+Mythri Charitable Trust Blood Bank and Transfusion Centre,500027,"040 66822271, 040 27550238"
+Narayana Hrudayalaya Hospital Pvt. Ltd.,500055,"040 23783000, 040 23190077"
+Nelavelly Blood Bank (A unit of Nelavelly Laxma Rao Social Service Charitable Trust),NA,08724 230333
+New Life Hospital Blood Bank,500024,040 64558864
+Niloufer Hospital Blood Bank,500004,"08732 230777, 30445040 23314095, 040 23394265"
+Nizams Institute of Medical Sciences Hospital Blood Bank,500082,"040 23320332, 040 23489000, 040 23489085, 040 23489020"
+NTR Memorial Trust Blood Bank,500034,040 30799999
+Osmania General Hospital Blood Bank,500012,040 24600146
+Owaisi Hospital and Research Centre Blood Bank,500058,040 24343129
+Perali Narasimha Memorial Trust of Blood Bank,NA,"08462 220060, 08462 231060, 08462 2231458"
+Poulomi Hospitals Pvt. Ltd.Blood Bank,500062,040 27143750
+Prathima Institute of Medical Sciences Blood Bank,NA,"0878 2216500, 0878 2216555"
+Premier Hospital Blood Bank,500028,NA
+Prime Hospital Blood Bank,500038,"040 23756675, 040 66775656, 040 44569999"
+Princess ESRA Hospital Blood Bank,NA,"040 24523798, 040 24524416, 040 24572170, 040 24572171, 040 24411538"
+Rajiv Gandhi Institute of Medical Sciences Blood Bank,NA,08732 220521
+Rajyalakshmi Charitable Trust Blood Bank,NA,040 64597760
+Rakshita Voluntary Blood Bank,NA,040 65263309
+Red Cross Blood Bank of Indian Red Cross Society AP State Branch,500044,"040 27633087, 040 27627973"
+Rudhira Health Organisation,NA,08742 220666
+Rudhira Voluntary blood Bank,NA,"040 23220222, 040 65883777"
+S.B.Voluntary Blood Bank,NA,08462 646430
+S.S. Blood Bank,NA,08742 229633
+Sai Vani Hospital Blood Bank,500029,"040 27634462, 040 27634463"
+Sanjeevini Blood Bank,NA,"040 27667500, 040 65522343"
+"Sarala Blood Bank, (A Unit of Sarala Memorial Charitable Trust)",NA,08744 242929
+Sathya Nursing Home Blood Bank (Satya Kidney Centre),500029,"040 66753026, 040 27650935"
+Seha Blood Bank of Seha Medical Pvt. Ltd.,500004,"040 23314747, 040 65980143, 040 32003004"
+Shadan Institute of Medical Sciences,500008,040 24198717
+Share Medical Care- Mediciti Hospital Blood Bank,NA,"040 2321111, 040 23231631"
+Singareni Collieries Company limited,506168,"08713 248104, 08713 248108"
+Siva Multy Speciality Hospital,507001,08742 225120
+South Central Railway Hospital Blood Bank,500012,"040 27001036, 040 27789436, 040 27789173"
+Sri Balaji Blood Bank,NA,040 24572195
+Sri Kanaka Durga Kidney Centre and Poly Clinic Blood Bank,507001,NA
+Sri Laxmi Blood Bank,NA,08732 230777
+Sri Sai Kidney Center Blood Bank,NA,"040 23756789, 040 23756644"
+Sridevi Charitable trust Blood Bank,NA,"040 27016015, 040 27016016"
+St. Anns Hospital Blood Bank,NA,0870 2459162
+St. Therasas Hospital Blood Bank,NA,"040 23704411, 040 23701013"
+Star Hospital Blood Bank (A Unit of Unimed Health Care Pvt. Ltd.),500034,040 44777777
+Sun Shine Blood Bank,NA,"040 43444546, 040 44550000, 040 64643345"
+SVS Medical College Hospital Blood Bank of SVS Educational Society,509002,"08542 270036, 08542 270477"
+Thalassemia and Sickle Cell Society Blood Bank,500002,"040 25460011, 040 24520159"
+The Singareni Collieries Co. Ltd. Area Hospital Blood Bank,507117,NA
+The Singareni Collieries Co. Ltd. Area Hospital Blood Bank,507123,"08745 52091, 08745 52014"
+The Singareni Collieries Co. Ltd. Main Hospital Blood Bank,NA,NA
+The Singareni Collieries Co. Ltd.,504251,"08713 248104, 08713 248108"
+The Singareni Collieries Co. Ltd.,504301,08736 228677
+The Singareni Collieries Company Limited,505211,"08728 244361, 08728 244362"
+TRR General Hospital Blood Bank,502319,08455 288355
+Usha Mullapudi Cardiac Centre Blood Bank,NA,040 23090609
+V.R.K Educational Society Blood Bank,NA,NA
+Vivekananda Environmental International Society Social Service Blood Bank,NA,"040 64505032, 040 27803987"
+Vivekananda Environmental International Society Social Service Blood Bank,500028,"040 65155790, 040 23517519, 040 64606048"
+VT Thakur Memorial Rotary Blood Bank,503111,08468 222222
+Warangal Institute of Medical Sciences Blood Bank,NA,"0870 2524251, 040 2524215"
+Yashoda Hospital Blood Bank,500036,040 24555555
+Yashoda Hospitals Blood Bank,NA,"040 27707542, 040 27713333"
+Yashoda Super Speciality Hospital Blood Bank,NA,040 23319999
+District HQ Hospital(RIMS),NA,NA
+Nizams Orthopedic (NIMS) Hospital,500082,"040 23489000, 040 23396552, 040 23489244, 040 23489245"
+Gandhi Blood Bank,500003,040 27505566
+"District HQ Hospital, Nizamabad",503001,08462 251251
+"Blood Bank, Government Modern Maternity Hospital",NA,NA
+MNJ Cancer Hospital,NA,NA
+Indian Red Cross Soceity Blood Bank,NA,NA
+General and Chest Hospital,NA,NA
+"Blood Bank Area Hospital, Kothagudem",NA,NA
+"Blood Bank Community Hospital, Siddipet",NA,NA
+Lions Club Matadin Goel Blood Bank,NA,NA
+"Lions Club, B.K. Blood Bank",NA,NA
+"Indian Redcross Society Blood Bank, Kamareddy",503111,08468 221096
+Blood Bank CHC Nirmal,NA,NA
+"Blood Bank Area Hospital, Jangoan",NA,NA
+Indira Gandhi Memorial (I.G.M) Hospital,799001,0381 2325736
+Society for Tripura Medical College & Dr. B.R.A.M. Teaching Hospital,NA,0381 2374144
+Bimal Singha Memorial Hospital,NA,03826 262232
+R.G.M. Hospital Sub-Divisional Hospital,799277,0382 4222221
+Dharmanagar Sub-Divisional Hospital,NA,0382 2231621
+Tripura Sundari District Hospital (TDS),799120,0381 223480
+"ILS Hospital, Prop. GPT Healthcare Pvt. Ltd. of Capital Complex",799006,0381 2415000
+G.B.P. Hospital,799006,0381 2356288
+Mariyampur Hospital and Blood Bank,208005,0512 216788
+Modern Pathology and Blood Bank,NA,0120 2752570
+"Blood Bank, Kailash Hospital and Heart Institute",201301,0120 2444444
+Tarawati Nursing Home Private limited,NA,0132 2716003
+Wadhwa Blood Bank,203001,05732 233998
+Life Line Blood Bank,NA,"0512 2295797, 0512 2219473"
+Regency Hospital limited,NA,0512 2242201
+Indira Diagnostic and Blood Bank limited,NA,0522 2380084
+Sant Diagnostic Centre and Blood Bank,NA,0510 2320831
+SGPGI Blood Bank,NA,"0522 2494500, 0522 2495341"
+Sh. Chattrapati Shivaji Maharaj Chikitsalaya University,NA,NA
+Pt. Din Dayal Uppadhaya Combined District Hospital,NA,0591 2410670
+"S.R.N. Hospital, M.L. N. Medical College",NA,0532 2256507
+Balrampur Hospital,NA,"0522 22624040,0522 2629949"
+GSVM,NA,NA
+MLB Medical College and Hospital,NA,NA
+District Hospital,NA,05162 258059
+District Hospital,NA,NA
+Narendra Mohan Hospital and Research Centre,NA,0120 2657501
+"Malkhan Singh, District Hospital",NA,0571 2523338
+Sri Shiv Prasad Gupta Hospital (SSPG),NA,NA
+Heritage Hospital,NA,0542 2368888
+Command Hospital,NA,0522 2296288
+Military Hospital,NA,0581 2403584
+Military Hospital,NA,0562 2452712
+Military Hospital,NA,0121 2643012
+District Hospital,NA,NA
+"P.L. Sharma, District Hospital",NA,0121 2420814
+Sanjeevani Blood Bank,NA,NA
+Har Prasad Blood Bank,NA,0571 2405420
+Lions Vishal Blood Bank,NA,0542 2414122
+Jawahar Pathology and Blood Bank,NA,0542 2503077
+Vivekanand Hospital and Research Center,NA,0591 2551100
+J.N. Medical College,NA,"0571 2720016, 0571 2721113, 0571 2720014"
+"Dr. Shyama Prasad Mukharjee, Civil Hospital",NA,0522 2239595
+Samarpan Blood Bank,NA,"0562 2855080, 0562 2520359"
+Asopa Hosptial Private limited,NA,0562 2600004
+District Hospital,NA,0562 2463043
+District Hospital,NA,05278 220078
+Babu Banarasi Das District Hospital,NA,05732 254633
+District Hospital,NA,01342 262710
+District Hospital,NA,05442 253092
+Dr. Bhimrao Ambedkar Combined Hospital (District Hospital),NA,05688 255526
+Sneh Pathology X-ray and Blood Bank,NA,0512 2601408
+"SBD, District Hospital",NA,0132 2715408
+Sanjay Gandhi Hospital,NA,05368 255009
+District Hospital,NA,0565 2401199
+District Hospital,NA,NA
+District Hospital,NA,0131 2440407
+District Hospital,NA,NA
+Dr. Ram Manohar Lohiya Joint Hospital,NA,05692 240256
+District Hospital,NA,NA
+District Hospital,NA,0510 2448442
+Military Hospital,NA,NA
+District Hospital,NA,NA
+"UHM, District Hospital",NA,0512 2311144
+"SNM, District Hospital",NA,NA
+St. Judes Hospital,NA,0510 2360957
+Sunder Lal Hospital Institute of Medical Sciences,NA,"0542 2369237, 0542 2309408"
+S.N. Medical College,NA,05622 260353
+District Hospital,NA,05452 263554
+District Hospital,NA,0595 2324687
+District Hospital,NA,05832 266264
+District Hospital,NA,NA
+Vivekanand Polyclinic and Institute of Medical Sciences,NA,"0522 2328942, 0522 2321277"
+Blood Bank,NA,0581 2403584
+Life Line Blood Bank,NA,0510 6516 (Tele Mill)
+Chandan Diagnostics Center and Blood Bank,NA,NA
+Gaurav Diagnostic Center and Blood Bank,NA,0510 2320824
+Lok Priya Blood Bank,NA,"0121 2760040, 0121 2763597"
+Santosh Medical and Dental College,NA,"0120 2791741, 0120 2791735"
+S.M. Medicare Private limited,NA,0551 2338797
+City Blood Bank,NA,0551 2346357
+Dr. Chaturvedi Central Blood Bank,NA,"0591 2413857, 0591 2422395"
+Air Force Hospital,NA,0551 2272381
+District Hospital,NA,05176 272343
+District Hospital,NA,05462 265172
+District Hospital,NA,0581 2550009
+District Hospital,NA,05842 240209
+District Hospital,NA,05262 225358
+District Hospital,NA,NA
+District Hospital,NA,NA
+District Hospital,NA,0515 2840149
+District Hospital,NA,05542 283273
+District Hospital,NA,0551 2332203
+District Hospital,NA,NA
+District Hospital,NA,0574 2234091
+District Hospital,NA,NA
+District Hospital,NA,05192 220415
+"MMG, District Hospital",NA,0120 2853030
+District Hospital,NA,05252 237265
+District Hospital,NA,05248 228580
+"Moti Lal Nehru, District Hospital",NA,0532 2240031
+SVBP Hospital,NA,0121 2763647
+District Hospital,NA,NA
+"Metro Hospital, Heart Institute",NA,"0120 2533491,0120 2533489"
+Nehru Hospital and B.R.D. Medical College,NA,"0551 2508815,0551 2508814"
+Nirmal Hospital Complex,NA,0510 2322028
+District Hospital,NA,NA
+Sri Sai Hospital and Blood Bank,NA,0591 2481720
+District Hospital,NA,05568 227691
+Agra City Blood Bank,NA,0562 2262122
+S.M. Medicare Private limited Blood Bank,NA,0532 2461665
+Kohli Blood Bank and Components Private limited,NA,0522 2259004
+AMA (Allahabad Medical Association) Blood Bank,NA,0532 2266513
+C.L. Memorial Hospital and Blood Bank,NA,0512 2241595
+Ganga Sheel Blood Bank,NA,"0581 2510083, 0581 2510140"
+Jan Suvidha Blood Bank,NA,0562 3255164
+Narora Atomic Power Station (NAPS) Blood Bank,NA,05734 222261
+Meerut Blood Bank,NA,NA
+Yashoda Hospital and Research,NA,"0120 4182000, 0120 2750001"
+Sri Ram Murti Samarak Institute of Medical,NA,"0581 2582014,0581 2582025"
+Eras Medical College and Hospital,NA,"0522 2408122,0522 2408123"
+Life Line Blood Bank,NA,0120 2793989
+Shekhar Blood Bank and Component Centre,NA,0522 2352352
+Keshav Madho Blood Bank & Pathology,NA,0581 2540318
+Prayag Hospital and Research Centre,NA,0120 4021900
+Nidan Diagnostic Centre and Blood Bank,NA,0522 2393390
+"Subharti Blood Bank, Chatrapati Shivaji Subharti Hospital",NA,"0121 2439150, 0121 2439112"
+Maha Mritunijaya Hospital Lord Budha Medical College,NA,05462 245777
+Sai Blood Bank,NA,NA
+"Life Line Charitable, Blood Bank",NA,NA
+Dr. Ram Manohar Lohia Chikatsalya,NA,NA
+Ramakrishna Mission Sevashrama,NA,0565 2442310
+Yashoda Hospital and Research Centre Ltd,NA,0120 4189500
+International Hospital (P) limited,NA,"0120 4300222,0120 2400222"
+Sanjeevani Blood Bank,NA,0121 2525864
+"Guru Shri Gorakshanath, Blood Bank",NA,0551 2257138
+Ruhelkhand Medical College & Hospital,NA,"0581 2526011, 0581 2526012"
+Lok Priya Hospital Blood Bank,NA,01232 247556
+St. Joseph Hospital,NA,0522 4054247
+Jeevan Rekha Charitable,NA,05882 253269
+Apollo Pankaj Hospital,NA,0562 2640441
+Rural Institute of Medical Sciences and Research,NA,05688 276563
+Pushpanjali Hospital & Research Centre Private limited,NA,0562 4024000
+Sarvodaya Jankalyan Samati,NA,"04344 230464, 04334 233533"
+Maulana Mohamad Ali Jawahar Hospital,NA,"0595 2341916, 0595 2329242"
+"Lion Blood Bank, Lions Club City",NA,NA
+"Blood Bank and Components,",NA,0121 4002113
+Fatima Hospital,NA,0551 2281862
+Sharda Hospital,NA,0120 3212361
+Anand Hospital,NA,0121 2792000
+B.N.K. Hospital,NA,0522 2787001
+Lucknow Nursing Home Association,NA,0522 4070185
+Hind Institute of Medical Sciences,NA,05248 221399
+Rama Medical College Hospital and Research Centre,NA,"0512 2780882, 0512 2780886"
+Teerthankar Mahaveer Hospital and Research Centre,NA,0591 236055
+Muzaffarnagr Medical College and Hospital,NA,01396 52702
+Prakash Hospital,NA,0120 2505264
+Swamy Vivekanand Charitable Blood Bank,NA,05842 280224
+Sanjeevani Charitable Blood Bank (A unit of Sanjeevani Charitable Trust,NA,0562 2858573
+Parakh Voluntary Blood Bank,NA,0510 2321134
+District Hospital,NA,NA
+Sahara Hospital,NA,"0522 6782110, 0522 6781683"
+Jaswant Rai Specialty Hospital,NA,"0121 2663888, 0121 2663887, 0121 2651700"
+Naveen Hospital,NA,NA
+Lions Agra Mahan Charitable Blood Bank,NA,NA
+Fatima Hospital,NA,0547 220943
+Jeevan Dhara Blood Bank,NA,NA
+Pushpanjali Crossley Hospital,NA,0120 4173042
+Saraswati Institute of Medical Science,NA,0122 2320511
+Combined District Hospital,NA,NA
+Lokhitam Blood Bank,NA,"0562 3276700, 0562 22883111"
+Astha Blood Bank & Components,NA,NA
+L.P.S. Institute of Cardiology,NA,0512 2532269
+Sewa Blood Bank,NA,0522 2393390
+Bagla Combined District Hospital,NA,05722 230094
+Tulsi Hospital limited,NA,"0512 2536404, 0512 2536406"
+Shanti Gopal Hospital Blood Bank,NA,0120 4777000
+Dev Nandani Hospital Blood Bank,NA,0122 3200800
+Isha Hospital Blood Bank,NA,NA
+Divine Heart Hospital and Research Centre,NA,"0522 2721991, 0522 2721995"
+Dr. M.C. Agrawal Hospital and Research Centre (P) limited,NA,NA
+Joint District Hospital,NA,05564 240549
+BCM Hospital,NA,"05862 252228, 05862 252850"
+Santushti Hospital Private limited,NA,0542 2316230
+District Hospital,NA,05547 226392
+District Joint Hospital,NA,NA
+Apex Hospital Component Blood Bank,NA,0542 2316794
+Kailash Hospital limited,NA,"0120 2321111, 0120 2322222"
+Rotary Noida Research and Social Welfare Trust,NA,0120 4282685
+Nova Hospital limited,NA,0522 2300024
+Dev Hospital Blood Bank,NA,0571 2410061
+G.R. Hospital and Research Centre Private limited,NA,"0562 6541977, 0562 3259291"
+Jeevan Jyoti Blood Bank (A unit of Jeevan Jyoti Hospital),NA,0571 2400515
+Pt. Deen Dayal Upadhayay Government Hospital,NA,0542 2505073
+Tejbahadur Sapra Hospital,NA,0532 2267687
+OPEC Hospital,NA,05542 283021
+Clara Swain Mission Hospital (Blood Bank),NA,0581 2500000
+District Combined Hospital,NA,0592 2253065
+Hindalco Hospital,NA,"05446 252077, 05446 252079, 05446 254791, 05446 254796"
+Combined District Hospital,NA,05523 222204
+District Hospital,NA,NA
+Combined District Hospital,NA,05331 232030
+Combined District Hospital,NA,05198 236555
+Combined District Hospital,NA,05694 237627
+Pt. Kamlapati District Combined Hospital,NA,05412 260497
+Maharaja Chet Singh District Hospital,NA,04414 251406
+Dr. Bhimrao Ambedkar Multi Specialty Hospital,NA,NA
+Mahamaya Rajkiya Allopathic Medical College,NA,05273 213000
+Combined District Hospital,NA,05263 235776
+Rama Medical College and Research Centre,NA,0122 2327300
+Dr. B.N. Behl Memorial Hospital,NA,"05842 280994, 05842 281614"
+District Hospital,NA,0583 242239
+"Jeevan Sanjeevan Blood Bank, Jeevan Hospital",NA,0571 2506162
+Banaras Heart Hospital Component Blood Bank,NA,0542 2224567
+Fatima Hospital,NA,"0522 2961196, 0522 2323195"
+"Cosmos Hospital, Multi Speciality and Trauma Centre",NA,"0591 2555500, 0591 2555501"
+Agrawal Life Line Hospital and Trauma Centre Blood Bank,NA,0565 2430857
+Savitri Blood Bank and Component Centre,NA,"0551 2205914, 0551 2205915, 0551 2205916"
+"IMA Blood Bank, (Run by Indian Medical Association)",NA,NA
+S.D. Medical Institute & Research Centre Blood Bank,NA,0131 2607279
+Career Institute of Medical Sciences and Hospital Blood Bank,NA,"0522 2960429, 0522 2960439"
+District Combined Hospital,NA,NA
+Pushpa Maa Samaj Charitable Blood bank,NA,0562 6451121
+O.P. Chaudhary Hospital and Research Centre Blood Bank,NA,0522 2441172
+Jyotibaphule Combined District Hospital (Blood bank),NA,NA
+Integral Institute of Medical Sciences and Research,NA,"0522 2890730, 0522 2890812"
+Yatharth Wellness Super Specialty Hospital and Heart care,NA,NA
+Shyam Nursing Home and Blood Bank,NA,05180 227270
+Shri Jagdamba Charitable Blood Bank and Component,NA,"0562 6541977, 0562 3259291"
+Sadbhawna Charitable Blood Bank,NA,NA
+Medison Hospital Private limited,NA,0522-2739541
+B.S.D.B.A. Government Medical College and Hospital,NA,05694 262114
+Government Medical College and Hospital,NA,05162 210201
+Fehmina Hospital & Trauma Centre (Blood bank),NA,"0522 2653300, 0522 2653301"
+"Rotary Blood Bank, Rotary Point",NA,NA
+Jaypee Hospital,NA,"0581 2582014, 0581 2582025"
+Mayo Institute of Medical Sciences Blood Bank,NA,"05248 229696, 05248 229595"
+SPM Hospital Research and Trauma Centre Blood bank,NA,0512 2570553
+District Combined Hospital Blood Bank,NA,05250 222704
+Divya Jyoti Institute of Medical Sciences and Research,NA,"0132 250882, 0132 250882, 0132 250883, 0132 250884"
+Manav Seva Charitable Blood Bank,NA,NA
+Shamli Charitable Blood Bank,NA,NA
+Krishna Super Speciality Hospital,NA,"0512 2320061, 0512 2320071"
+Combined District Hospital (M) Blood Bank,NA,05111 270728
+IMA Blood Bank,NA,0581 2422900
+Venkateshwara Institute of Medical Sciences Blood bank,NA,NA
+F.H. Hospital Blood Bank,NA,NA
+Sevarth Sansthan Blood Bank,NA,"05612 240022,05612 240033"
+District Hospital,NA,NA
+IMA Blood Bank,NA,NA
+District Hospital,NA,NA
+District Hospital,NA,NA
+LLRM Medical College,NA,NA
+IMS,NA,NA
+District Hospital,NA,NA
+Sainik Hospital Blood Bank,NA,01332 279976
+District Hospital Blood Bank,NA,01368 222086
+District Hospital Blood Bank,NA,01372 252245
+District Hospital Blood Bank,NA,01374 222103
+"Doon Hospital, District Hospital Blood Bank",NA,NA
+Sainik Hospital Blood bank,NA,0135 2702413
+B.D. Pandey District Hospital,NA,05942 235022
+Jawahar Lal Nehru District Hospital (JLN ),NA,NA
+B.D. Pandey Hospital Blood Bank,NA,05964 25687
+Himalayan Institute Trust Blood Bank,NA,NA
+ONGC Hospital Blood Bank,NA,"0135 2795885, 0135 2795887, 0135 2796097, 0135 2753504"
+Soban Singh Jeena Base Hospital (SSJ),NA,05946 255110
+H.N. Bahuguna Government Base Hospital,NA,01346 222706
+Dr. Susheela Tiwari Memorial Forest,NA,"05946 34104, 05946 234423"
+Shri Mahant Indiresh Hospital,NA,"0135 2728106, 0135 2728107, 0135 2720151"
+Government Combined Hospital,NA,0133 2264333
+IMA Blood Bank,NA,"0135 2755010, 0135 2755010"
+L.D. Bhatt Chikitsalya,NA,05947 278443
+Ramakrishna Mission Sevashrana,NA,0565 2442310
+Government Combined Hospital,NA,"01382 222021, 01382 229740"
+Govind Singh Mahra Government Hospital Blood Bank,NA,05962 30064
+SPS Government Hospital,NA,"0135 2430096, 0135 2431032"
+"Jeevan Rekha Hospital, Blood Bank",NA,"05947 261201, 05947 261202"
+Max Super Speciality Hospital,NA,0135 6673031
+Civil Hospital,NA,NA
+HMG Hospital,NA,NA
+District Hospital,NA,NA
+Combined Hospital,NA,NA
+District Hospital,NA,NA
+Air Force Hospital Blood Bank,735215,03566 255060
+B.M. Birla Heart Research Centre,NA,"033 30403040, 033 304033112"
+"S.D Hospital , Bolpur",731204,03463 221136
+"S.D. Hospital, Ghatal",721212,03225 255064
+"S.D. Hospital, Kurseong",734201,0354 2344333
+B.R. Singh Hospital Blood Bank,NA,033 23523679
+Belle Vue Clinic,NA,"033 22872321, 033 22876725, 033 22877973"
+"S.D. Hospital, Basirhat",743411,03217 267506
+Base Hospital and Blood Bank,NA,NA
+Bhoruka Research Centre for Haematology and Blood Transfusion,700016,033 22658092
+Sub Divisional Hospital,712601,"03211 255962, 03211 255095"
+Peerless Hospitex Hospital and Research Center Limited,700094,"03211 24622394, 03211 24620071, 03211 24620072, 0321124620073"
+Mission of Mercy Hospital and Research Centre,NA,"033 30902095, 033 22496572"
+Apollo Gleneagles Hospital Ltd.,700054,"033 23202122, 033 23203040"
+Barasat Cancer Research and Welfare Centre,NA,"033 25522222, 033 25522562, 033 2552500"
+Berhampore General Hospital,NA,NA
+Barrackpore S.D. Hospital (Dr. B.N. Bose) Hospital Blood Bank,700120,033 25923676
+Bankura Sammilani Medical College and Hospital,722102,"03242 241366, 03242 250981, 03242 244713, 03242 251324"
+"S.D. Hospital, Bishnupur",722122,03244 253075
+"S.D. Hospital, Asansol",713301,0341 2217601
+"S.D. Hospital, Alipurduar",735204,03564 274085
+"S.D. Hospital, Chandannagar",712136,26859443
+"S.D. Hospital,Contai",721401,03220 257661
+Central Hospital Blood Bank,700043,033 24504074
+Command Hospital (EC),NA,"033 22226415, 033 22226411"
+Central Hospital Kalla,NA,0341 2271909
+"S.D. Hospital, Durgapur",713206,0343 2533951
+Dr. B.N. Bose S.D. Hospital,NA,033 25920778
+Divisional Railway Hospital,NA,0341 2220529
+Cooch Behar Municipality,NA,03582 222286
+Chittaranjan National Cancer Institute Blood Bank,700026,033 24765101
+Calcutta National Medical College Hospital,700014,"033 22848397,033 22844834"
+Deben Mahato (Sadar) Hospital,723101,03252 222678
+Balurghat District Hospital,733103,"03522 270464, 03522 255641"
+Midnapur Medical College and Hospital,NA,NA
+District Hospital Blood Bank,734101,03542 255636
+Bongaon S.D. Hospital (Dr. J.R. Dhar),743235,03215 255073
+Diamond Harbour S.D. Hospital,743331,03174 248896
+Durgapur Steel Plant Hospital,713205,0343 2498250
+Indian Association of Blood Bank Cancer and Allied Diseases,NA,"033 64610972, 033 23730138"
+Institute of Blood Transfusion Medicine and Immunohaematology,700006,23510619
+Howrah Orthopaedic Hospital,NA,033 26411642
+Howrah District Hospital,711101,26411227
+Haldia S.D. Hospital,NA,032 24277441
+Gandhi Memorial Hospital,741251,"033 25898443, 033 25897292"
+"ESI Hospital, Maniktala Blood Bank",700054,033 23557218
+Life Line Blood Bank,NA,0341 2440590
+Lions District Blood Bank,NA,NA
+K.G. Hospital,NA,9163340505
+"S.D. Hospital,Kandi",742137,03484 255401
+"S.D. Hospital , Kalimpong",734301,9733162135
+"S.D. Hospital, Kharagpur",721301,03222 221860
+Jawaharlal Nehru Memorial Hospital,741235,033 25828386
+"S.D. Hospital, Jhargram",721507,03221 259789
+"S.D. Hospital, Jangipur",742213,03483 266257
+"S.D. Hospital, Islampur",733202,NA
+Burnpur Hospital,713325,"0341 2231332, 0341 2231227"
+Imambara Sadar Hospital,712101,26800236
+Calcutta Medical College Hospital,700073,28640392
+Marwari Relief Society,NA,033 22745675
+"S.D.Hospital, Lalbag",NA,"03482 270247, 03482 270224"
+Life Care Medical Complex Ltd.,NA,"22846940, 22896168"
+Barasat District Hospital Blood Bank,700124,25840347
+North Bengal Medical College Hospital Blood Bank,734012,03532 585483
+Nadia District Hospital,741101,03472 258533
+"Blood Bank, The Mission Hospital",NA,"0343 2535555, 0343 2535544"
+N.R.S. Medical College Hospital Blood Bank,700014,"033 22652214, 033 226532"
+M.J.N Hospital.,736101,03582 231049
+Malda District Hospital,732101,"03512 221427,03512 252480"
+M.R. Bangur Hospital,700033,"033 24727873, 033 24730000"
+Peoples Blood Bank,NA,"033 24555184, 033 24555557"
+North Bengal Voluntary Blood Bank and Research Centre,NA,0353 2529077
+"Sanctoria Hospital, Eastern Coalfield Ltd. Blood Bank",713333,"0341 2523576, 0341 2523577"
+Rabindranath Tagore International Institute of Cardiac Sciences Blood Bank,700099,"033 24364000, 033 30014000, 033 24264204"
+"S.D. Hospital, Ranaghat",741201,03473 210043
+Raiganj Blood Bank,733134,03523 241400
+"S.D. Hospital, Rampurahat",NA,"03461 255102, 03461 255285"
+Ramkrishna Mission Seva Prathisthan Blood Bank,700026,"24753636, 24753637, 24753638, 24753639"
+R.G. Kar Medical College and Hospital,700004,033 25331277
+Rashmi Blood bank,713104,0342 2657251
+Suri Sadar Dist. Hospital Blood Bank,731101,"03462 255483, 03462 255766"
+South Eastern Railway Hospital Blood Bank,NA,03222 221860
+"S.D. Hospital, Kalna",713409,03454 255052
+"S.D. Hospital, Siliguri",734001,0353 2533133
+Specalist Corner Blood Bank,711106,NA
+S.S.K.M. Hospital,700020,22234147
+Serampore S.D. Hospital (Walsh),712201,26526305
+"S.D. Hospital, Jalpaiguri",735101,03561 220047
+Woodland Multispeciality Hospital Ltd.,700027,"24567075, 24567089"
+"S.D. Hospital, Uluberia",711315,26612928
+Saroj Gupta Cancer and Research Institute Blood Bank,700063,033 24532781
+"S.D. Hospital Blood Bank, Tamluk",721636,032 2866109
+"Terai Lions Charitable Trust Blood Bank, Siliguri",734404,0353 2548925
+"Hemraj Blood Bank, Katwa S.D. Hospital",731130,03453 255060
+The Haemophilia Society Calcutta Chapter,700099,"033 24263739, 033 24264273"
+Blood Bank,NA,"0356 3259773, 0356 3259773"
+"St. John Ambulance Association,",NA,"227693, 227497"
+South Eastern Railway Hospital,NA,NA
+"Paul P. Harris, Siliguri Rotary Blood Bank",NA,0353 2573240
+KPC Medical College and Hospital,NA,"033 66211765, 033 30016100, 033 30016299"
+Little Heart Childrens Hospital Pvt. Ltd.,722102,"03242 243352, 03242 243829"
+Health Point -A Multispeciality Hospital Blood Bank,700025,"033 30585838, 033 30585839, 033 30575735"
+Ashok Laboratory,NA,"033 24148250, 033 24720333"
+Burdwan Medical College and Hospital,713101,0342 2559777
+Cord Life Sciences India Private Limited,743503,033 24809565
+"Blood Bank, ESIC Hospital and ODC (E.Z.)",NA,"033 24671764; 033 24671322, 033 24676280, 033 24672799"
+Dr. Bidhan Chandra Roy Hospital,721645,0322 4269048
+Fortis Hospital Ltd.,NA,"033 66284444, 033 66284230"
+Tata Medical Centre Trust,NA,0322 4269048
+Institute of Child Health,NA,033 22905686
+Medica Super Specialty Hospital,NA,033 66525000
+Vivekananda Hospital Pvt. Ltd.,713206,"0343 2532430, 0343 2532253"
+Sanjiban Hospital,711316,033 71666000
+IQ City Narayana Hrudayalaya Hospital,713206,"0343 2608522, 0343 2608000"
+Swasti Clinical Research Laboratory (Pvt.) Ltd.,NA,NA
+Advanced Medicare and Research Institute Ltd.,NA,"2461 2626, 2440 4803"
+College of Medicine and Sagore Dutta Hospital,NA,"033 25834277,"
+Desun Hospital and Heart Institute,NA,NA
+Medinipur Medical College and Hospital Blood Bank,721101,03222 275503
+Baharampur District Hospital Blood Bank,742401,03482 252332
+M.R. Bangur District Hospital Blood Bank,33,24730000
+Haldia S.D. Hospital Blood Bank,721602,0322 4277441
+Lalbagh S.D. Hospital Blood Bank,742149,03482 270247
+Rampurhat S.D. Hospital Blood Bank,731224,"03461 255102, 03461 255285"
