@@ -4,7 +4,11 @@
 
 *Runner's up at Microsoft code.fun.do Manipal,2015 and National Finalists in Microsoft Imagine Cup - 2016 , India*
 
-
+Team Members:
+Anubhav Apurva
+Prashant Kumar
+Utsava Verma
+Yashashvi Tarana
 
 
 ## How to install  
