@@ -2,7 +2,7 @@
 
 **A Health and Fitness Windows Phone App**
 
-*Runner's up at Microsoft code.fun.do Manipal,2015 and National Finalists in Microsoft Imagine Cup - 2016 , India*
+*Runner's up at Microsoft code.fun.do Manipal,2015 and National Finalists in Microsoft Imagine Cup - 2016 , India.*
 
 Team Members:
 - Anubhav Apurva
