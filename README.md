@@ -33,6 +33,10 @@ alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 
 ## Implemented Features:
 
+The primary feature of the app is to store and manage Medical records and documents in a structured manner over a cloud server i.e. Microsoft Azure. The records can be accessed from anywhere using the user's credentials.
+
+Other signfact features include: 
+
 1. Emergency Message
 	-sends co-ordinates of current location to the 3 saved emergency contacts
 	
