@@ -26,7 +26,7 @@ Team Members:
 
 <a href="https://www.youtube.com/watch?v=dAF8IR7sbRw&feature=youtu.be
 " target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/YouTube_logo_%282017%29.png" 
-alt="IMAGE ALT TEXT HERE" width="350" height="90" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="175" height="45" border="10" /></a>
 
 
 
