@@ -10,16 +10,6 @@ Team Members:
 - Utsava Verma
 - Yashashvi Tarana
 
-
-## How to install  
- 
-- MedBook is built for Windows Phone 8.1 and above. 
-- To run the application, deploy the application on Windows Phone 8.1 platform or above. 
-- To use the heartbeat monitoring feature, Microsoft Band should be connected via Bluetooth 
-- Nugets to be installed : Windows Azure Mobile Services, Windows Azure Web Services, Json.NET, Microsoft Band SDK
-
-
-
 ## Video
 
 
@@ -29,6 +19,13 @@ Team Members:
 alt="IMAGE ALT TEXT HERE" width="220" height="45" border="10" /></a>
 
 
+
+## How to install  
+ 
+- MedBook is built for Windows Phone 8.1 and above. 
+- To run the application, deploy the application on Windows Phone 8.1 platform or above. 
+- To use the heartbeat monitoring feature, Microsoft Band should be connected via Bluetooth 
+- Nugets to be installed : Windows Azure Mobile Services, Windows Azure Web Services, Json.NET, Microsoft Band SDK
 
 
 ## Implemented Features:
