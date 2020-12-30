@@ -10,7 +10,7 @@ Team Members:
 - Utsava Verma
 - Yashashvi Tarana
 
-## Video
+## Demo Video
 
 
 
