@@ -15,7 +15,7 @@ Team Members:
  
 - MedBook is built for Windows Phone 8.1 and above. 
 - To run the application, deploy the application on Windows Phone 8.1 platform or above. 
-- To use the heartbeat monitoring feature, the Microsoft Band should be connected via Bluetooth 
+- To use the heartbeat monitoring feature, Microsoft Band should be connected via Bluetooth 
 - Nugets to be installed : Windows Azure Mobile Services, Windows Azure Web Services, Json.NET, Microsoft Band SDK
 
 
@@ -33,7 +33,7 @@ alt="IMAGE ALT TEXT HERE" width="220" height="45" border="10" /></a>
 
 ## Implemented Features:
 
-The primary feature of the app is to store and manage Medical records and documents in a structured manner over a cloud server i.e. Microsoft Azure. The records can be accessed from anywhere using the user's credentials.
+The primary feature of the app is to **store and manage Medical records and documents in a structured manner over a cloud server** i.e. Microsoft Azure. The records can be accessed from anywhere using the user's credentials.
 
 Other signfact features include: 
 
@@ -76,27 +76,27 @@ Other signfact features include:
 ## Future Implementation:
 
 1. General/Private Consultation
-	-General Consultation
-		>A Medical Qeury by an individual can be answered by any doctor registered on the App.
-	-Private Consultation
-		>A medical query by an individual can be answered only by a particular doctor of that person's choice 
+	* General Consultation
+		* A Medical Qeury by an individual can be answered by any doctor registered on the App.
+	* Private Consultation
+		* A medical query by an individual can be answered only by a particular doctor of that person's choice 
 		
 2. Blood Bank using local conectivity
-	-To be able to find people(who have the app installed) of the same blood type within a certain(eg 1km) radius
-	-A user will have to switch on(and agree to) this facility if they want to receive requests to donate blood
+	* To be able to find people(who have the app installed) of the same blood type within a certain(eg 1km) radius
+	* A user will have to switch on(and agree to) this facility if they want to receive requests to donate blood
 	
 3. Accelerometer
-	-For the elderly 
-	-Configure to the Band and send notification to emergency contact and people within 1 km radius during emergency. (testing this using acceleration)
+	* Configure the Band to send notification to emergency contact and people during an emergency. (testing this using acceleration)
+	* For the elderly - Detect fall or loss of balance
 	
 4. Background Montioring of HeartBeat Using Microsoft Band
-	-to continuously track heart-beat in background and get a graph
+	* To continuously track heart-beat in background and plot a graph. Right now the heartbeat monitor works only when the App is open.
 	
 5. Voice Control for visually impared
-	-to empower the visually impaired community.
+	* To empower the visually impaired community.
 	
 6. Calorie Calculator
-	-Calculates the calorie in-take
+	* Calculate the calorie in-take
 	
 7. Health Tips
-	-Daily Health tips
+	* Daily Health tips
