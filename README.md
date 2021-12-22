@@ -40,7 +40,7 @@ alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" /></a>
 
 ## Implemented Features:
 
-The primary feature of the app is to **store and manage Medical records and documents in a structured manner over a cloud server** i.e. Microsoft Azure. The records can be accessed from anywhere using the user's credentials.
+The primary feature of the app is to **store and manage Medical records and documents in a structured manner over a cloud server** i.e. Microsoft Azure. The records can be accessed by healtcare professionals after OTP based authentication.
 
 Other signfact features include: 
 
