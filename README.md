@@ -45,35 +45,36 @@ The primary feature of the app is to **store and manage Medical records and docu
 Other signfact features include: 
 
 1. Emergency Message
-	-sends co-ordinates of current location to the 3 saved emergency contacts
+	- Send co-ordinates of current location to the 3 saved emergency contacts
 	
 2. Call a doctor
-	-one tap call to the 3 saved emergency doctor contacts
+	- One tap call to the 3 saved emergency doctor contacts
 	
 3. Notifications
-	-to set reminders about pills and appointments with doctor
+	- Set reminders about pills and doctor/lab appointments
 	
 4. Store Records
-	-to store medical history including X-rays and prescriptions
+	- Store medical history including X-rays and prescriptions chronologically 
 	
 5. Nearby Hospitals
-	-finds nearby hospital in the 5km radius and its route upon selecting a hospital
+	- Find nearest hospitals and its route upon selecting a hospital
 	
 6. Find Medicines
-	-finds medicines containing a particular drug and its alternative if that drug is not present in the store
+	- Find medicines containing a particular drug and its alternative if that drug is not present in the store
 	
 7. Blood Bank
-	-can find Blood Banks by searching a)by city name b) by pin code c) by using GPS
+	- Find nearest blood banks by searching (a) by city name, (b) by pin code, (c) by using GPS
 	
 8. Heartbeat
-	-configured with the Microsoft Band to find HeartBeat , Skin Temperature, UV Exposure.
+	- Configured with the Microsoft Band to find HeartBeat , Skin Temperature, UV Exposure.
 	
 9. BMI Calculator
-	-Finds the BMI based on height and weight Input
+	- Calculates the BMI based on height and weight Input
 	
 10. Web Portal
-	-a web portal which allows patient's medical history to be viewed
-	-a unique username and password for each patient
+	- A web portal which allows patient's medical history to be viewed
+	- A unique username and password for each patient
+	- OTP based authentication for the authorized viewers such as a doctor
 	
 
 
