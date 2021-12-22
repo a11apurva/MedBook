@@ -11,16 +11,26 @@ Team Members:
 - Yashashvi Tarana
 
 ## Demo Video
-
-
+<br/>
 
 <a href="https://www.youtube.com/watch?v=dAF8IR7sbRw&feature=youtu.be
 " target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/YouTube_logo_%282017%29.png" 
 alt="IMAGE ALT TEXT HERE" width="220" height="45" border="10" /></a>
 
+<br/>
 
+## MedBook Alexa skill
 
-## How to install  
+<a href="https://www.amazon.com/dp/B07CR86TBF/ref=syps?s=digital-skills&ie=UTF8&qid=1526462108&sr=1-1&keywords=MedBook" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/516NZCAAvgL.png" 
+alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" /></a>
+
+[MedBook](https://www.amazon.com/dp/B07CR86TBF/ref=syps?s=digital-skills&ie=UTF8&qid=1526462108&sr=1-1&keywords=MedBook) is also your one stop Alexa skill for all your Medical queries.
+
+[MedBook-Alexa GitHub Repo](https://github.com/a11apurva/MedBook-Alexa)
+
+<br/>
+
+## Steps to install the app
  
 - MedBook is built for Windows Phone 8.1 and above. 
 - To run the application, deploy the application on Windows Phone 8.1 platform or above. 
@@ -67,9 +77,6 @@ Other signfact features include:
 	
 
 
-
-
-
 ## Future Implementation:
 
 1. General/Private Consultation
@@ -98,14 +105,7 @@ Other signfact features include:
 7. Health Tips
 	* Daily Health tips
 	
-# MedBook Alexa skill
 
-<a href="https://www.amazon.com/dp/B07CR86TBF/ref=syps?s=digital-skills&ie=UTF8&qid=1526462108&sr=1-1&keywords=MedBook" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/516NZCAAvgL.png" 
-alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" /></a>
-
-[MedBook](https://www.amazon.com/dp/B07CR86TBF/ref=syps?s=digital-skills&ie=UTF8&qid=1526462108&sr=1-1&keywords=MedBook) is your one stop Alexa skill for all your Medical queries.
-
-[MedBook-Alexa GitHub Repo](https://github.com/a11apurva/MedBook-Alexa)
 
 
 
